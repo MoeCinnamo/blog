@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+  <channel>
+    <title>天堂里的猫</title>
+    <link>https://blog.mojy.xyz</link>
+    <description>天堂里快乐的猫咪</description>
+    <copyright>SANYIMOE Inc.</copyright>
+    <language>zh-cn</language>
+    <pubDate>2022-03-27 21:03:02</pubDate>
+    <lastBuildDate>2022-03-29 11:36:03</lastBuildDate>
+    <generator>XML</generator>
+    <item>
+      <title>友链 | 天堂里的猫</title>
+      <link>https://blog.mojy.xyz/pages/links/</link>
+      <description>友链 | 天堂里的猫</description>
+      <pubDate>2022-04-07 12:02:12</pubDate>
+      <lastBuildDate>2022-04-07 20:05:03</lastBuildDate>
+      <category>Pages</category>
+      <author>玉桂喵</author>
+    </item>
+    <item>
+      <title>分类 | 天堂里的猫</title>
+      <link>https://blog.mojy.xyz/pages/categories/</link>
+      <description>分类 | 天堂里的猫</description>
+      <pubDate>2022-04-07 12:02:12</pubDate>
+      <lastBuildDate>2022-04-07 20:05:03</lastBuildDate>
+      <category>Pages</category>
+      <author>玉桂喵</author>
+    </item>
+    <item>
+      <title>标签 | 天堂里的猫</title>
+      <link>https://blog.mojy.xyz/pages/tags/</link>
+      <description>标签 | 天堂里的猫</description>
+      <pubDate>2022-04-07 12:02:12</pubDate>
+      <lastBuildDate>2022-04-07 20:05:03</lastBuildDate>
+      <category>Pages</category>
+      <author>玉桂喵</author>
+    </item>
+    <item>
+      <title>时光机 | 天堂里的猫</title>
+      <link>https://blog.mojy.xyz/pages/timemachine/</link>
+      <description>时光机 | 天堂里的猫</description>
+      <pubDate>2022-04-07 12:02:12</pubDate>
+      <lastBuildDate>2022-04-07 20:05:03</lastBuildDate>
+      <category>Pages</category>
+      <author>玉桂喵</author>
+    </item>
+    <item>
+      <title>文章 | 天堂里的猫</title>
+      <link>https://blog.mojy.xyz/pages/archives/</link>
+      <description>文章 | 天堂里的猫</description>
+      <pubDate>2022-04-07 12:02:12</pubDate>
+      <lastBuildDate>2022-04-07 20:05:03</lastBuildDate>
+      <category>Pages</category>
+      <author>玉桂喵</author>
+    </item>
+    <item>
+      <title>关于 | 天堂里的猫</title>
+      <link>https://blog.mojy.xyz/pages/about/</link>
+      <description>关于 | 天堂里的猫</description>
+      <pubDate>2022-04-07 12:02:12</pubDate>
+      <lastBuildDate>2022-04-07 20:05:03</lastBuildDate>
+      <category>Pages</category>
+      <author>玉桂喵</author>
+    </item>
+  </channel>
+</rss>
