@@ -3,73 +3,85 @@
 
 <url>
   <loc>https://blog.mojy.xyz/</loc>
-  <lastmod>2022-04-23T12:18:08+00:00</lastmod>
+  <lastmod>2022-04-23</lastmod>
+  <changefreq>always</changefreq>
   <priority>1.00</priority>
 </url>
   
 <url>
   <loc>https://blog.mojy.xyz/index.html</loc>
-  <lastmod>2022-04-23T12:18:08+00:00</lastmod>
+  <lastmod>2022-04-23</lastmod>
+  <changefreq>always</changefreq>
   <priority>1.00</priority>
 </url>
       
 <url>
   <loc>https://blog.mojy.xyz/archives/</loc>
-  <lastmod>2022-04-23T12:18:08+00:00</lastmod>
+  <lastmod>2022-04-23</lastmod>
+  <changefreq>always</changefreq>
   <priority>0.80</priority>
 </url>
       
 <url>
   <loc>https://blog.mojy.xyz/tags/</loc>
-  <lastmod>2022-04-23T12:18:08+00:00</lastmod>
+  <lastmod>2022-04-23</lastmod>
+  <changefreq>always</changefreq>
   <priority>0.80</priority>
 </url>
       
 <url>
   <loc>https://blog.mojy.xyz/categories/</loc>
-  <lastmod>2022-04-23T12:18:08+00:00</lastmod>
+  <lastmod>2022-04-23</lastmod>
+  <changefreq>always</changefreq>
   <priority>0.80</priority>
 </url>
       
 <url>
   <loc>https://blog.mojy.xyz/about.html</loc>
-  <lastmod>2022-04-23T12:18:08+00:00</lastmod>
+  <lastmod>2022-04-23</lastmod>
+  <changefreq>always</changefreq>
   <priority>0.80</priority>
 </url>
       
 <url>
   <loc>https://blog.mojy.xyz/timemachine/</loc>
-  <lastmod>2022-04-23T12:18:08+00:00</lastmod>
+  <lastmod>2022-04-23</lastmod>
+  <changefreq>always</changefreq>
   <priority>0.80</priority>
 </url>
       
 <url>
   <loc>https://blog.mojy.xyz/links.html</loc>
-  <lastmod>2022-04-23T12:18:08+00:00</lastmod>
+  <lastmod>2022-04-23</lastmod>
+  <changefreq>always</changefreq>
   <priority>0.80</priority>
 </url>
       
 <url>
   <loc>https://blog.mojy.xyz/categories/list/jilu.html</loc>
-  <lastmod>2022-04-23T12:18:08+00:00</lastmod>
+  <lastmod>2022-04-23</lastmod>
+  <changefreq>always</changefreq>
   <priority>0.64</priority>
 </url>
   
 <url>
   <loc>https://blog.mojy.xyz/timemachine/say/2022/say-1.html</loc>
-  <lastmod>2022-04-23T12:18:08+00:00</lastmod>
+  <lastmod>2022-04-23</lastmod>
+  <changefreq>always</changefreq>
   <priority>0.64</priority>
 </url>
   
 <url>
   <loc>https://blog.mojy.xyz/timemachine/say/1970/say-2.html</loc>
-  <lastmod>2022-04-23T12:18:08+00:00</lastmod>
+  <lastmod>2022-04-23</lastmod>
+  <changefreq>always</changefreq>
   <priority>0.64</priority>
 </url>
   
 <url>
   <loc>https://blog.mojy.xyz/timemachine/say/1970/say-1.html</loc>
-  <lastmod>2022-04-23T12:18:08+00:00</lastmod>
+  <lastmod>2022-04-23</lastmod>
+  <changefreq>always</changefreq>
   <priority>0.64</priority>
 </url>
 
