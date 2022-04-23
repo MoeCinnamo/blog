@@ -8,19 +8,19 @@
 </url>
       
 <url>
-  <loc>https://blog.mojy.xyz/archives/</loc>
+  <loc>https://blog.mojy.xyz/archives</loc>
   <lastmod>2022-04-23T12:18:08+00:00</lastmod>
   <priority>0.80</priority>
 </url>
       
 <url>
-  <loc>https://blog.mojy.xyz/tags/</loc>
+  <loc>https://blog.mojy.xyz/tags</loc>
   <lastmod>2022-04-23T12:18:08+00:00</lastmod>
   <priority>0.80</priority>
 </url>
       
 <url>
-  <loc>https://blog.mojy.xyz/categories/</loc>
+  <loc>https://blog.mojy.xyz/categories</loc>
   <lastmod>2022-04-23T12:18:08+00:00</lastmod>
   <priority>0.80</priority>
 </url>
@@ -32,7 +32,7 @@
 </url>
       
 <url>
-  <loc>https://blog.mojy.xyz/timemachine/</loc>
+  <loc>https://blog.mojy.xyz/timemachine</loc>
   <lastmod>2022-04-23T12:18:08+00:00</lastmod>
   <priority>0.80</priority>
 </url>
@@ -48,21 +48,23 @@
   <lastmod>2022-04-23T12:18:08+00:00</lastmod>
   <priority>0.64</priority>
 </url>
+  
 <url>
   <loc>https://blog.mojy.xyz/timemachine/say/2022/say-1.html</loc>
   <lastmod>2022-04-23T12:18:08+00:00</lastmod>
   <priority>0.64</priority>
 </url>
+  
 <url>
   <loc>https://blog.mojy.xyz/timemachine/say/1970/say-2.html</loc>
   <lastmod>2022-04-23T12:18:08+00:00</lastmod>
   <priority>0.64</priority>
 </url>
+  
 <url>
   <loc>https://blog.mojy.xyz/timemachine/say/1970/say-1.html</loc>
   <lastmod>2022-04-23T12:18:08+00:00</lastmod>
   <priority>0.64</priority>
 </url>
-
 
 </urlset>
