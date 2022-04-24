@@ -363,18 +363,13 @@
           <article class="post-content" id="article-container">
             <h2 id="序"><a href="#序" class="headerlink" title="序"></a>序</h2>
             <p>Github是一个不错的开发者平台，但是由于中国网关管理日渐严格，因此导致github出现了很多的问题，比如图裂、访问慢等，我们为了解决这些问题，可谓是费尽心思。</p>
-            <p>最后，我好不容易找到了一个不错的项目，可以让大家完全能通过修改hosts访问Github；但是我发现，我家使用的路由器是爱快路由，我也不想让每个设备都修改一遍hosts达到上github的目的。</p>
+            <p>最后，我好不容易找到了<a href="https://github.com/521xueweihan/GitHub520" target="_blank">GitHub520</a>这一个不错的项目，可以让大家完全能通过修改hosts访问Github；但是我发现，我家使用的路由器是爱快路由，我也不想让每个设备都修改一遍hosts达到上github的目的(主要是麻烦)。</p>
             <p>我采用了这种方法进行设置，为了让大家方便，我写了这篇文章。</p>
-            
             <h2 id="言"><a href="#言" class="headerlink" title="言"></a>言</h2>
             <h3 id="教程"><a href="#教程" class="headerlink" title="教程"></a>教程</h3>
-            <p></p>
-            <p>不，这里贴出我的解决方案</p>
-            <blockquote>
-              <p>具体可以实现的功能: url实时刷新，url间接访问</p>
-              <p>有点晦涩难懂…看效果(这是我用这个方法搭建的站): <a target="_blank" rel="noopener" href="https://o.xurl.ga/">Public - xihale</a></p>
-            </blockquote>
-            <h3 id="搭建教程"><a href="#搭建教程" class="headerlink" title="搭建教程"></a>搭建教程</h3>
+            <p>我开始四处寻找hosts设置，但是发现，爱快路由系统是没有hosts选项的；但是我找到了dns反向代理功能，我想，这个功能应该也和hosts差不多才对吧</p>
+            <p>不过，我理解错了，我尝试导入hosts文件，但是失败了，说明和hosts并不同。</p>
+            <h3 id="设置教程"><a href="#设置教程" class="headerlink" title="设置教程"></a>设置教程</h3>
             <ol>
               <li>
                 <p>首先把这段代码加入到要代理的页面(实现url刷新的基本)</p>
