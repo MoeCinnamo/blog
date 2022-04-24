@@ -3,11 +3,12 @@ https://blog.mojy.xyz/index.html
 https://blog.mojy.xyz/404.html
 https://blog.mojy.xyz/about.html
 https://blog.mojy.xyz/archives
-https://blog.mojy.xyz/timemachine/
-https://blog.mojy.xyz/tags/
-https://blog.mojy.xyz/categories/
+https://blog.mojy.xyz/timemachine
+https://blog.mojy.xyz/tags
+https://blog.mojy.xyz/categories
 https://blog.mojy.xyz/links.html
-https://blog.mojy.xyz/categories/list/jilu.html
+https://blog.mojy.xyz/categories/record.html
+https://blog.mojy.xyz/categories/share.html
 https://blog.mojy.xyz/timemachine/say/2022/say-1.html
 https://blog.mojy.xyz/timemachine/say/1970/say-1.html
 https://blog.mojy.xyz/timemachine/say/1970/say-2.html
