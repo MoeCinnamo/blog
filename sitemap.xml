@@ -20,21 +20,21 @@ http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 </url>
       
 <url>
-  <loc>https://blog.mojy.xyz/archives/</loc>
+  <loc>https://blog.mojy.xyz/archives</loc>
   <lastmod>2022-04-23</lastmod>
   <changefreq>always</changefreq>
   <priority>0.80</priority>
 </url>
       
 <url>
-  <loc>https://blog.mojy.xyz/tags/</loc>
+  <loc>https://blog.mojy.xyz/tags</loc>
   <lastmod>2022-04-23</lastmod>
   <changefreq>always</changefreq>
   <priority>0.80</priority>
 </url>
       
 <url>
-  <loc>https://blog.mojy.xyz/categories/</loc>
+  <loc>https://blog.mojy.xyz/categories</loc>
   <lastmod>2022-04-23</lastmod>
   <changefreq>always</changefreq>
   <priority>0.80</priority>
@@ -48,7 +48,7 @@ http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 </url>
       
 <url>
-  <loc>https://blog.mojy.xyz/timemachine/</loc>
+  <loc>https://blog.mojy.xyz/timemachine</loc>
   <lastmod>2022-04-23</lastmod>
   <changefreq>always</changefreq>
   <priority>0.80</priority>
@@ -62,7 +62,14 @@ http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 </url>
       
 <url>
-  <loc>https://blog.mojy.xyz/categories/list/jilu.html</loc>
+  <loc>https://blog.mojy.xyz/categories/record.html</loc>
+  <lastmod>2022-04-23</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
+</url>
+  
+<url>
+  <loc>https://blog.mojy.xyz/categories/share.html</loc>
   <lastmod>2022-04-23</lastmod>
   <changefreq>always</changefreq>
   <priority>0.64</priority>
