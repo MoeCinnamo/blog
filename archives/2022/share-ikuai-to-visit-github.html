@@ -501,18 +501,21 @@
                   <li><p>用<code>https</code>访问站点，并把代理代码中的<code>Page</code>变量改为 <code>https</code> 格式</p></li>
                   <li><p>在配置文档( <code>https</code> 申明处 )中加入 <code>Set-Cookie: Secure;SameSite=None;</code>配置</p>
                     <p>这里用 <code>apache</code> 的 <code>example</code> :</p>
-                    <figure class="highlight plaintext">
-                      <table>
-                        <tr>
-                          <td class="gutter"><pre><span class="line">1</span><br></pre></td>
-                          <td class="code"><pre><span class="line">Header always edit Set-Cookie ^(.*)$ &quot;$1;Secure;SameSite=None;&quot;</span><br></pre></td>
-                        </tr>
-                      </table>
-                    </figure>
+                    
                   </li>
                 </ol>
               </li>
             </ol>
+            
+            <!-- <figure class="highlight 源代码类型：html/php/plaintext/markdown">
+              <table>
+                <tr>
+                  <td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td>
+                  <td class="code"><pre><span class="line">第一行</span><br><span class="line">第二行</span><br></pre></td>
+                </tr>
+              </table>
+            </figure> -->
+            
           </article>
           <div class="post-copyright">
             <div class="post-copyright__author">
