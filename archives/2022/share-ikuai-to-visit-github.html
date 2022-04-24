@@ -368,131 +368,16 @@
             <h2 id="言"><a href="#言" class="headerlink" title="言"></a>言</h2>
             <h3 id="前期"><a href="#前期" class="headerlink" title="前期"></a>前期</h3>
             <p>我开始四处寻找hosts设置，但是发现，爱快路由系统是没有hosts选项的；但是我找到了dns反向代理功能，我想，这个功能应该也和hosts差不多才对吧</p>
-            <p>不过，我理解错了，我尝试导入hosts文件，但是失败了，说明和hosts并不同。</p>
+            <p>不过，我理解错了，我尝试导入hosts文件，但是失败了，说明和hosts并不同，然后我就手动进行设置。</p>
             <h3 id="设置教程"><a href="#设置教程" class="headerlink" title="设置教程"></a>设置教程</h3>
             <ol>
-              <li>
-                <p>首先把这段代码加入到要代理的页面(实现url刷新的基本)</p>
-                <p>关于这个，如果是php伪静态的话建议加在主题文件内(防止干扰其他页面的问题,<code>OneManager</code>就遇到了这个问题)</p>
-                <figure class="highlight html">
-                  <table>
-                    <tr>
-                      <td class="gutter">
-                        <pre>
-                          <span class="line">1</span><br>
-                          <span class="line">2</span><br>
-                          <span class="line">3</span><br>
-                        </pre>
-                      </td>
-                      <td class="code">
-                        <pre>
-                          <span class="line"><span class="tag">&lt;<span class="name">script</span>&gt;</span><span class="javascript"></span></span><br>
-                          <span class="line"><span class="javascript">top.postMessage(location.pathname+location.search+location.hash, <span class="string">&quot;*&quot;</span>);</span></span><br>
-                          <span class="line"><span class="javascript"></span><span class="tag">&lt;/<span class="name">script</span>&gt;</span></span><br>
-                        </pre>
-                      </td>
-                    </tr>
-                  </table>
-                </figure>
-              </li>
-              <li>
-                <p>然后自己用国外服务器搭建一个<code>代理站</code>填入<code>index.html</code>(记得把<code>Page</code>变量改为要代理的页面)</p>
-                <blockquote>
-                  <p>注: 这里改链接为锚点形式是为了方便单文件读取</p>
-                </blockquote>
-                <figure class="highlight html">
-                  <table>
-                    <tr>
-                      <td class="gutter">
-                        <pre>
-                          <span class="line">1</span><br>
-                          <span class="line">2</span><br>
-                          <span class="line">3</span><br>
-                          <span class="line">4</span><br>
-                          <span class="line">5</span><br>
-                          <span class="line">6</span><br>
-                          <span class="line">7</span><br>
-                          <span class="line">8</span><br>
-                          <span class="line">9</span><br>
-                          <span class="line">10</span><br>
-                          <span class="line">11</span><br>
-                          <span class="line">12</span><br>
-                          <span class="line">13</span><br>
-                          <span class="line">14</span><br>
-                          <span class="line">15</span><br>
-                          <span class="line">16</span><br>
-                          <span class="line">17</span><br>
-                          <span class="line">18</span><br>
-                          <span class="line">19</span><br>
-                          <span class="line">20</span><br>
-                          <span class="line">21</span><br>
-                          <span class="line">22</span><br>
-                          <span class="line">23</span><br>
-                          <span class="line">24</span><br>
-                          <span class="line">25</span><br>
-                          <span class="line">26</span><br>
-                          <span class="line">27</span><br>
-                          <span class="line">28</span><br>
-                          <span class="line">29</span><br>
-                          <span class="line">30</span><br>
-                          <span class="line">31</span><br>
-                          <span class="line">32</span><br>
-                          <span class="line">33</span><br>
-                        </pre>
-                      </td>
-                      <td class="code">
-                        <pre>
-                          <span class="line"><span class="meta">&lt;!DOCTYPE <span class="meta-keyword">html</span>&gt;</span></span><br>
-                          <span class="line"><span class="tag">&lt;<span class="name">html</span>&gt;</span></span><br>
-                          <span class="line"><span class="tag">&lt;<span class="name">head</span>&gt;</span></span><br>
-                          <span class="line"><span class="tag">&lt;<span class="name">title</span>&gt;</span>Public - xihale<span class="tag">&lt;/<span class="name">title</span>&gt;</span></span><br>
-                          <span class="line"><span class="tag">&lt;<span class="name">style</span>&gt;</span><span class="css"></span></span><br>
-                          <span class="line"><span class="css"><span class="selector-tag">html</span>&#123;</span></span><br>
-                          <span class="line"><span class="css"><span class="attribute">height</span>: <span class="number">100%</span>;</span></span><br>
-                          <span class="line"><span class="css"><span class="attribute">width</span>: <span class="number">100%</span>;</span></span><br>
-                          <span class="line"><span class="css">&#125;</span></span><br>
-                          <span class="line"><span class="css"><span class="selector-tag">iframe</span>&#123;</span></span><br>
-                          <span class="line"><span class="css"><span class="attribute">position</span>: absolute;</span></span><br>
-                          <span class="line"><span class="css"><span class="attribute">top</span>: <span class="number">0</span>;</span></span><br>
-                          <span class="line"><span class="css"><span class="attribute">left</span>: <span class="number">0</span>;</span></span><br>
-                          <span class="line"><span class="css"><span class="attribute">height</span>: <span class="number">100%</span>;</span></span><br>
-                          <span class="line"><span class="css"><span class="attribute">width</span>: <span class="number">100%</span>;</span></span><br>
-                          <span class="line"><span class="css"><span class="attribute">border</span>: none;</span></span><br>
-                          <span class="line"><span class="css">&#125;</span></span><br>
-                          <span class="line"><span class="css"></span><span class="tag">&lt;/<span class="name">style</span>&gt;</span></span><br>
-                          <span class="line"><span class="tag">&lt;/<span class="name">head</span>&gt;</span></span><br>
-                          <span class="line"><span class="tag">&lt;<span class="name">body</span>&gt;</span></span><br>
-                          <span class="line"><span class="tag">&lt;<span class="name">iframe</span><span class="attr">id</span>=<span class="string">&quot;page&quot;</span><span class="attr">src</span>=<span class="string">&quot;&quot;</span>&gt;</span><span class="tag">&lt;/<span class="name">iframe</span>&gt;</span></span><br>
-                          <span class="line"><span class="tag">&lt;<span class="name">script</span>&gt;</span><span class="javascript"></span></span><br>
-                          <span class="line"><span class="javascript"><span class="keyword">const</span> Page=<span class="string">`http://`</span>;</span></span><br>
-                          <span class="line"><span class="javascript"><span class="built_in">document</span>.getElementById(<span class="string">&quot;page&quot;</span>).src=Page+location.hash.slice(<span class="number">1</span>);</span></span><br>
-                          <span class="line"><span class="javascript"><span class="built_in">window</span>.addEventListener(<span class="string">&quot;load&quot;</span>,<span class="function">()=&gt;</span>&#123;</span></span><br>
-                          <span class="line"><span class="javascript"><span class="built_in">window</span>.addEventListener(<span class="string">&quot;message&quot;</span>,<span class="function">(<span class="params">e</span>)=&gt;</span>&#123;</span></span><br>
-                          <span class="line"><span class="javascript"><span class="built_in">console</span>.log(e.data);</span></span><br>
-                          <span class="line"><span class="javascript"><span class="built_in">window</span>.history.pushState(&#123;&#125;,<span class="number">0</span>,location.origin+<span class="string">&#x27;#&#x27;</span>+e.data);</span></span><br>
-                          <span class="line"><span class="javascript">&#125;);</span></span><br>
-                          <span class="line"><span class="javascript">&#125;);</span></span><br>
-                          <span class="line"><span class="javascript"></span><span class="tag">&lt;/<span class="name">script</span>&gt;</span></span><br> 
-                          <span class="line"><span class="tag">&lt;/<span class="name">body</span>&gt;</span></span><br>
-                          <span class="line"><span class="tag">&lt;/<span class="name">html</span>&gt;</span></span><br>
-                        </pre>
-                      </td>
-                    </tr>
-                  </table>
-                </figure>
-              </li>
-              <li><p>然后访问代理页面就相当于正常访问源站了</p></li>
-              <li><p>cookie 跨站问题</p>
-                <ol>
-                  <li><p>首先得去注册 <code>ip</code> 的证书</p></li>
-                  <li><p>用<code>https</code>访问站点，并把代理代码中的<code>Page</code>变量改为 <code>https</code> 格式</p></li>
-                  <li><p>在配置文档( <code>https</code> 申明处 )中加入 <code>Set-Cookie: Secure;SameSite=None;</code>配置</p>
-                    <p>这里用 <code>apache</code> 的 <code>example</code> :</p>
-                    
-                  </li>
-                </ol>
-              </li>
+              <li><p>点击左边栏网络设置 -> DHCP设置 -> DHCP服务端，把所有服务接口的默认DNS和网关都改成爱快路由(如果只有一个ip分配给爱快路由，DNS可以填写两个一样的或只填写第一个)。</p></li>
+              <li><p>点击网络设置 -> DNS设置 -> DNS设置，开启DNS加速服务，DNS加速模式为：”代理模式(UDP)”并开启强制客户端DNS代理。</p></li>
+              <li><p>下滑找到DNS代理，挨个添加<a href="https://github.com/521xueweihan/GitHub520" target="_blank">GitHub520</a>的Hosts即可</p></li>
+              <li>为了简化过程，我特意新建了文件，大家可以下载这个文件后进行简单的设置即可使用。<a href="https://github.com/521xueweihan/GitHub520/files/8495022/iKuai-github-dns-update-by-2022-04-11-11%2B31%2B10.txt" target="_blank">有点老的文件</a>。</li>
             </ol>
+          </li>
+        </ol>
             
 <!--
 <figure class="highlight 源代码类型：html/php/plaintext/markdown">
