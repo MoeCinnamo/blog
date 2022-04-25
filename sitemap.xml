@@ -25,6 +25,20 @@ http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
   <changefreq>always</changefreq>
   <priority>0.80</priority>
 </url>
+  
+<url>
+  <loc>https://blog.mojy.xyz/archives/2022/share-ikuai-to-visit-github.html</loc>
+  <lastmod>2022-04-25</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
+</url>
+  
+<url>
+  <loc>https://blog.mojy.xyz/archives/2022/the-moral-bottom-line.html</loc>
+  <lastmod>2022-04-25</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
+</url>
       
 <url>
   <loc>https://blog.mojy.xyz/tags</loc>
@@ -106,13 +120,6 @@ http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <url>
   <loc>https://blog.mojy.xyz/timemachine/say/1970/say-1.html</loc>
   <lastmod>2022-04-23</lastmod>
-  <changefreq>always</changefreq>
-  <priority>0.64</priority>
-</url>
-  
-<url>
-  <loc>https://blog.mojy.xyz/archives/2022/share-ikuai-to-visit-github.html</loc>
-  <lastmod>2022-04-25</lastmod>
   <changefreq>always</changefreq>
   <priority>0.64</priority>
 </url>
