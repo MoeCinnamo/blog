@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>天堂里の猫</title>
-  <link href="/atom.xml" rel="self"/>
   <link href="/feed.xml" rel="self"/>
   <link href="https://blog.mojy.xyz"/>
   <updated>2022-04-25T13:12:18.587Z</updated>
