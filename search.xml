@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   
+  <!-- 
+  <entry>
+    <title>文章题目</title>
+    <url>文章地址(不含主域名)</url>
+    <content>文章简介</content>
+  </entry>
+  -->
+  
   <entry>
     <title>高底线，可推动营造美好社会</title>
     <url>/archives/2022/the-moral-bottom-line.html</url>
