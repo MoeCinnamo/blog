@@ -15,13 +15,13 @@
 <link>文章链接</link>
 <guid>文章链接</guid>
 <description>
-	<![CDATA[
-      <blockquote>
-        该渲染由 玉桂RSS 生成, 可能存在部分语句不通或者排版问题, 最佳体验请前往: <a href=文章全部URL>文章全部URL</a>
-      </blockquote>
-      文章内容(HTML)
-      <p style="text-align: right"><a href=文章评论区URL>看完了？说点什么呢</a></p>
-      ]]>
+  <![CDATA[
+    <blockquote>
+      该渲染由 玉桂RSS 生成, 可能存在部分语句不通或者排版问题, 最佳体验请前往: <a href=文章全部URL>文章全部URL</a>
+    </blockquote>
+    文章内容(HTML)
+    <p style="text-align: right"><a href=文章评论区URL>看完了？说点什么呢</a></p>
+  ]]>
 </description>
 <author>作者</author>
 <pubDate>Tue, 26 Apr 2022 08:30:15 +0800</pubDate>
@@ -33,8 +33,7 @@
 <link>https://blog.mojy.xyz/archives/2022/the-moral-bottom-line.html</link>
 <guid>https://blog.mojy.xyz/archives/2022/the-moral-bottom-line.html</guid>
 <description>
-	<![CDATA[
-            <blockquote>
+<![CDATA[<blockquote>
         该渲染由 玉桂RSS 生成, 可能存在部分语句不通或者排版问题, 最佳体验请前往: <a href=https://blog.mojy.xyz/archives/2022/the-moral-bottom-line.html>https://blog.mojy.xyz/archives/2022/the-moral-bottom-line.html</a>
       </blockquote>
       <h1 id=高底线，可推动营造美好社会>高底线，可推动营造美好社会</h1>
