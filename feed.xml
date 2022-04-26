@@ -17,6 +17,25 @@
     <link>https://blog.mojy.xyz</link>
   </image>
   
+  <!--
+  <entry>
+    <title>文章标题</title>
+    <link href='文章全部URL'/>
+    <id>文章全部URL</id>
+    <published>Mon Apr 25 2022 13:12:18 GMT+0800 (China Standard Time)</published>
+    <updated>Mon Apr 25 2022 13:12:18 GMT+0800 (China Standard Time)</updated>
+    <content type='html'>
+      <![CDATA[
+      <blockquote>
+        该渲染由 玉桂RSS 生成, 可能存在部分语句不通或者排版问题, 最佳体验请前往: <a href=文章全部URL>文章全部URL</a>
+      </blockquote>
+      文章内容(HTML)
+      <p style="text-align: right"><a href=文章评论区URL>看完了？说点什么呢</a></p>
+      ]]>
+    </content>
+  </entry>
+  -->
+  
   <entry>
     <title>【分享】只需4步，爱快路由轻松访问github</title>
     <link href='https://blog.mojy.xyz/archives/2022/share-ikuai-to-visit-github.html'/>
