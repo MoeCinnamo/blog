@@ -1,50 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-  <title>天堂里の猫</title>
-  <link href="/feed.xml" rel="self"/>
-  <link href="https://blog.mojy.xyz"/>
-  <updated>2022-04-26T08:30:18.587Z</updated>
-  <id>https://blog.mojy.xyz</id>
-  <author>
-    <name>玉桂喵</name>
-  </author>
-  <generator>iBlog</generator>
-  <lastBuildDate>2022-04-26T08:30:18.587Z</lastBuildDate>
-  <language>zh-CN</language>
-  <image>
-    <url>https://s1.ax1x.com/2022/03/27/qBQSoR.jpg </url>
-    <title>天堂里の猫</title>
-    <link>https://blog.mojy.xyz</link>
-  </image>
-  
-  <!--
-  <entry>
-    <title>文章标题</title>
-    <link href='文章全部URL'/>
-    <id>文章全部URL</id>
-    <published>Mon Apr 25 2022 13:12:18 GMT+0800 (China Standard Time)</published>
-    <updated>Mon Apr 25 2022 13:12:18 GMT+0800 (China Standard Time)</updated>
-    <content type='html'>
-      <![CDATA[
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<channel>
+<title>天堂里の猫</title>
+<link>https://blog.mojy.xyz</link>
+<description>天堂里健康快乐的小猫咪</description>
+<language>zh-CN</language>
+<managingEditor>玉桂喵</managingEditor>
+<pubDate>Tue, 26 Apr 2022 08:30:18 +0800</pubDate>
+
+<!--
+<item>
+<title>文章标题</title>
+<link>文章链接</link>
+<guid>文章链接</guid>
+<description>
+	<![CDATA[
       <blockquote>
         该渲染由 玉桂RSS 生成, 可能存在部分语句不通或者排版问题, 最佳体验请前往: <a href=文章全部URL>文章全部URL</a>
       </blockquote>
       文章内容(HTML)
       <p style="text-align: right"><a href=文章评论区URL>看完了？说点什么呢</a></p>
       ]]>
-    </content>
-  </entry>
-  -->
-  
-    <entry>
-    <title>高底线，可推动营造美好社会</title>
-    <link href='https://blog.mojy.xyz/archives/2022/the-moral-bottom-line.html'/>
-    <id>https://blog.mojy.xyz/archives/2022/the-moral-bottom-line.html</id>
-    <published>Mon Apr 25 2022 13:12:18 GMT+0800 (China Standard Time)</published>
-    <updated>Tue Apr 26 2022 08:30:18 GMT+0800 (China Standard Time)</updated>
-    <content type='html'>
-      <![CDATA[
-      <blockquote>
+</description>
+<author>作者</author>
+<pubDate>Tue, 26 Apr 2022 08:30:15 +0800</pubDate>
+</item>
+-->
+
+<item>
+<title>高底线，可推动营造美好社会</title>
+<link>https://blog.mojy.xyz/archives/2022/the-moral-bottom-line.html</link>
+<guid>https://blog.mojy.xyz/archives/2022/the-moral-bottom-line.html</guid>
+<description>
+	<![CDATA[
+            <blockquote>
         该渲染由 玉桂RSS 生成, 可能存在部分语句不通或者排版问题, 最佳体验请前往: <a href=https://blog.mojy.xyz/archives/2022/the-moral-bottom-line.html>https://blog.mojy.xyz/archives/2022/the-moral-bottom-line.html</a>
       </blockquote>
       <h1 id=高底线，可推动营造美好社会>高底线，可推动营造美好社会</h1>
@@ -124,17 +114,17 @@
 	    <p>百度百科.别针换别墅 <a href=https://baike.baidu.com/item/%E5%88%AB%E9%92%88%E6%8D%A2%E5%88%AB%E5%A2%85>https://baike.baidu.com/item/%E5%88%AB%E9%92%88%E6%8D%A2%E5%88%AB%E5%A2%85</a></p>
       <p style="text-align: right"><a href=https://github.com/Cinnamoroll-Rabbit/blog/issues/4>看完了？说点什么呢</a></p>
       ]]>
-    </content>
-  </entry>
-  
-  <entry>
-    <title>【分享】只需4步，爱快路由轻松访问github</title>
-    <link href='https://blog.mojy.xyz/archives/2022/share-ikuai-to-visit-github.html'/>
-    <id>https://blog.mojy.xyz/archives/2022/share-ikuai-to-visit-github.html</id>
-    <published>Mon Apr 25 2022 13:12:18 GMT+0800 (China Standard Time)</published>
-    <updated>Mon Apr 25 2022 13:12:18 GMT+0800 (China Standard Time)</updated>
-    <content type='html'>
-      <![CDATA[
+</description>
+<author>Wibus</author>
+<pubDate>Tue, 26 Apr 2022 08:30:18 +0800</pubDate>
+</item>
+
+<item>
+<title>【分享】只需4步，爱快路由轻松访问github</title>
+<link>https://blog.mojy.xyz/archives/2022/share-ikuai-to-visit-github.html</link>
+<guid>https://blog.mojy.xyz/archives/2022/share-ikuai-to-visit-github.html</guid>
+<description>
+	<![CDATA[
       <blockquote>
         该渲染由 玉桂RSS 生成, 可能存在部分语句不通或者排版问题, 最佳体验请前往: <a href=https://blog.mojy.xyz/archives/2022/share-ikuai-to-visit-github.html>https://blog.mojy.xyz/archives/2022/share-ikuai-to-visit-github.html</a>
       </blockquote>
@@ -171,8 +161,13 @@
         </ol>
         <p>由于GitHub服务器在国内并不稳定，我制作出了Out-Local-Hosts项目，目前正在开发中，大家敬请期待。</p>
         <p style="text-align: right"><a href=https://github.com/Cinnamoroll-Rabbit/blog/issues/3>看完了？说点什么呢</a></p>
-        ]]>
-    </content>
-  </entry>
-  
-</feed>
+      ]]>
+</description>
+<author>玉桂喵</author>
+<pubDate>Mon, 25 Apr 2022 13:12:18 +0800</pubDate>
+</item>
+
+<atom:link href="https://blog.mojy.xyz/feed.xml" type="application/rss+xml" ref="self"></atom:link>
+<atom:link href="https://blog.mojy.xyz/feed.xml" type="application/rss+xml" ref="hub"></atom:link>
+</channel>
+</rss>
