@@ -1,7 +1,7 @@
 {
   "data":[
     {
-      "id":"文章id",
+      "id":"01",
       "created":"2022-03-08T02:52:31.420Z",
       "comments_index":5,
       "allow_comment":true,
@@ -15,7 +15,7 @@
       "modified":"2022-04-16T06:05:26.565Z",
       "slug":"文章后缀",
       "summary":null,
-      "category_id":"分类id",
+      "category_id":"01",
       "copyright":true,
       "tags":["标签1","标签2"],
       "count":{"read":440,"like":1},
@@ -30,7 +30,7 @@
       }
     },
     {
-      "id":"文章id",
+      "id":"02",
       "created":"2022-01-14T14:42:21.063Z",
       "comments_index":2,
       "allow_comment":true,
@@ -39,7 +39,7 @@
       "modified":"2022-01-14T14:43:44.557Z",
       "slug":"文章后缀",
       "summary":"精选评论",
-      "category_id":"分类id",
+      "category_id":"02",
       "hide":false,
       "copyright":true,
       "tags":["nextjs"],
