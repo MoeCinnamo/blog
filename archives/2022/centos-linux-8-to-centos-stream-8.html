@@ -383,8 +383,8 @@
             <p>由于CentOS官方的问题(我不知道，也不敢问)，导致 CentOS Linux 8 于2021年底停止了支持，因此导致了我 Proxmox 安装的 CentOS Linux 8 容器无法正常进行更新，因此我将它升级到了 CentOS 8 Stream 滚动发行版，可以进行获取更新。</p>
             <h2 id="升级之前"><a href="#升级之前" class="headerlink" title="升级之前"></a>升级之前</h2>
             <p>由于停止了支持，导致无法正常进行更新，因此需要先修改镜像站到阿里云的过期源</p>
-            <p>首先进入 <xmp>/etc/yum.repos.d</xmp> 目录中删除所有的更新源(反正也不能用了)</p>
-            <p>你可以执行 <xmp>cd /etc/yum.repos.d</xmp> 然后再执行 <xmp>rm -rf *.repo</xmp> 删除所有镜像源</p>
+            <p>首先进入 <code>/etc/yum.repos.d</code> 目录中删除所有的更新源(反正也不能用了)</p>
+            <p>你可以执行 <code>cd /etc/yum.repos.d</code> 然后再执行 <code>rm -rf *.repo</code> 删除所有镜像源</p>
             <p>输入代码：</p>
             
             <figure class="highlight plaintext">
@@ -396,7 +396,7 @@
               </table>
             </figure>
             
-            <p>修改到新的镜像源，在 <xmp>/etc/yum.repos.d</xmp> 目录中出现 <xmp>CentOS-Base.repo</xmp> 文件后就可以进行下一步操作。</p>
+            <p>修改到新的镜像源，在 <code>/etc/yum.repos.d</code> 目录中出现 <code>CentOS-Base.repo</code> 文件后就可以进行下一步操作。</p>
             <h2 id="升级"><a href="#升级" class="headerlink" title="升级"></a>升级</h2>
             <p>升级的方式很简单，如下：</p>
             
