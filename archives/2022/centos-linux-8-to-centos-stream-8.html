@@ -398,6 +398,32 @@
             
             <p>修改到新的镜像源，在 <xmp>/etc/yum.repos.d</xmp> 目录中出现 <xmp>CentOS-Base.repo</xmp> 文件后就可以进行下一步操作。</p>
             <h2 id="升级"><a href="#升级" class="headerlink" title="升级"></a>升级</h2>
+            <p>升级的方式很简单，如下：</p>
+            
+            <figure class="highlight plaintext">
+              <table>
+                <tr>
+                  <td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td>
+                  <td class="code"><pre><span class="line">[root@centos ~]# dnf swap centos-linux-repos centos-stram-repos</span><br><span class="line">[root@centos ~]# dnf distro-sync</span><br></pre></td>
+                </tr>
+              </table>
+            </figure>
+            
+            <p>执行第一段代码后按照提示进行安装</p>
+            <p>执行第二段代码后即可成功进行升级</p>
+            <h2 id="验证"><a href="#验证" class="headerlink" title="验证"></a>验证</h2>
+            
+            <figure class="highlight plaintext">
+              <table>
+                <tr>
+                  <td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td>
+                  <td class="code"><pre><span class="line">[root@centos ~]# cat /etc/centos-release</span><br><span class="line">CentOS Stream release 8</span><br></pre></td>
+                </tr>
+              </table>
+            </figure>
+            
+            <p>这样，你就不用担心由于 CentOS 8 停止支持导致无法正常进行更新啦～</p>
+            
           </article>
           <div class="post-copyright">
             <div class="post-copyright__author">
@@ -425,11 +451,11 @@
           </div>
           <nav class="pagination-post" id="pagination">
             <div class="prev-post pull-left">
-              <a href="/archives/2022/share-ikuai-to-visit-github.html">
-                <img class="prev-cover" src= "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-lazy-src="https://s1.ax1x.com/2022/04/25/LIogHO.jpg" onerror="onerror=null;src='/static/img/loadfail.GIF'" alt="cover of previous post">
+              <a href="/archives/2022/the-moral-bottom-line.html">
+                <img class="prev-cover" src= "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-lazy-src="https://tpsc.mojy.xyz/random.php?mode=acg" onerror="onerror=null;src='/static/img/loadfail.GIF'" alt="cover of previous post">
                 <div class="pagination-info">
                   <div class="label">上一篇</div>
-                  <div class="prev_info">【分享】只需4步，爱快路由轻松访问github</div>
+                  <div class="prev_info">高底线，可推动营造美好社会</div>
                 </div>
               </a>
             </div>
