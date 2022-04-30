@@ -386,9 +386,18 @@
             <p>首先进入 <xml>/etc/yum.repos.d</xml> 目录中删除所有的更新源(反正也不能用了)</p>
             <p>你可以执行 <xml>cd /etc/yum.repos.d</xml> 然后再执行 <xml>rm -rf *.repo</xml> 删除所有镜像源</p>
             <p>输入代码：</p>
-            <p> <xml>curl -o /etc/yum.repos.d/CentOS-Base.repo https://mirrors.aliyun.com/repo/Centos-vault-8.5.2111.repo</xml> </p>
-            <p></p>
-            <h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2>
+            
+            <figure class="highlight plaintext">
+              <table>
+                <tr>
+                  <td class="gutter"><pre><span class="line">1</span><br></pre></td>
+                  <td class="code"><pre><span class="line">curl -o /etc/yum.repos.d/CentOS-Base.repo https://mirrors.aliyun.com/repo/Centos-vault-8.5.2111.repo</span><br></pre></td>
+                </tr>
+              </table>
+            </figure>
+            
+            <p>修改到新的镜像源，在 <xml>/etc/yum.repos.d</xml> 目录中出现 <xml>CentOS-Base.repo</xml> 文件后就可以进行下一步操作。</p>
+            <h2 id="升级"><a href="#升级" class="headerlink" title="升级"></a>升级</h2>
           </article>
           <div class="post-copyright">
             <div class="post-copyright__author">
