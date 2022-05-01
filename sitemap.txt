@@ -5,6 +5,7 @@ https://blog.mojy.xyz/about.html
 https://blog.mojy.xyz/archives
 https://blog.mojy.xyz/archives/2022/share-ikuai-to-visit-github.html
 https://blog.mojy.xyz/archives/2022/the-moral-bottom-line.html
+https://blog.mojy.xyz/archives/2022/centos-linux-8-to-centos-stream-8.html
 https://blog.mojy.xyz/timemachine
 https://blog.mojy.xyz/tags
 https://blog.mojy.xyz/tags/share.html
