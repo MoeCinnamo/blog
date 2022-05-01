@@ -39,6 +39,13 @@ http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
   <changefreq>always</changefreq>
   <priority>0.64</priority>
 </url>
+  
+<url>
+  <loc>https://blog.mojy.xyz/archives/2022/centos-linux-8-to-centos-stream-8.html</loc>
+  <lastmod>2022-04-30</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
+</url>
       
 <url>
   <loc>https://blog.mojy.xyz/tags</loc>
