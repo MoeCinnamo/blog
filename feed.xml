@@ -49,12 +49,12 @@
     <h2>升级</h2>
     <p>升级的方式很简单，如下：</p>
     <pre><code class=language-shell>[root@centos ~]# dnf swap centos-linux-repos centos-stram-repos
-    [root@centos ~]# dnf distro-sync</code></pre>
+[root@centos ~]# dnf distro-sync</code></pre>
     <p>执行第一段代码后按照提示进行安装</p>
     <p>执行第二段代码后即可成功进行升级</p>
     <h2>验证</h2>
     <pre><code class=language-shell>[root@centos ~]# cat /etc/centos-release
-    CentOS Stream release 8</code></pre>
+CentOS Stream release 8</code></pre>
     <p>这样，你就不用担心由于 CentOS 8 停止支持导致无法正常进行更新啦～</p>
     <p style="text-align: right"><a href=https://github.com/Cinnamoroll-Rabbit/blog/discussions/11>看完了？说点什么呢</a></p>
   ]]>
