@@ -30,7 +30,7 @@ module.exports = {
       { text: '时间轴', link: '/timeline/', icon: 'reco-date' },
       { text: '关于', link: '/about.md', icon: 'reco-faq' },
       { text: '友链', link: '/links.md', icon: 'reco-blog' },
-      { text: 'RSS订阅', link: '/rss.xml', icon: 'reco-bokeyuan' },
+      { text: 'RSS订阅', link: '/rss.md', icon: 'reco-bokeyuan' },
       {
         text: '联系我',
         ariaLabel: 'contact',
