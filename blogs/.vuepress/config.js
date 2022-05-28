@@ -22,6 +22,9 @@ module.exports = {
   themeConfig: {
     type: 'blog',
     noFoundPageByTencent: false,
+    feed: {
+         canonical_base: 'https://blog.mojy.xyz/',
+      },
     nav: [
       { text: '主页', link: '/', icon: 'reco-home' },
       { text: '时间轴', link: '/timeline/', icon: 'reco-date' },
