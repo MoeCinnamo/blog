@@ -26,4 +26,10 @@ Github是一个不错的开发者平台，但是由于中国网关管理日渐�
 
 ### 设置教程
 
- - 点击左边栏网络设置 -> DHCP设置 -> DHCP服务端，把所有服务接口的默认DNS和网关都改成爱快路由(如果只有一个ip分配给爱快路由，DNS可以填写两个一样的或只填写第一个)。
+<ol>
+ <li><p>点击左边栏网络设置 -> DHCP设置 -> DHCP服务端，把所有服务接口的默认DNS和网关都改成爱快路由(如果只有一个ip分配给爱快路由，DNS可以填写两个一样的或只填写第一个)。<img src="https://s1.ax1x.com/2022/04/25/LIogHO.jpg" alt="DHCP设置"></p></li>
+ <li><p>点击网络设置 -> DNS设置 -> DNS设置，开启DNS加速服务，DNS加速模式为：”代理模式(UDP)”并开启强制客户端DNS代理。<img src="https://s1.ax1x.com/2022/04/25/LII2fs.jpg" alt="DNS设置"></p></li>
+ <li><p>下滑找到DNS代理，挨个添加<a href="https://github.com/521xueweihan/GitHub520" target="_blank">GitHub520</a>的Hosts即可</p></li>
+ <li>为了简化过程，我特意新建了文件，大家只需下载这个文件后进行简单的设置即可使用。<a href="https://github.com/521xueweihan/GitHub520/files/8495022/iKuai-github-dns-update-by-2022-04-11-11%2B31%2B10.txt" target="_blank">有点老的文件</a></li>
+</ol>
+<p>由于GitHub服务器在国内并不稳定，我制作出了Out-Local-Hosts项目，目前正在开发中，大家敬请期待。</p>
