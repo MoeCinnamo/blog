@@ -1,6 +1,5 @@
 module.exports = {
   base: '/',
-  dest: 'blog',
   theme: 'reco',
   title: '天堂里の猫',
   description: '住在天空快活的猫咪',
