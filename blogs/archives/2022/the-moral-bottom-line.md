@@ -130,42 +130,49 @@ categories:
 ### 参考资料
 
 CCTV. 福布斯富豪 河南花园集团董事长谢国胜被捕内幕
-
 http://news.cctv.com/law/20070902/100690.shtml
 
 CCTV. 企业家要坚守道德底线
-
 http://news.cctv.com/law/20070904/107447.shtml
 
 中国经济网.高德步：中国民营经济的发展历程
-
 http://views.ce.cn/view/ent/201810/08/t20181008_30454590.shtml
 
 闻鸡起舞.谈企业诚信经营的重要性
-
 https://zhuanlan.zhihu.com/p/405279675
 
-纸条.道德 https://zhuanlan.zhihu.com/p/95762594
+纸条.道德
+https://zhuanlan.zhihu.com/p/95762594
 
-腾讯网.人为什么要恪守底线？ https://new.qq.com/omn/20211214/20211214A02WE300.html
+腾讯网.人为什么要恪守底线？
+https://new.qq.com/omn/20211214/20211214A02WE300.html
 
-搜狐.杜大娘“碰瓷”10年，靠的是“低道德优势” https://www.sohu.com/a/317890114_123753
+搜狐.杜大娘“碰瓷”10年，靠的是“低道德优势”
+https://www.sohu.com/a/317890114_123753
 
-腾讯网.杜大娘碰瓷10年 https://new.qq.com/omn/20220213/20220213A00UGZ00.html
+腾讯网.杜大娘碰瓷10年
+https://new.qq.com/omn/20220213/20220213A00UGZ00.html
 
-时代周报.一周两起高空抛物致人伤亡！道德管不住，只能靠法律 https://zhuanlan.zhihu.com/p/70235205
+时代周报.一周两起高空抛物致人伤亡！道德管不住，只能靠法律
+https://zhuanlan.zhihu.com/p/70235205
 
-叙法纵横.熊超律师说：莫让“高空抛物”抛掉了道德，违反了法律！ https://zhuanlan.zhihu.com/p/219656138
+叙法纵横.熊超律师说：莫让“高空抛物”抛掉了道德，违反了法律！
+https://zhuanlan.zhihu.com/p/219656138
 
-人民网.整治高空抛物不能仅凭道德自律 http://opinion.people.com.cn/n/2015/0802/c159301-27396584.html
+人民网.整治高空抛物不能仅凭道德自律
+http://opinion.people.com.cn/n/2015/0802/c159301-27396584.html
 
-搜狐.【好人好事】拾金不昧 好人好事传递正能量 https://www.sohu.com/a/137103440_376214
+搜狐.【好人好事】拾金不昧 好人好事传递正能量
+https://www.sohu.com/a/137103440_376214
 
-新民周刊.自媒体的底线在哪里？ http://www.xinminweekly.com.cn/lunbo/2018/09/06/10954.html
+新民周刊.自媒体的底线在哪里？
+http://www.xinminweekly.com.cn/lunbo/2018/09/06/10954.html
 
-百度百科.公民基本道德规范 https://baike.baidu.com/item/%E5%85%AC%E6%B0%91%E5%9F%BA%E6%9C%AC%E9%81%93%E5%BE%B7%E8%A7%84%E8%8C%83
+百度百科.公民基本道德规范
+https://baike.baidu.com/item/%E5%85%AC%E6%B0%91%E5%9F%BA%E6%9C%AC%E9%81%93%E5%BE%B7%E8%A7%84%E8%8C%83
 
-百度百科.别针换别墅 https://baike.baidu.com/item/%E5%88%AB%E9%92%88%E6%8D%A2%E5%88%AB%E5%A2%85
+百度百科.别针换别墅
+https://baike.baidu.com/item/%E5%88%AB%E9%92%88%E6%8D%A2%E5%88%AB%E5%A2%85
 
 <br>
 
