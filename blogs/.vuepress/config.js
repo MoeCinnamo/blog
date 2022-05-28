@@ -113,7 +113,7 @@ module.exports = {
     [
       "@vuepress-reco/vuepress-plugin-rss",
       {
-        site_url: 'https://blog.mojy.xyz',
+        site_url: 'https://blog.mojy.xyz/feed',
         count: 50
       }
     ],
