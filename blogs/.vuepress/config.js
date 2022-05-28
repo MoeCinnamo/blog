@@ -134,6 +134,12 @@ module.exports = {
       }
     ],
     [
+      "vuepress-plugin-sitemap",
+      {
+      hostname: 'https://pake.web.id'
+      },
+    ],
+    [
       '@vuepress/pwa',
       {
         serviceWorker: true,
