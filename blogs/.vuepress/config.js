@@ -136,7 +136,7 @@ module.exports = {
     [
       "vuepress-plugin-sitemap",
       {
-      hostname: 'https://pake.web.id'
+      hostname: 'https://blog.mojy.xyz'
       },
     ],
     [
