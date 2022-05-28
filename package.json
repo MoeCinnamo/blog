@@ -1,0 +1,30 @@
+{
+  "name": "cat-in-heaven",
+  "version": "0.0.1",
+  "description": "A cat in the sky.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vuepress dev blogs",
+    "build": "vuepress build blogs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MoeCinnamo/blog.git"
+  },
+  "keywords": [
+    "cat,sky,blog,moeblog,MoeCinnamo"
+  ],
+  "author": "MoeCinnamo",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/MoeCinnamo/blog/issues"
+  },
+  "homepage": "https://github.com/MoeCinnamo/blog#readme",
+  "dependencies": {
+    "@vuepress-reco/vuepress-plugin-bgm-player": "^1.1.4",
+    "@vuepress-reco/vuepress-plugin-rss": "^1.0.2",
+    "vuepress": "^1.9.7",
+    "vuepress-theme-reco": "^1.6.11",
+    "@vuepress/plugin-pwa": "^1.9.7"
+  }
+}
