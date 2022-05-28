@@ -31,7 +31,15 @@ module.exports = {
       { text: '关于', link: '/about.md', icon: 'reco-faq' },
       { text: '友链', link: '/links.md', icon: 'reco-blog' },
       { text: 'RSS订阅', link: '/rss.xml', icon: 'reco-bokeyuan' },
-      { text: 'GitHub', link: 'https://github.com/MoeCinnamo', icon: 'reco-github' }
+      {
+        text: '联系我',
+        ariaLabel: 'contact',
+        items: [
+          { text: 'Chinese', link: '/language/chinese/' },
+          { text: 'Japanese', link: '/language/japanese/' }
+        ],
+        icon: 'reco-menu'
+      }
     ],
     //friendLink: [
     //  {
