@@ -35,8 +35,9 @@ module.exports = {
         text: '联系我',
         ariaLabel: 'contact',
         items: [
-          { text: 'Chinese', link: '/language/chinese/' },
-          { text: 'Japanese', link: '/language/japanese/' }
+          { text: 'GitHub', link: 'https://github.com/MoeCinnamo', icon: 'reco-github' },
+          { text: 'Email', link: 'mailto:abcd2890000456@126.com',icon: 'reco-message' },
+          { text: 'QQ', link: 'http://wpa.qq.com/msgrd?v=3&uin=597624858&site=qq&menu=yes',icon: 'reco-qq' },
         ],
         icon: 'reco-menu'
       }
