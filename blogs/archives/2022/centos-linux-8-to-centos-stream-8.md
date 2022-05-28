@@ -15,9 +15,9 @@ tags:
 ## 升级之前
 由于停止了支持，导致无法正常进行更新，因此需要先修改镜像站到阿里云的过期源
 
-首先进入 ** /etc/yum.repos.d ** 目录中删除所有的更新源(反正也不能用了)
+首先进入 <code>/etc/yum.repos.d</code> 目录中删除所有的更新源(反正也不能用了)
 
-你可以执行 ** cd /etc/yum.repos.d ** 然后再执行 ** rm -rf *.repo ** 删除所有镜像源
+你可以执行 <code>cd /etc/yum.repos.d</code> 然后再执行 <code>rm -rf *.repo</code> 删除所有镜像源
 
 输入代码：
 
@@ -25,7 +25,7 @@ tags:
 curl -o /etc/yum.repos.d/CentOS-Base.repo https://mirrors.aliyun.com/repo/Centos-vault-8.5.2111.repo
 ```
 
-修改到新的镜像源，在 ** /etc/yum.repos.d ** 目录中出现 ** CentOS-Base.repo ** 文件后就可以进行下一步操作。
+修改到新的镜像源，在 <code>/etc/yum.repos.d</code> 目录中出现 <code>CentOS-Base.repo</code> 文件后就可以进行下一步操作。
 
 ## 升级
 
