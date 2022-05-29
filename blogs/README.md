@@ -1,6 +1,6 @@
 ---
 home: true
-bgImage: 'https://tpsc.mojy.xyz/random.php?mode=acg'
+bgImage: 'https://www.dmoe.cc/random.php'
 bgImageStyle: {
   height: '400px'
 }
