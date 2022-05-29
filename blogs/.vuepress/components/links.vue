@@ -194,13 +194,57 @@
             <small>Let's start learning !</small>
           </div>
           
-          <div style="border: 2px solid #d0d0d0;border-radius: 15px;width: 50%;height: 100px;position: relative;white-space: nowrap;overflow: hidden;text-overflow: ellipsis;border: 1px solid #ccc;float: left;box-sizing: border-box;"><a href="https://www.lemonx.cn" target="_blank"><img src="https://s1.ax1x.com/2020/11/01/Bdjvt0.gif" style="width: 64px;height: 64px;position: absolute;left: 5px;top: 15px;border-radius: 100px"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.lemonx.cn" target="_blank"><strong>沐瑾年</strong></a><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small>一个铁憨憨的blog</small></div>
+          <div style="border: 2px solid #d0d0d0;border-radius: 15px;width: 50%;height: 100px;position: relative;white-space: nowrap;overflow: hidden;text-overflow: ellipsis;border: 1px solid #ccc;float: left;box-sizing: border-box;">
+            <a href="https://www.lemonx.cn" target="_blank">
+              <img src="https://s1.ax1x.com/2020/11/01/Bdjvt0.gif" style="width: 64px;height: 64px;position: absolute;left: 5px;top: 15px;border-radius: 100px">
+            </a>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <a href="https://www.lemonx.cn" target="_blank">
+              <strong>沐瑾年</strong>
+            </a>
+            <br>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <small>一个铁憨憨的blog</small>
+          </div>
           
-          <div style="border: 2px solid #d0d0d0;border-radius: 15px;width: 50%;height: 100px;position: relative;white-space: nowrap;overflow: hidden;text-overflow: ellipsis;border: 1px solid #ccc;float: left;box-sizing: border-box;"><a href="https://vircloud.net" target="_blank"><img src="undefined" style="width: 64px;height: 64px;position: absolute;left: 5px;top: 15px;border-radius: 100px"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://vircloud.net" target="_blank"><strong>VirCloud's Blog</strong></a><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small>Learning & Sharing</small></div>
+          <div style="border: 2px solid #d0d0d0;border-radius: 15px;width: 50%;height: 100px;position: relative;white-space: nowrap;overflow: hidden;text-overflow: ellipsis;border: 1px solid #ccc;float: left;box-sizing: border-box;">
+            <a href="https://vircloud.net" target="_blank">
+              <img src="undefined" style="width: 64px;height: 64px;position: absolute;left: 5px;top: 15px;border-radius: 100px">
+            </a>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <a href="https://vircloud.net" target="_blank">
+              <strong>VirCloud's Blog</strong>
+            </a>
+            <br>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <small>Learning & Sharing</small>
+          </div>
           
-          <div style="border: 2px solid #d0d0d0;border-radius: 15px;width: 50%;height: 100px;position: relative;white-space: nowrap;overflow: hidden;text-overflow: ellipsis;border: 1px solid #ccc;float: left;box-sizing: border-box;"><a href="https://mr158.cn" target="_blank"><img src="https://avatars.githubusercontent.com/u/13295350?v=4" style="width: 64px;height: 64px;position: absolute;left: 5px;top: 15px;border-radius: 100px"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://mr158.cn" target="_blank"><strong>MR158</strong></a><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small>走り続けるなら</small></div>
+          <div style="border: 2px solid #d0d0d0;border-radius: 15px;width: 50%;height: 100px;position: relative;white-space: nowrap;overflow: hidden;text-overflow: ellipsis;border: 1px solid #ccc;float: left;box-sizing: border-box;">
+            <a href="https://mr158.cn" target="_blank">
+              <img src="https://avatars.githubusercontent.com/u/13295350?v=4" style="width: 64px;height: 64px;position: absolute;left: 5px;top: 15px;border-radius: 100px">
+            </a>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <a href="https://mr158.cn" target="_blank">
+              <strong>MR158</strong>
+            </a>
+            <br>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <small>走り続けるなら</small>
+          </div>
           
-          <div style="border: 2px solid #d0d0d0;border-radius: 15px;width: 50%;height: 100px;position: relative;white-space: nowrap;overflow: hidden;text-overflow: ellipsis;border: 1px solid #ccc;float: left;box-sizing: border-box;"><a href="https://blog.jamsg.cn" target="_blank"><img src="http://q1.qlogo.cn/g?b=qq&nk=1253496010@qq.com&s=640" style="width: 64px;height: 64px;position: absolute;left: 5px;top: 15px;border-radius: 100px"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://blog.jamsg.cn" target="_blank"><strong>NEKO#ΦωΦ</strong></a><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small>聞こえるはずの声</small></div>
+          <div style="border: 2px solid #d0d0d0;border-radius: 15px;width: 50%;height: 100px;position: relative;white-space: nowrap;overflow: hidden;text-overflow: ellipsis;border: 1px solid #ccc;float: left;box-sizing: border-box;">
+            <a href="https://blog.jamsg.cn" target="_blank">
+              <img src="http://q1.qlogo.cn/g?b=qq&nk=1253496010@qq.com&s=640" style="width: 64px;height: 64px;position: absolute;left: 5px;top: 15px;border-radius: 100px">
+            </a>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <a href="https://blog.jamsg.cn" target="_blank">
+              <strong>NEKO#ΦωΦ</strong>
+            </a>
+            <br>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <small>聞こえるはずの声</small>
+          </div>
           
           <br>
           <br><br><br><br><br><br>
