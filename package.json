@@ -26,6 +26,7 @@
     "vuepress": "^1.9.7",
     "vuepress-theme-reco": "^1.6.11",
     "@vuepress/plugin-pwa": "^1.9.7",
-    "vuepress-plugin-sitemap": "^2.3.1"
+    "vuepress-plugin-sitemap": "^2.3.1",
+    "font-awesome": "^4.7.0"
   }
 }
