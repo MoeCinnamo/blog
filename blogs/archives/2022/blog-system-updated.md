@@ -8,6 +8,16 @@ tags:
  - 升级
 ---
 
+## 介绍
+
+我的博客系统升级啦，使用了 vuepress 替代了原来的 hexo ，模版使用 vuepress-theme-reco ，感谢模版作者 reco_luan 和 vuepress 作者 bencodezen 。
+
+## 改变
+
+1. 添加了更好的评论系统 Valine ，可以免跳转到 github 直接进行评论。
+
+<img src="smiley-2.gif" alt="Smiley face" width="42" height="42">
+
 <br>
 
 | Copyright |
