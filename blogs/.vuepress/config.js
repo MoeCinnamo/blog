@@ -91,6 +91,7 @@ module.exports = {
       appId: '514CxHf6tf8VB7b9e1azmUu8-MdYXbMMI', // your appId
       appKey: 'W0K26NS50iK3hk7GTm4rnLjN', // your appKey
       placeholder: '嘿^_^, 留个评论好不好嘛~',
+      visitor: true,
       serverUrl: 'https://user.blog.mojy.xyz/'
     }
   },
