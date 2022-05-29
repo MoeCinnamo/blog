@@ -56,7 +56,8 @@
       </div>
       
       <div v-show="cur === 'chengguo'">
-        NO DATA
+        <font color="red">“<br>已经是所有会的技能了<br>”</font>
+        <code>?</code>了解，<code>~</code>熟悉，<code>+</code>掌握，<code>+++</code>熟练，<code>*</code>精通 <del>代表已遗忘</del>
       </div>
       
       <div v-show="cur === 'thanks'">
