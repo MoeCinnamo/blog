@@ -27,9 +27,9 @@ module.exports = {
       { text: '时间轴', link: '/timeline/', icon: 'reco-date' },
       { text: '关于', link: '/about.md', icon: 'reco-faq' },
       { text: '友链', link: '/links.md', icon: 'reco-blog' },
-      { text: 'RSS订阅', link: 'https://blog.mojy.xyz/rss.xml', icon: 'reco-bokeyuan' },
+      { text: 'RSS', link: 'https://blog.mojy.xyz/rss.xml', icon: 'reco-bokeyuan' },
       {
-        text: '联系我',
+        text: '联系',
         ariaLabel: 'contact',
         items: [
           { text: 'GitHub', link: 'https://github.com/MoeCinnamo', icon: 'reco-github' },
@@ -39,13 +39,13 @@ module.exports = {
         icon: 'reco-menu'
       },
       {
-        text: '其它',
-        ariaLabel: 'other',
+        text: '开往',
+        ariaLabel: 'go',
         items: [
           { text: 'Travellings', link: 'https://travellings.link' },
           { text: '虫洞', link: 'https://foreverblog.cn/go.html' }
         ],
-        icon: 'reco-other'
+        icon: 'reco-menu'
       }
     ],
     //friendLink: [
