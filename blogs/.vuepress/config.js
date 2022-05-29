@@ -27,7 +27,7 @@ module.exports = {
       { text: '时间轴', link: '/timeline/', icon: 'reco-date' },
       { text: '关于', link: '/about.md', icon: 'reco-faq' },
       { text: '友链', link: '/links.md', icon: 'reco-blog' },
-      { text: 'RSS订阅', link: 'https://blog.mojy.xyz/rss.xml', icon: 'reco-bokeyuan' },
+      { text: 'RSS订阅', link: 'https://blog.mojy.xyz/rss.xml', icon: 'fa fa-rss' },
       {
         text: '联系我',
         ariaLabel: 'contact',
@@ -35,15 +35,6 @@ module.exports = {
           { text: 'GitHub', link: 'https://github.com/MoeCinnamo', icon: 'reco-github' },
           { text: 'Email', link: 'mailto:abcd2890000456@126.com',icon: 'reco-message' },
           { text: 'QQ', link: 'http://wpa.qq.com/msgrd?v=3&uin=597624858&site=qq&menu=yes',icon: 'reco-qq' }
-        ],
-        icon: 'reco-menu'
-      },
-      {
-        text: '跳转',
-        ariaLabel: 'travelling',
-        items: [
-          { link: 'https://travellings.link', icon: 'https://travellings.link/assets/logo.svg' },
-          { link: 'https://www.foreverblog.cn/go.html',icon: 'https://img.foreverblog.cn/wormhole_3.gif' }
         ],
         icon: 'reco-menu'
       }
