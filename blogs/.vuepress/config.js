@@ -27,7 +27,7 @@ module.exports = {
       { text: '时间轴', link: '/timeline/', icon: 'reco-date' },
       { text: '关于', link: '/about.md', icon: 'reco-faq' },
       { text: '友链', link: '/links.md', icon: 'reco-blog' },
-      { text: 'RSS订阅', link: 'https://blog.mojy.xyz/rss.xml', icon: 'fa fa-rss' },
+      { text: 'RSS订阅', link: 'https://blog.mojy.xyz/rss.xml', icon: 'reco-bokeyuan' },
       {
         text: '联系我',
         ariaLabel: 'contact',
