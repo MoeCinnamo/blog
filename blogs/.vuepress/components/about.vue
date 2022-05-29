@@ -55,7 +55,11 @@
         <li>iPhone 12 蓝色 99新</li><br>
       </div>
       
-      <div v-show="cur === ''">
+      <div v-show="cur === 'chengguo'">
+        NO DATA
+      </div>
+      
+      <div v-show="cur === 'thanks'">
         NO DATA
       </div>
       
@@ -68,10 +72,10 @@
     data() {
       return {
         nav: [
-          { title: '', code: '' },
           { title: '关于博客', code: 'blog' },
           { title: '关于我', code: 'me' },
-          { title: '', code: '' }
+          { title: '学习成果', code: 'chengguo' },
+          { title: '感谢信', code: 'thanks' }
         ],
         cur: 'blog'
       }
