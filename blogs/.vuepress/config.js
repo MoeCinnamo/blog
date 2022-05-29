@@ -37,6 +37,15 @@ module.exports = {
           { text: 'QQ', link: 'http://wpa.qq.com/msgrd?v=3&uin=597624858&site=qq&menu=yes',icon: 'reco-qq' }
         ],
         icon: 'reco-menu'
+      },
+      {
+        text: '其它',
+        ariaLabel: 'other',
+        items: [
+          { text: 'Travellings', link: 'https://travellings.link' },
+          { text: '虫洞', link: 'https://foreverblog.cn/go.html' }
+        ],
+        icon: 'reco-other'
       }
     ],
     //friendLink: [
