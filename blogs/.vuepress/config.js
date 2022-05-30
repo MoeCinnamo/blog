@@ -30,6 +30,7 @@ module.exports = {
         items: [
           { text: '时间轴', link: '/timeline/', icon: 'reco-date' },
           { text: '关于', link: '/about.md', icon: 'reco-faq' },
+          { text: '留言', link: '/message.md', icon: 'reco-message' },
           { text: '一言', link: '/say.md',icon: 'reco-message' },
           { text: '友链', link: '/links.md',icon: 'reco-blog' },
           { text: 'RSS', link: 'https://blog.mojy.xyz/rss.xml',icon: 'reco-bokeyuan' }
