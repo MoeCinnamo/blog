@@ -151,7 +151,7 @@ module.exports = {
       "@vuepress-reco/vuepress-plugin-kan-ban-niang",
       {
         theme: ['shizuku', 'koharu', 'haruto', 'z16', 'whiteCat', 'blackCat', 'wanko', 'haru2', 'haru1']
-      },
+      }
     ],
     [
       "@vuepress-reco/vuepress-plugin-bgm-player",
