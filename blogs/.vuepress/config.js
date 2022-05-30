@@ -142,7 +142,7 @@ module.exports = {
       "vuepress-plugin-cursor-effects",
       {
         size: 3,
-        shape: 'circle',
+        shape: 'star',
         zIndex: 999999999,
       },
     ],
