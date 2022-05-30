@@ -57,11 +57,26 @@
       
       <div v-show="cur === 'chengguo'">
         <font color="red">“<br>已经是所有会的技能了<br>”</font>
-        <code>?</code>了解，<code>~</code>熟悉，<code>+</code>掌握，<code>+++</code>熟练，<code>*</code>精通 <del>代表已遗忘</del>
+        <code>?</code>了解，<code>~</code>熟悉，<code>+</code>掌握，<code>+++</code>熟练，<code>*</code>精通 <del>代表已遗忘</del><br>
+        <strong>学校学的</strong><br><br>
+        <li>visual foxpro</li><br>
+        <li>python</li><br>
+        <strong>瞎搞会的</strong><br><br>
+        <li>PhotoShop ?</li><br>
+        <strong>没认真学</strong><br><br>
+        <li>PHP ?</li><br>
+        <li>JavaScript ?</li><br>
+        <li>CSS ?</li><br>
+        <li>HTML ?</li><br>
+        <strong>认真学的</strong><br><br>
+        <li>Markdown *</li><br>
       </div>
       
       <div v-show="cur === 'thanks'">
-        NO DATA
+        <strong>赞助名单～</strong><br><br>
+        <strong>帮助名单～</strong><br><br>
+        感谢你们🙏！
+        <strong>赞助博主</strong><br><br>
       </div>
       
     </div>
