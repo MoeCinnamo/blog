@@ -162,7 +162,8 @@ module.exports = {
             url: '*',
             cover: '*'
           }
-        },
+        ]
+      },
     ],
     [
       "@vuepress-reco/vuepress-plugin-back-to-top",
