@@ -122,22 +122,13 @@ module.exports = {
   },
   plugins: [
     [
-      "@vuepress-reco/vuepress-plugin-bgm-player",
+      "vuepress-plugin-dynamic-title",
       {
-        audios: [
-          {
-            name: '*',
-            artist: '*',
-            url: '*',
-            cover: '*'
-          },
-          {
-            name: '*',
-            artist: '*',
-            url: '*',
-            cover: '*'
-          }
-        ]
+            showIcon: 'https://gravatar.loli.net/avatar/ae4dd9f92845152e9ae8b67a4ec8e53e;s=64',
+            showText: '(/≧▽≦/)咦！又好了！',
+            hideIcon: '/failure.ico',
+            hideText: '(●—●)喔哟，崩溃啦！',
+            recoverTime: 2000,
       }
     ],
     [
