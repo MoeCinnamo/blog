@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/MoeCinnamo/blog#readme",
   "dependencies": {
-    "vuepress-plugin-meting": "^0.3.1",
+    "@vuepress-reco/vuepress-plugin-bgm-player": "^1.1.4",
     "@vuepress-reco/vuepress-plugin-rss": "^1.0.2",
     "vuepress": "^1.9.7",
     "vuepress-theme-reco": "^1.6.11",
