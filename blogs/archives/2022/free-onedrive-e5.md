@@ -22,7 +22,7 @@ Office365开发版E5是为开发人员提供的，是微软的官方活动，申
 ## 开始申请E5账号
 
 1. 进入 [Microsoft 365 开发人员计划](https://docs.microsoft.com/zh-cn/office/developer-program/microsoft-365-developer-program) <br>
-<img src='https://i.postimg.cc/LX69NNLJ/1-D569246-3-C64-4-EE7-B4-C6-406-A6-EACB4-E8.jpg' width="100%" height="auto" alt='Microsoft 365开发人员计划文档'/>
+<img src='https://s1.ax1x.com/2022/05/30/X1wDIK.jpg' alt='Microsoft 365开发人员计划文档'/>
 
 2. 点击 <strong>加入 Microsoft 365 开发人员计划</strong> 下的 <strong>加入 Microsoft 365 开发人员计划</strong> 并打开科学上网<br>
 
