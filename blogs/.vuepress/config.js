@@ -147,21 +147,22 @@ module.exports = {
       },
     ],
     [
-      "vuepress-plugin-meting",
+      "@vuepress-reco/vuepress-plugin-bgm-player",
       {
-        server: "", // 支持 ["netease" | "tencent" | "kuwo" | "kugou" | "baidu"]
-        type: "", // 资源类型：["song" | "album" | "artist" | "playlist"]
-        mid: "", // 资源ID
-        auto: '' // 自动解析（本参数仅支持 netease、tencent、xiami 三平台）
-      },
-      "aplayer",
-      {
-        fixed: true,
-        mini: true,
-        autoplay: true,
-        listFolded: true,
-        lrcType: 3
-      }
+        audios: [
+          {
+            name: '*',
+            artist: '*',
+            url: '*',
+            cover: '*'
+          },
+          {
+            name: '*',
+            artist: '*',
+            url: '*',
+            cover: '*'
+          }
+        },
     ],
     [
       "@vuepress-reco/vuepress-plugin-back-to-top",
