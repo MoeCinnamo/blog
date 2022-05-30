@@ -154,7 +154,8 @@ module.exports = {
         mid: "", // 资源ID
         auto: '' // 自动解析（本参数仅支持 netease、tencent、xiami 三平台）
       },
-      aplayer: {
+      "aplayer",
+      {
         fixed: true,
         mini: true,
         autoplay: true,
