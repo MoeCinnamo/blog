@@ -124,11 +124,11 @@ module.exports = {
     [
       "vuepress-plugin-dynamic-title",
       {
-            showIcon: 'https://gravatar.loli.net/avatar/ae4dd9f92845152e9ae8b67a4ec8e53e;s=64',
-            showText: '(/≧▽≦/)咦！又好啦！',
-            hideIcon: '/failure.ico',
-            hideText: '(●—●)哎呦，崩溃啦！',
-            recoverTime: 2000,
+        showIcon: 'https://gravatar.loli.net/avatar/ae4dd9f92845152e9ae8b67a4ec8e53e;s=64',
+        showText: '(/≧▽≦/)咦！又好啦！',
+        hideIcon: '/failure.ico',
+        hideText: '(●—●)哎呦，崩溃啦！',
+        recoverTime: 2000,
       }
     ],
     [
@@ -137,6 +137,14 @@ module.exports = {
         site_url: 'https://blog.mojy.xyz',
         count: 50
       }
+    ],
+    [
+      "vuepress-plugin-cursor-effects",
+      {
+        size: 2, // size of the particle, default: 2
+        shape: 'circle', // shape of the particle, default: 'star'
+        zIndex: 999999999, // z-index property of the canvas, default: 999999999
+      },
     ],
     [
       "@vuepress-reco/vuepress-plugin-back-to-top",
