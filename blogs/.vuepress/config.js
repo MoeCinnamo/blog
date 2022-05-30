@@ -125,9 +125,9 @@ module.exports = {
       "vuepress-plugin-dynamic-title",
       {
             showIcon: 'https://gravatar.loli.net/avatar/ae4dd9f92845152e9ae8b67a4ec8e53e;s=64',
-            showText: '(/≧▽≦/)咦！又好了！',
+            showText: '(/≧▽≦/)咦！又好啦！',
             hideIcon: '/failure.ico',
-            hideText: '(●—●)喔哟，崩溃啦！',
+            hideText: '(●—●)哎呦，崩溃啦！',
             recoverTime: 2000,
       }
     ],
