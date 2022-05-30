@@ -21,15 +21,18 @@ Office365开发版E5是为开发人员提供的，是微软的官方活动，申
 
 ## 开始申请E5账号
 
-1. 进入 [Microsoft 365 开发人员计划](https://docs.microsoft.com/zh-cn/office/developer-program/microsoft-365-developer-program)
+1. 进入 [Microsoft 365 开发人员计划](https://docs.microsoft.com/zh-cn/office/developer-program/microsoft-365-developer-program) <br>
+<img src='https://i.postimg.cc/LX69NNLJ/1-D569246-3-C64-4-EE7-B4-C6-406-A6-EACB4-E8.jpg' alt='Microsoft 365开发人员计划文档'/>
 
-2. 点击 <strong>加入 Microsoft 365 开发人员计划</strong> 下的 <strong>加入 Microsoft 365 开发人员计划</strong> 并打开科学上网
+2. 点击 <strong>加入 Microsoft 365 开发人员计划</strong> 下的 <strong>加入 Microsoft 365 开发人员计划</strong> 并打开科学上网<br>
 
-3. 点击 Join now 按钮
+3. 点击 Join now 按钮<br>
+<img src='https://i.postimg.cc/qqHdWwCc/C6-C33261-1-B13-4-EFC-93-E4-545558-D94-D83.jpg' alt='Microsoft 365开发人员计划首页'/>
 
 4. 填写信息（随便填）并成功创建沙盒
 
-5. 进入 [Microsoft 365 admin center](https://admin.microsoft.com/) 管理用户，最多25个用户
+5. 进入 [Microsoft 365 admin center](https://admin.microsoft.com/) 管理用户，最多25个用户<br>
+<img src='https://i.postimg.cc/TYHtwwCF/1388-A6-AB-413-B-4-AF2-8014-87-BBE65936-B9.jpg' alt='Microsoft 365 admin center'/>
 
 （使用 ”用户名@域.onmicrosoft.com” 进行登录）
 
