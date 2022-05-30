@@ -27,7 +27,7 @@ Office365开发版E5是为开发人员提供的，是微软的官方活动，申
 2. 点击 <strong>加入 Microsoft 365 开发人员计划</strong> 下的 <strong>加入 Microsoft 365 开发人员计划</strong> 并打开科学上网<br>
 
 3. 点击 Join now 按钮<br>
-<img src='https://i.postimg.cc/qqHdWwCc/C6-C33261-1-B13-4-EFC-93-E4-545558-D94-D83.jpg' width="100%" height="auto" alt='Microsoft 365开发人员计划首页'/>
+<img src='https://s1.ax1x.com/2022/05/30/X1w2Md.jpg' alt='Microsoft 365开发人员计划首页'/>
 
 4. 填写信息（随便填）并成功创建沙盒
 
