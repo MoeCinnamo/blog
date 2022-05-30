@@ -14,6 +14,7 @@ module.exports = {
     ['link', { rel: 'mask-icon', href: 'https://gravatar.loli.net/avatar/ae4dd9f92845152e9ae8b67a4ec8e53e;s=640', color: '#35FFC3' }],
     ['meta', { name: 'msapplication-TileImage', content: 'https://gravatar.loli.net/avatar/ae4dd9f92845152e9ae8b67a4ec8e53e;s=640' }],
     ['meta', { name: 'msapplication-TileColor', content: '#000000' }],
+    ['script', { type: 'text/javascript', src: '//js.users.51.la/21337387.js' }],
     ['script', { charset: 'UTF-8', id: 'LA_COLLECT', src: '//sdk.51.la/js-sdk-pro.min.js' }],
     ['script', {}, `LA.init({id: "JfZeeuAAChksNoMw",ck: "JfZeeuAAChksNoMw",autoTrack:true,hashMode:true})</script>`],
     ['script', { src: 'https://sdk.51.la/perf/js-sdk-perf.min.js', crossorigin: 'anonymous' }],
