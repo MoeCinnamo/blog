@@ -56,8 +56,8 @@
       </div>
       
       <div v-show="cur === 'chengguo'">
-        <font color="red">“<br>已经是所有会的技能了<br>”</font>
-        <code>?</code>了解，<code>~</code>熟悉，<code>+</code>掌握，<code>+++</code>熟练，<code>*</code>精通 <del>代表已遗忘</del><br>
+        <font color="red">“<br>已经是所有会的技能了<br>”</font><br>
+        <code>?</code>了解，<code>~</code>熟悉，<code>+</code>掌握，<code>+++</code>熟练，<code>*</code>精通 <del>代表已遗忘</del><br><br>
         <strong>学校学的</strong><br><br>
         <li>visual foxpro</li><br>
         <li>python</li><br>
