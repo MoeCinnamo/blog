@@ -2,7 +2,7 @@
 title: 【分享】只需4步，爱快路由轻松访问github
 date: 2022-04-25
 categories:
- - 分享
+ - 折腾
 tags:
  - 分享
  - iKuai
