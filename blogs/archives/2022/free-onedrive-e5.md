@@ -9,6 +9,32 @@ tags:
  - 分享
 ---
 
+## 前言
+
+Office365开发版E5是为开发人员提供的，是微软的官方活动，申请Office 365开发者计划可以获得为期3个月的免费Office365 E5。 而E5计划就包含了25个用于所有Office 365 应用的许可证(25 user licenses)。如果觉得正版office365贵的话，这就是免费获取正版Office的绝佳机会！
+
+::: tip
+过程很麻烦，需要有一定的耐心。还有可能会出现很多错误。
+:::
+
+需要材料：一个microsoft账号，一定的耐心，科学上网
+
+## 开始申请E5账号
+
+1. 进入 [Microsoft 365 开发人员计划](https://docs.microsoft.com/zh-cn/office/developer-program/microsoft-365-developer-program)
+
+2. 点击 <strong>加入 Microsoft 365 开发人员计划</strong> 下的 <strong>加入 Microsoft 365 开发人员计划</strong> 并打开科学上网
+
+3. 点击 Join now 按钮
+
+4. 填写信息（随便填）并成功创建沙盒
+
+5. 进入 [Microsoft 365 admin center](https://admin.microsoft.com/) 管理用户，最多25个用户
+
+（使用 ”用户名@域.onmicrosoft.com” 进行登录）
+
+
+
 
 <br>
 
