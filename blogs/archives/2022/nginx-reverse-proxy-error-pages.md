@@ -2,7 +2,7 @@
 title: Nginx自定义反向代理错误页
 date: 2022-05-29
 categories:
- - 分享
+ - 折腾
 tags:
  - 分享
  - Nginx
