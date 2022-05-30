@@ -75,7 +75,7 @@
       <div v-show="cur === 'thanks'">
         <strong>赞助名单～</strong><br><br>
         <strong>帮助名单～</strong><br><br>
-        感谢你们🙏！
+        感谢你们🙏！<br>
         <strong>赞助博主</strong><br><br>
       </div>
       
