@@ -151,18 +151,20 @@ module.exports = {
       {
         audios: [
           {
-            name: '*',
-            artist: '*',
-            url: '*',
-            cover: '*'
+            name: '*', // 歌曲名
+            artist: '*', // 创作者
+            url: '*', // 链接
+            cover: '*' // 封面
           },
           {
-            name: '*',
-            artist: '*',
-            url: '*',
-            cover: '*'
+            name: '*', // 歌曲名
+            artist: '*', // 创作者
+            url: '*', // 链接
+            cover: '*' // 封面
           }
-        ]
+        ],
+        autoShrink: true,
+        shrinkMode: 'mini'
       },
     ],
     [
