@@ -32,7 +32,7 @@ Office365开发版E5是为开发人员提供的，是微软的官方活动，申
 4. 填写信息（随便填）并成功创建沙盒
 
 5. 进入 [Microsoft 365 admin center](https://admin.microsoft.com/) 管理用户，最多25个用户<br>
-<img src='https://i.postimg.cc/TYHtwwCF/1388-A6-AB-413-B-4-AF2-8014-87-BBE65936-B9.jpg' width="100%" height="auto" alt='Microsoft 365 admin center'/>
+<img src='https://s1.ax1x.com/2022/05/30/X1BIgg.jpg' alt='Microsoft 365 admin center'/>
 
 （使用 ”用户名@域.onmicrosoft.com” 进行登录）
 
