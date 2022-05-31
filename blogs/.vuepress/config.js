@@ -158,25 +158,18 @@ module.exports = {
       }
     ],
     [
-      "@vuepress-reco/vuepress-plugin-bgm-player",
+      "vuepress-plugin-meting",
       {
-        audios: [
-          {
-            name: '*', // 歌曲名
-            artist: '*', // 创作者
-            url: '*', // 链接
-            cover: '*' // 封面
-          },
-          {
-            name: '*', // 歌曲名
-            artist: '*', // 创作者
-            url: '*', // 链接
-            cover: '*' // 封面
-          }
-        ],
-        autoShrink: true,
-        shrinkMode: 'mini'
-      },
+        meting: {
+          // server: '', // 音乐平台服务器，可选：["netease" | "tencent" | "kuwo" | "kugou" | "baidu"]
+          // type: '', // 资源类型，可选：["song" | "album" | "artist" | "playlist"]
+          // mid: '', // 资源ID
+          // auto: '' // 填写URL后自动解析资源平台
+        },
+        aplayer: {
+          lrcType: 3,
+        }
+      }
     ],
     [
       "@vuepress-reco/vuepress-plugin-back-to-top",
