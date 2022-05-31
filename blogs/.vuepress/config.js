@@ -189,8 +189,11 @@ module.exports = {
           // auto: '' // 填写URL后自动解析资源平台
         },
         aplayer: {
-          
-          lrcType: 3,
+          fixed: true, // 吸底模式
+          mini: true, // 迷你模式
+          autoplay: true, // 自动播放
+          listFolded: true, // 播放列表折叠
+          lrcType: 3, // lrc歌词解析模式
         }
       }
     ],
