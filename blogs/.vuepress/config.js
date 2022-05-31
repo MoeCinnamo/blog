@@ -43,10 +43,11 @@ module.exports = {
         ariaLabel: 'contact',
         items: [
           { text: 'GitHub', link: 'https://github.com/MoeCinnamo', icon: 'reco-github' },
+          { text: 'Email', link: 'mailto:abcd2890000456@126.com',icon: 'reco-message' },
+          { text: 'QQ', link: 'http://wpa.qq.com/msgrd?v=3&uin=597624858&site=qq&menu=yes',icon: 'reco-qq' },
           { text: '今日头条', link: 'https://www.toutiao.com/c/user/token/MS4wLjABAAAAiSeSKmi3utivPvvIzLLM_fHiTyY6whoPfTG5ipt1apg',icon: 'reco-toutiao' },
           { text: '抖音', link: 'https://www.douyin.com/user/MS4wLjABAAAAVSsT17E5DRZFg4S_FOuEnOs2dSJsWmSoSOWiakPp0zg', icon: 'reco-douyin' },
-          { text: 'Email', link: 'mailto:abcd2890000456@126.com',icon: 'reco-message' },
-          { text: 'QQ', link: 'http://wpa.qq.com/msgrd?v=3&uin=597624858&site=qq&menu=yes',icon: 'reco-qq' }
+          { text: 'BiliBili', link: 'https://space.bilibili.com/2144425903?spm_id_from=333.337.0.0',icon: 'reco-bilibili' }
         ],
         icon: 'reco-menu'
       },
