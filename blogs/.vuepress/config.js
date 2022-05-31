@@ -158,6 +158,27 @@ module.exports = {
       }
     ],
     [
+      "@vuepress-reco/vuepress-plugin-bgm-player",
+      {
+        audios: [
+          {
+            name: '*',
+            artist: '*',
+            url: '*',
+            cover: '*'
+          },
+          {
+            name: '*',
+            artist: '*',
+            url: '*',
+            cover: '*'
+          }
+        ],
+        autoShrink: true,
+        shrinkMode: 'mini'
+      }
+    ],
+    [
       "vuepress-plugin-meting",
       {
         // metingApi: '', // Meting API
