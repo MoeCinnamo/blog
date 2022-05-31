@@ -1,5 +1,6 @@
 module.exports = {
   base: '/',
+  lang: 'zh-CN',
   theme: 'reco',
   title: '天堂里の猫',
   description: '住在天空快活的猫咪',
