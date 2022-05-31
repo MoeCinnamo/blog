@@ -43,6 +43,7 @@ module.exports = {
         ariaLabel: 'contact',
         items: [
           { text: 'GitHub', link: 'https://github.com/MoeCinnamo', icon: 'reco-github' },
+          { text: 'Gitee', link: 'https://gitee.com/MoeCinnamo', icon: 'reco-mayun' },
           { text: 'Email', link: 'mailto:abcd2890000456@126.com',icon: 'reco-message' },
           { text: 'QQ', link: 'http://wpa.qq.com/msgrd?v=3&uin=597624858&site=qq&menu=yes',icon: 'reco-qq' },
           { text: '今日头条', link: 'https://www.toutiao.com/c/user/token/MS4wLjABAAAAiSeSKmi3utivPvvIzLLM_fHiTyY6whoPfTG5ipt1apg',icon: 'reco-toutiao' },
