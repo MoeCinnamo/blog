@@ -162,16 +162,16 @@ module.exports = {
 //      {
 //        audios: [
 //          {
-//            name: '*',
-//            artist: '*',
-//            url: '*',
-//            cover: '*'
+//            name: '*', // 歌名
+//            artist: '*', // 演唱者
+//            url: '*', // 地址
+//            cover: '*' // 封面
 //          },
 //          {
-//            name: '*',
-//            artist: '*',
-//            url: '*',
-//            cover: '*'
+//            name: '*', // 歌名
+//            artist: '*', // 演唱者
+//            url: '*', // 地址
+//            cover: '*' //封面
 //          }
 //        ],
 //        autoShrink: true,
@@ -189,6 +189,7 @@ module.exports = {
           // auto: '' // 填写URL后自动解析资源平台
         },
         aplayer: {
+          
           lrcType: 3,
         }
       }
