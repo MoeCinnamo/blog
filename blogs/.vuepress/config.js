@@ -217,7 +217,7 @@ module.exports = {
               //speed: '' // 单曲播放速度
             //}
           ],
-          lrcType: 3, // lrc歌词解析模式
+          lrcType: 3 // lrc歌词解析模式
         }
       }
     ],
