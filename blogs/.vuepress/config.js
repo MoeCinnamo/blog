@@ -160,8 +160,8 @@ module.exports = {
     [
       "vuepress-plugin-meting",
       {
+        // metingApi: '', // Meting API
         meting: {
-          // metingApi: '', // Meting API
           // server: '', // 音乐平台服务器，可选：["netease" | "tencent" | "kuwo" | "kugou" | "baidu"]
           // type: '', // 资源类型，可选：["song" | "album" | "artist" | "playlist"]
           // mid: '', // 资源ID
