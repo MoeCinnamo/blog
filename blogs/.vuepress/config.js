@@ -181,12 +181,12 @@ module.exports = {
     [
       "vuepress-plugin-meting",
       {
-        // metingApi: '', // Meting API
+        //metingApi: '', // Meting API
         meting: {
-          // server: '', // 音乐平台服务器，可选：["netease" | "tencent" | "kuwo" | "kugou" | "baidu"]
-          // type: '', // 资源类型，可选：["song" | "album" | "artist" | "playlist"]
-          // mid: '', // 资源ID
-          // auto: '' // 填写URL后自动解析资源平台
+          //server: '', // 音乐平台服务器，可选：["netease" | "tencent" | "kuwo" | "kugou" | "baidu"]
+          //type: '', // 资源类型，可选：["song" | "album" | "artist" | "playlist"]
+          //mid: '', // 资源ID
+          //auto: '' // 填写URL后自动解析资源平台
         },
         aplayer: {
           fixed: true, // 吸底模式
@@ -194,28 +194,28 @@ module.exports = {
           autoplay: true, // 自动播放
           listFolded: true, // 播放列表折叠
           additionalAudios: [
-            {
-              id: 1, // 音频 id
-              name: '名称', // 音频名称
-              artist: '艺术家', // 音频艺术家
-              url: '播放地址', // 音频播放地址
-              cover: '封面', // 音频封面
-              lrc: '歌词', // lrc 歌词
-              theme: '主题色', // 单曲主题色，它将覆盖全局的默认主题色
-              type: '类型', // 指定音频的类型
-              speed: '速度' // 单曲播放速度
-            },
-            {
-              id: 2, // 音频 id
-              name: '名称', // 音频名称
-              artist: '艺术家', // 音频艺术家
-              url: '播放地址', // 音频播放地址
-              cover: '封面', // 音频封面
-              lrc: '歌词', // lrc 歌词
-              theme: '主题色', // 单曲主题色，它将覆盖全局的默认主题色
-              type: '类型', // 指定音频的类型
-              speed: '速度' // 单曲播放速度
-            }
+            //{
+              //id: 1, // 音频 id
+              //name: '', // 音频名称
+              //artist: '', // 音频艺术家
+              //url: '', // 音频播放地址
+              //cover: '', // 音频封面
+              //lrc: '', // lrc 歌词
+              //theme: '', // 单曲主题色，它将覆盖全局的默认主题色
+              //type: '', // 指定音频的类型
+              //speed: '' // 单曲播放速度
+            //},
+            //{
+              //id: 2, // 音频 id
+              //name: '', // 音频名称
+              //artist: '', // 音频艺术家
+              //url: '', // 音频播放地址
+              //cover: '', // 音频封面
+              //lrc: '', // lrc 歌词
+              //theme: '', // 单曲主题色，它将覆盖全局的默认主题色
+              //type: '', // 指定音频的类型
+              //speed: '' // 单曲播放速度
+            //}
           ],
           lrcType: 3, // lrc歌词解析模式
         }
