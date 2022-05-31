@@ -193,6 +193,30 @@ module.exports = {
           mini: true, // 迷你模式
           autoplay: true, // 自动播放
           listFolded: true, // 播放列表折叠
+          additionalAudios: [
+            {
+              id: 1, // 音频 id
+              name: '名称', // 音频名称
+              artist: '艺术家', // 音频艺术家
+              url: '播放地址', // 音频播放地址
+              cover: '封面', // 音频封面
+              lrc: '歌词', // lrc 歌词
+              theme: '主题色', // 单曲主题色，它将覆盖全局的默认主题色
+              type: '类型', // 指定音频的类型
+              speed: '速度' // 单曲播放速度
+            },
+            {
+              id: 2, // 音频 id
+              name: '名称', // 音频名称
+              artist: '艺术家', // 音频艺术家
+              url: '播放地址', // 音频播放地址
+              cover: '封面', // 音频封面
+              lrc: '歌词', // lrc 歌词
+              theme: '主题色', // 单曲主题色，它将覆盖全局的默认主题色
+              type: '类型', // 指定音频的类型
+              speed: '速度' // 单曲播放速度
+            }
+          ],
           lrcType: 3, // lrc歌词解析模式
         }
       }
