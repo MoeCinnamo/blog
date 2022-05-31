@@ -157,27 +157,27 @@ module.exports = {
         clean: true
       }
     ],
-    [
-      "@vuepress-reco/vuepress-plugin-bgm-player",
-      {
-        audios: [
-          {
-            name: '*',
-            artist: '*',
-            url: '*',
-            cover: '*'
-          },
-          {
-            name: '*',
-            artist: '*',
-            url: '*',
-            cover: '*'
-          }
-        ],
-        autoShrink: true,
-        shrinkMode: 'mini'
-      }
-    ],
+//    [
+//      "@vuepress-reco/vuepress-plugin-bgm-player",
+//      {
+//        audios: [
+//          {
+//            name: '*',
+//            artist: '*',
+//            url: '*',
+//            cover: '*'
+//          },
+//          {
+//            name: '*',
+//            artist: '*',
+//            url: '*',
+//            cover: '*'
+//          }
+//        ],
+//        autoShrink: true,
+//        shrinkMode: 'mini'
+//      }
+//    ],
     [
       "vuepress-plugin-meting",
       {
