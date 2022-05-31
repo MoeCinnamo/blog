@@ -1,6 +1,6 @@
 ---
 home: true
-bgImage: 'https://www.dmoe.cc/random.php'
+bgImage: 'https://api.ixiaowai.cn/api/api.php'
 bgImageStyle: {
   height: '400px'
 }
