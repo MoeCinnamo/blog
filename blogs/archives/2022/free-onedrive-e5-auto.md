@@ -77,6 +77,7 @@ https://e5.qyi.io/outlook/auth2/receive
 
 <img src='https://img.qyi.io/images/2021/02/07/MqFWUocRk2223d51a83136b771.png'>
 
+点击 Github图标 登录后进入主页面(这是因为作者前端没做好，不影响使用)
 
 <br>
 
