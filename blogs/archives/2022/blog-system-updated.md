@@ -25,19 +25,6 @@ tags:
 
 此次升级主要是稳定性和界面速度的优化，并且删除了原来hexo的静态残留，编辑文章也会更加得心应手。
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5632902373632503"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-5632902373632503"
-     data-ad-slot="6044290679"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-
 <br>
 
 | Copyright |
