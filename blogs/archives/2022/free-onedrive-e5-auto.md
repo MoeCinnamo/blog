@@ -11,6 +11,8 @@ tags:
 
 ## 前言
 
+若没看上期，请至 [这里](https://blog.mojy.xyz/archives/2022/free-onedrive-e5.html)
+
 上期我们说到了教你拥有免费的 OneDrive E5 ，但是在 120 天后它就会过期，你将不会再可以使用。
 
 而网上很多的大佬也制作出了自动续期的API，而我们可以通过调用这些API实现 E5 的自动续期功能。
