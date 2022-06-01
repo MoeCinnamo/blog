@@ -71,13 +71,54 @@ https://e5.qyi.io/outlook/auth2/receive
 
 #### 2. 为自动订阅程序添加 key 操作
 
-进入 https://e5.qyi.io/
+##### 进入 https://e5.qyi.io/
 
 这里只是授权登录，不会获取到敏感信息。
 
 <img src='https://img.qyi.io/images/2021/02/07/MqFWUocRk2223d51a83136b771.png'>
 
-点击 Github图标 登录后进入主页面(这是因为作者前端没做好，不影响使用)
+##### 点击 Github图标
+
+登录后进入主页面(这是因为作者前端没做好，不影响使用)
+
+##### 点击 新建
+
+名称随便输，描述不需要输入
+
+<img src='https://img.qyi.io/images/2021/02/07/0jQdNo4H0F31e606962bf2ab82.png'>
+
+##### 点击 配置
+
+<img src='https://img.qyi.io/images/2021/02/07/sF0GV8RrIRcff9d79b888ae01e.png'>
+
+###### 配置Key
+填入前面记录的 应用程序(客户端)ID、客户端密码  
+client_id ->应用程序(客户端)ID
+client_secret->客户端密码
+
+<img src='https://img.qyi.io/images/2021/02/07/chrome_cbGLsqIZ0W8f844d0522993632.png'>
+
+点击<strong>下一步</strong>
+
+###### 配置调用时间
+
+调用时间一般 60 秒就可以
+
+<img src='https://img.qyi.io/images/2021/02/07/chrome_utRYW7imVI3fc44c6428c5110c.png'>
+
+点击<strong>下一步</strong>
+
+###### 进行授权
+
+点击<strong>代表组织同意</strong>再点击<strong>接受</strong>
+
+<img src='https://img.qyi.io/images/2020/03/01/image5a04cd92d780d42f.png'>
+
+此时会跳转回自动订阅程序
+
+<img src='https://img.qyi.io/images/2021/02/07/image3132e5bf78456777.png'>
+
+授权添加成功
 
 <br>
 
