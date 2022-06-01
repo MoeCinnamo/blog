@@ -40,6 +40,8 @@ Office365开发版E5是为开发人员提供的，是微软的官方活动，申
 
 6. 默认空间是1t，进入 [Onedrive-默认存储空间修改](https://admin.onedrive.com/#v=StorageSettings) ，登录账号->设置->存储限制->把1024改成5120(改成别的也行，看你需求)<ins>管理员账户默认是无限空间，自动续订推荐使用管理员用户</ins>
 
+设置自动续期教程请到 [这里](https://blog.mojy.xyz/archives/2022/free-onedrive-e5-auto.html)
+
 ## 总结
 
 总体来说，申请是比较麻烦的，并且还要进行科学上网，不过能获得近乎无限(5*25)的存储空间还算不错啦！
