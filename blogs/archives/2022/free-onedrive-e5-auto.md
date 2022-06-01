@@ -120,6 +120,10 @@ client_secret->客户端密码
 
 授权添加成功
 
+## 感谢
+
+[浅忆](https://qyi.io)
+
 <br>
 
 | Copyright |
