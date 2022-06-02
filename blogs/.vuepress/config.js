@@ -249,13 +249,6 @@ module.exports = {
       },
     ],
     [
-      "@vuepress-reco/vuepress-plugin-pagation",
-      {
-        total: 20,
-        perPage: 20
-      },
-    ],
-    [
       '@vuepress/pwa',
       {
         serviceWorker: true,
