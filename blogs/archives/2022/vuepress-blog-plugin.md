@@ -1,12 +1,12 @@
 ---
-title: 博客系统升级啦！
-date: 2022-05-29
-sticky: 1
+title: Vuepress博客美化之插件
+date: 2022-06-2
 categories:
  - 博客
 tags:
  - 博客
  - 插件
+ - 美化
 ---
 
 <br>
