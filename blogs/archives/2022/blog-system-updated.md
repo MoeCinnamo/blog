@@ -5,6 +5,7 @@ sticky: 1
 categories:
  - 博客
 tags:
+ - 博客
  - 系统
  - 升级
 ---
