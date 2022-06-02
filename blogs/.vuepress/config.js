@@ -128,6 +128,7 @@ module.exports = {
     lineNumbers: true
   },
   plugins: [
+    ["@snippetors/vuepress-plugin-code-copy"],
     [
       "vuepress-plugin-dynamic-title",
       {
