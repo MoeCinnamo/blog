@@ -46,17 +46,13 @@ categories:
 
 ## 参考资料
 
-江晚舟.争与不争，决定了你的格局<br>
-https://zhuanlan.zhihu.com/p/33207380
+[江晚舟.争与不争，决定了你的格局](https://zhuanlan.zhihu.com/p/33207380)
 
-腾讯网.争与不争的境界<br>
-https://new.qq.com/omn/20210428/20210428A0A72S00.html
+[腾讯网.争与不争的境界](https://new.qq.com/omn/20210428/20210428A0A72S00.html)
 
-成都独行侠.争与不争<br>
-https://www.jianshu.com/p/351aee6efcaf
+[成都独行侠.争与不争](https://www.jianshu.com/p/351aee6efcaf)
 
-搜狐网.不争，乃大争。不争，则天下人与之不争<br>
-https://www.sohu.com/a/239791951_99959688
+[搜狐网.不争，乃大争。不争，则天下人与之不争](https://www.sohu.com/a/239791951_99959688)
 
 <br>
 
