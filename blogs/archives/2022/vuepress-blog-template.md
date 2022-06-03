@@ -47,7 +47,7 @@ mkdir vuepress-starter && cd vuepress-starter && npm init && npm install -D vuep
 再执行：
 
 ``` sh
-npm run docs:dev
+npm run dev
 ```
 
 等成功执行后访问给出的地址，显示 Hello World 就是 Vuepress 安装成功。
