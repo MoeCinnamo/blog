@@ -132,6 +132,13 @@ module.exports = {
     ["vuepress-plugin-code-copy",true],
     ["@vuepress-reco/vuepress-plugin-screenfull",true],
     [
+      "vuepress-plugin-copyright",
+      {
+        authorName: '天堂里の猫', // 复制后将出现著作权信息
+        minLength: 60, // 如果长度超过 60 个字符
+      }
+    ],
+    [
       "vuepress-plugin-dynamic-title",
       {
         showIcon: 'https://gravatar.loli.net/avatar/ae4dd9f92845152e9ae8b67a4ec8e53e;s=64',
