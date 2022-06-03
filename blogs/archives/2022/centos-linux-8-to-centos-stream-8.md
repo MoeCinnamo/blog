@@ -21,7 +21,7 @@ tags:
 
 输入代码：
 
-```shell
+```sh
 curl -o /etc/yum.repos.d/CentOS-Base.repo https://mirrors.aliyun.com/repo/Centos-vault-8.5.2111.repo
 ```
 
@@ -31,7 +31,7 @@ curl -o /etc/yum.repos.d/CentOS-Base.repo https://mirrors.aliyun.com/repo/Centos
 
 升级的方式很简单，如下：
 
-```shell
+```sh
 [root@centos ~]# dnf swap centos-linux-repos centos-stram-repos
 [root@centos ~]# dnf distro-sync
 ```
@@ -42,7 +42,7 @@ curl -o /etc/yum.repos.d/CentOS-Base.repo https://mirrors.aliyun.com/repo/Centos
 
 ## 验证
 
-```shell
+```sh
 [root@centos ~]# cat /etc/centos-release
 CentOS Stream release 8
 ```
