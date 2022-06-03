@@ -29,11 +29,18 @@ module.exports = {
     noFoundPageByTencent: false,
     nav: [
       { text: '主页', link: '/', icon: 'reco-home' },
-      { text: '时间线', link: '/timeline/', icon: 'reco-date' },
-      { text: '关于', link: '/about.md', icon: 'reco-faq' },
-      { text: '留言', link: '/message.md', icon: 'reco-message' },
-      { text: '一言', link: '/say.md',icon: 'reco-message' },
-      { text: '友链', link: '/links.md',icon: 'reco-blog' },
+      {
+        text: '模块',
+        ariaLabel: 'module',
+        items: [
+          { text: '时间线', link: '/timeline/', icon: 'reco-date' },
+          { text: '留言', link: '/message.md', icon: 'reco-message' },
+          { text: '一言', link: '/say.md',icon: 'reco-message' },
+          { text: '关于', link: '/about.md', icon: 'reco-faq' },
+        ],
+        icon: 'reco-menu'
+      },
+      { text: '友', link: '/links.md',icon: 'reco-blog' },
       { text: 'RSS', link: 'https://blog.mojy.xyz/rss.xml',icon: 'reco-bokeyuan' },
       {
         text: '联系',
@@ -77,11 +84,11 @@ module.exports = {
     blogConfig: {
       category: {
         location: 2, // 在导航栏菜单中所占的位置，默认2
-        text: '分类' // 默认 “分类”
+        text: '文' // 默认 “分类”
       },
       tag: {
         location: 3, // 在导航栏菜单中所占的位置，默认3
-        text: '标签' // 默认 “标签”
+        text: '标' // 默认 “标签”
       }
     },
     logo: 'https://gravatar.loli.net/avatar/ae4dd9f92845152e9ae8b67a4ec8e53e;s=640',
