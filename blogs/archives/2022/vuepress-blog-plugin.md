@@ -130,6 +130,63 @@ plugins: [['vuepress-plugin-code-copy', true]]
 
 它会显示一个复制图标，也是最常用的代码复制插件。
 
+## 3. 添加著作权信息
+
+使用 vuepress-plugin-copyright可以禁用文字复制或者在复制时添加著作权信息。
+
+[插件地址](https://vuepress-community.netlify.app/zh/plugins/copyright)
+
+### 安装
+
+``` sh
+npm install vuepress-plugin-copyright
+```
+
+### 使用
+
+``` js
+plugins: [
+  [
+    'copyright',
+    {
+      noCopy: true, // 选中的文字将无法被复制
+      authorName: '博客名称', // 复制后将出现著作权信息
+      minLength: 40, // 如果长度超过  40 个字符
+    },
+  ]
+]
+```
+
+## 4. 背景音乐
+
+[插件地址](https://moefyit.github.io/moefy-vuepress/packages/meting.html)
+
+### 安装
+
+``` sh
+npm install vuepress-plugin-meting
+```
+
+### 使用
+
+``` js
+plugins: [
+ 'meting',
+   {
+      metingApi,
+      meting,
+      aplayer,
+      mobile,
+    },
+]
+```
+
+### 效果
+
+<Meting />
+
+
+
 <br>
 
 | Copyright |
