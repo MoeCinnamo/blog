@@ -185,6 +185,42 @@ plugins: [
 
 <Meting />
 
+## 5. 看板娘
+
+[插件地址](https://vuepress-theme-reco.recoluan.com/views/plugins/kanbanniang.html)
+
+### 安装
+
+``` sh
+npm install @vuepress-reco/vuepress-plugin-kan-ban-niang
+```
+
+### 使用
+
+``` js
+plugins: [
+  [
+    '@vuepress-reco/vuepress-plugin-kan-ban-niang',
+    {
+      theme: ['blackCat', 'whiteCat', 'haru1', 'haru2', 'haruto', 'koharu', 'izumi', 'shizuku', 'wanko', 'miku', 'z16']
+    }
+  ]
+]
+```
+
+### 效果截图
+
+<img src='https://vuepress-theme-reco.recoluan.com/assets/img/kanbannaing_1.9d4605aa.png'>
+
+## 6. 光标效果
+
+[插件文档](https://moefyit.github.io/moefy-vuepress/packages/cursor-effects.html)
+
+### 安装
+
+``` sh
+npm install vuepress-plugin-cursor-effects
+```
 
 
 <br>
