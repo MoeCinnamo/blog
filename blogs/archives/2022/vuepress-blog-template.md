@@ -62,20 +62,15 @@ npm install vuepress-theme-reco
 
 按照好后打开 <code>blogs</code> 文件夹，引用模版配置文件，配置站点标题等信息：
 
-<RecoDemo :collapse="true">
-<template slot="code-js">
-<pre>
+``` js
 // .vuepress/config.js
-
 
 module.exports = {
   title: '你的博客名称',
   description: '你的博客的简介'
   theme: 'reco' // 博客模版，'reco' 是推荐模版，也可改成别的
 }
-</pre>
-</template>
-</RecoDemo>
+```
 
 然后修改blogs文件夹里面的 <code>README.md</code> 文件为：
 
