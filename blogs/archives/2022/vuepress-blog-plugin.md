@@ -240,7 +240,74 @@ plugins: [
 
 ## 7. 动态标题
 
-[插件文档](https://moefyit.github.io/moefy-vuepress/packages/cursor-effects.html)
+[插件文档](https://moefyit.github.io/moefy-vuepress/packages/dynamic-title.html)
+
+### 安装
+
+``` sh
+npm install vuepress-plugin-dynamic-title
+```
+
+### 使用
+
+``` js
+plugins: [
+  ['dynamic-title', {
+     showIcon: 'https://www.typescriptlang.org/favicon-32x32.png?v=8944a05a8b601855de116c8a56d3b3ae',
+     showText: '客官欢迎回来~',
+     hideIcon: 'https://www.typescriptlang.org/favicon-32x32.png?v=8944a05a8b601855de116c8a56d3b3ae',
+     hideText: '客官不要走嘛~',
+     recoverTime: 2000,
+ }]
+]
+```
+
+## 8. 优化代码展示
+
+### 安装
+
+``` sh
+npm install @vuepress-reco/vuepress-plugin-extract-code
+```
+
+### 使用
+
+``` js
+plugins: [
+    '@vuepress-reco/extract-code'
+  ]
+```
+
+### 效果
+
+<RecoDemo :collapse="true">
+<template slot="code-markdown">
+<pre>
+效果1
+</pre>
+</template>
+<template slot="code-markdown">
+<pre>
+效果2
+</pre>
+</template>
+</RecoDemo>
+
+## 更多插件
+
+1. [reco插件广场](https://vuepress-theme-reco.recoluan.com/views/other/recommend.html)
+
+2. [VuePress 社区 插件](https://vuepress-community.netlify.app/zh/)
+
+3. [官方插件](https://v1.vuepress.vuejs.org/zh/plugin/)
+
+4. npm 搜 vuepress-plugin 关键字
+
+5. github 搜 vuepress-plugin 关键字
+
+## 总结
+
+插件繁多
 
 <br>
 
