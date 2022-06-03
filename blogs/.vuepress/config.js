@@ -129,7 +129,7 @@ module.exports = {
   },
   plugins: [
     ["@vuepress-reco/extract-code",true],
-    ["@snippetors/vuepress-plugin-code-copy",true],
+    ["vuepress-plugin-code-copy",true],
     ["@vuepress-reco/vuepress-plugin-screenfull",true],
     [
       "vuepress-plugin-dynamic-title",
