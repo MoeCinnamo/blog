@@ -128,9 +128,9 @@ module.exports = {
     lineNumbers: true
   },
   plugins: [
-    ["@vuepress-reco/extract-code"],
+    ["@vuepress-reco/extract-code",true],
     ["@snippetors/vuepress-plugin-code-copy",true],
-    ["@vuepress-reco/vuepress-plugin-screenfull"],
+    ["@vuepress-reco/vuepress-plugin-screenfull",true],
     [
       "vuepress-plugin-dynamic-title",
       {
