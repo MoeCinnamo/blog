@@ -29,11 +29,11 @@ module.exports = {
     noFoundPageByTencent: false,
     nav: [
       { text: '主页', link: '/', icon: 'reco-home' },
+      { text: '时间线', link: '/timeline/', icon: 'reco-date' },
       {
         text: '模块',
         ariaLabel: 'module',
         items: [
-          { text: '时间线', link: '/timeline/', icon: 'reco-date' },
           { text: '关于', link: '/about.md', icon: 'reco-faq' },
           { text: '留言', link: '/message.md', icon: 'reco-message' },
           { text: '一言', link: '/say.md',icon: 'reco-message' },
