@@ -51,6 +51,15 @@ npm run dev
 ```
 
 等成功执行后访问给出的地址，显示 Hello World 就是 Vuepress 安装成功。
+
+#### 安装模版
+
+执行安装模版命令：
+
+``` sh
+npm install vuepress-theme-reco
+```
+
 <br>
 
 | Copyright |
