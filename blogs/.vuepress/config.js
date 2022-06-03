@@ -40,7 +40,7 @@ module.exports = {
         ],
         icon: 'reco-menu'
       },
-      { text: '友', link: '/links.md',icon: 'reco-blog' },
+      { text: '友链', link: '/links.md',icon: 'reco-blog' },
       { text: 'RSS', link: 'https://blog.mojy.xyz/rss.xml',icon: 'reco-bokeyuan' },
       {
         text: '联系',
@@ -84,11 +84,11 @@ module.exports = {
     blogConfig: {
       category: {
         location: 2, // 在导航栏菜单中所占的位置，默认2
-        text: '文' // 默认 “分类”
+        text: '分类' // 默认 “分类”
       },
       tag: {
         location: 3, // 在导航栏菜单中所占的位置，默认3
-        text: '标' // 默认 “标签”
+        text: '标签' // 默认 “标签”
       }
     },
     logo: 'https://gravatar.loli.net/avatar/ae4dd9f92845152e9ae8b67a4ec8e53e;s=640',
