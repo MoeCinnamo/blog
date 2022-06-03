@@ -96,6 +96,12 @@ bgImageStyle: {
 
 执行 <code>npm run build</code> 就可以将静态页面部署到 <code>docs/.vuepress/dist</code> 目录中
 
+## 总结
+
+实际上使用 Vuepress 搭建博客也并不复杂，你也可以把它放到 Github 中，更简单，也不需要手动执行代码实现更新文章。
+
+也可以放在服务器中，设置一个每三小时执行一次的计划任务，这样也可以实现每三小时自动刷新的作用
+
 <br>
 
 | Copyright |
