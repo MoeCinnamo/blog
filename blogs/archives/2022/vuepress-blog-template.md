@@ -23,7 +23,7 @@ tags:
 
 它安装很简单，只需要简单的执行命令即可。
 
-#### 对于服务器部署
+#### 安装 Vuepress
 
 首先安装 Vuepress 文档系统，执行：
 
@@ -44,6 +44,13 @@ mkdir vuepress-starter && cd vuepress-starter && npm init && npm install -D vuep
 }
 ```
 
+再执行：
+
+``` sh
+npm run docs:dev
+```
+
+等成功执行后访问给出的地址，显示 Hello World 就是 Vuepress 安装成功。
 <br>
 
 | Copyright |
