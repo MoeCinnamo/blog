@@ -283,12 +283,14 @@ plugins: [
 <RecoDemo :collapse="true">
 <template slot="code-js">
 <pre>
-效果1
+plugins: {}
 </pre>
 </template>
 <template slot="code-css">
 <pre>
-效果2
+body {
+  background-color: lightblue;
+}
 </pre>
 </template>
 </RecoDemo>
