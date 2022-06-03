@@ -114,7 +114,21 @@ plugins: [
 
 ## 2. 代码复制
 
+[插件地址](https://github.com/znicholasbrown/vuepress-plugin-code-copy)
 
+### 安装
+
+``` sh
+npm install vuepress-plugin-code-copy
+```
+
+### 使用
+
+``` js
+plugins: [['vuepress-plugin-code-copy', true]]
+```
+
+它会显示一个复制图标，也是最常用的代码复制插件。
 
 <br>
 
