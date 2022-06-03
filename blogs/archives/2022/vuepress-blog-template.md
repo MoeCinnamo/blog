@@ -60,6 +60,42 @@ npm run dev
 npm install vuepress-theme-reco
 ```
 
+按照好后打开 <code>blogs</code> 文件夹，引用模版配置文件，配置站点标题等信息：
+
+<RecoDemo :collapse="true">
+<template slot="code-js">
+<pre>
+// .vuepress/config.js
+
+module.exports = {
+  title: '你的博客名称',
+  description: '你的博客的简介'
+  theme: 'reco' // 博客模版，'reco' 是推荐模版，也可改成别的
+}
+</pre>
+</template>
+</RecoDemo>
+
+然后修改blogs文件夹里面的 <code>README.md</code> 文件为：
+
+```
+# 这是你的主页
+
+---
+home: true
+bgImage: '/bg.png'
+bgImageStyle: {
+  height: '200px'
+}
+---
+```
+
+更多首页配置请查看 [模版文档-首页配置](https://vuepress-theme-reco.recoluan.com/views/1.x/home.html)
+
+即可将模版安装成功
+
+执行 <code>npm run build</code> 就可以将静态页面部署到 <code>docs/.vuepress/dist</code> 目录中
+
 <br>
 
 | Copyright |
