@@ -157,7 +157,7 @@ plugins: [
 ]
 ```
 
-## 4. 背景音乐
+## 4. 音乐
 
 [插件地址](https://moefyit.github.io/moefy-vuepress/packages/meting.html)
 
@@ -184,6 +184,10 @@ plugins: [
 ### 效果
 
 <Meting />
+
+### 其它音乐插件
+
+[bgm player](https://vuepress-theme-reco.recoluan.com/views/plugins/bgmPlayer.html)
 
 ## 5. 看板娘
 
@@ -222,6 +226,21 @@ plugins: [
 npm install vuepress-plugin-cursor-effects
 ```
 
+### 使用
+
+``` js
+plugins: [
+  ['cursor-effects', {
+    size: 2, // size of the particle, default: 2
+    shape: 'star', // ['star' | 'circle'], // shape of the particle, default: 'star'
+    zIndex: 999999999, // z-index property of the canvas, default: 999999999
+ }]
+]
+```
+
+## 7. 动态标题
+
+[插件文档](https://moefyit.github.io/moefy-vuepress/packages/cursor-effects.html)
 
 <br>
 
