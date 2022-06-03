@@ -67,6 +67,7 @@ npm install vuepress-theme-reco
 <pre>
 // .vuepress/config.js
 
+
 module.exports = {
   title: '你的博客名称',
   description: '你的博客的简介'
