@@ -102,7 +102,7 @@ module.exports = {
     // 最后更新时间
     lastUpdated: '最后更新',
     // 作者
-    author: 'MoeCinnamo',
+    author: '玉桂喵千寻',
     authorAvatar: 'https://gravatar.loli.net/avatar/ae4dd9f92845152e9ae8b67a4ec8e53e;s=640',
     // 备案号
     record: '',
