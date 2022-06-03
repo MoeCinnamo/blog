@@ -289,7 +289,7 @@ plugins: {}
 <template slot="code-css">
 <pre>
 body {
-  background-color: lightblue;
+  background-color: skyblue;
 }
 </pre>
 </template>
