@@ -33,6 +33,7 @@
     "vuepress-plugin-sitemap": "^2.3.1",
     "@vuepress-reco/vuepress-plugin-screenfull": "^1.0.1",
     "vuepress-plugin-code-copy": "^1.0.6",
+    "vuepress-plugin-copyright": "^1.0.2",
     "@vuepress-reco/vuepress-plugin-extract-code": "^1.0.4"
   }
 }
