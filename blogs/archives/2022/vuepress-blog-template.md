@@ -28,7 +28,7 @@ tags:
 首先安装 Vuepress 文档系统，执行：
 
 ``` sh
-mkdir vuepress-starter && cd vuepress-starter && npm init && npm install -D vuepress && mkdir docs && echo '# Hello' > blogs/README.md
+mkdir vuepress-starter && cd vuepress-starter && npm init && npm install -D vuepress && mkdir docs && echo '# Hello World' > blogs/README.md
 ```
 
 按照提示进行安装即可成功安装最基础的文档系统
@@ -38,8 +38,8 @@ mkdir vuepress-starter && cd vuepress-starter && npm init && npm install -D vuep
 ``` json
 {
   "scripts": {
-    "docs:dev": "vuepress dev docs",
-    "docs:build": "vuepress build docs"
+    "dev": "vuepress dev blogs",
+    "build": "vuepress build blogs"
   }
 }
 ```
