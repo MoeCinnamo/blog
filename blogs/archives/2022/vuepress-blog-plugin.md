@@ -281,12 +281,12 @@ plugins: [
 ### 效果
 
 <RecoDemo :collapse="true">
-<template slot="code-markdown">
+<template slot="code-js">
 <pre>
 效果1
 </pre>
 </template>
-<template slot="code-markdown">
+<template slot="code-css">
 <pre>
 效果2
 </pre>
