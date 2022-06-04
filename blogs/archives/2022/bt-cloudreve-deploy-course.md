@@ -1,5 +1,5 @@
 ---
-title: Cloudreve 部署教程
+title: Cloudreve 宝塔面板简易部署教程
 date: 2022-06-04
 categories:
  - 折腾
@@ -42,12 +42,36 @@ tags:
 
 ## 安装宝塔面板
 
+使用工具连接服务器的ssh终端，执行以下代码：
 
+``` sh
+yum install -y wget && wget -O install.sh http://download.bt.cn/install/install_6.0.sh && sh install.sh
+```
+
+根据提示进行安装即可
+
+## 安装 依赖
+
+安装好宝塔面板后，登录面板。
+
+打开面板左侧软件商店，依次安装 Nginx (随便哪个版本都行)，MySQL (5.7以上版本)，phpmyadmin (随便哪个版本都行)，PHP 7.2。
+
+## 创建数据库
+
+打开面板左侧数据库，点击添加数据库，数据库名填写<code>Cloudreve</code>，其它信息不用管；点击提交即可创建数据库。
+
+## 安装 aria2
+
+执行代码：
+
+``` sh
+yum install -y aria2
+```
 
 <br>
 
 | Copyright |
 | :-----|
 | 文章作者: <a href="mailto:abcd2890000456@126.com">玉桂喵</a> |
-| 文章链接: [https://blog.mojy.xyz/archives/2022/cloudreve-deploy-course.html](https://blog.mojy.xyz/archives/2022/cloudreve-deploy-course.html) |
+| 文章链接: [https://blog.mojy.xyz/archives/2022/bt-cloudreve-deploy-course.html](https://blog.mojy.xyz/archives/2022/bt-cloudreve-deploy-course.html) |
 | 版权声明: 商业转载请联系站长获得授权，非商业转载请注明本文出处及文章链接，未经站长允许不得对文章文字内容进行修改演绎。本文采用[创作共用保留署名-非商业-禁止演绎4.0国际许可证](https://creativecommons.org/licenses/by-nc-nd/4.0/)。 |
