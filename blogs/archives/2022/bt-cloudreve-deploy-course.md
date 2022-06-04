@@ -85,7 +85,7 @@ touch /etc/aria2/aria2.session
 
 内容为：
 
-``` conf
+```
 #设置下载目录(这是缺省值，Cloudreve里面设置的和它不应该一样)
 dir=/www/Downloads
 
@@ -173,7 +173,7 @@ sudo chmod +x ./cloudreve
 
 在文件最后添加：
 
-``` ini
+```
 [Database]
 ; 数据库类型，目前支持 sqlite | mysql
 Type = mysql
