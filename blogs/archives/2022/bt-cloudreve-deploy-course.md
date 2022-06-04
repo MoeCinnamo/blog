@@ -8,6 +8,7 @@ tags:
  - 教程
  - 分享
 ---
+
 ## 序
 
 我有很多文件需要存储，家里的硬盘也有很大的空间，我想找一个开源的网盘程序使用。因此我就在 GitHub 上面找到了 Cloudreve 这个网盘程序，想要制作一个共享网盘。
@@ -62,11 +63,13 @@ yum install -y wget && wget -O install.sh http://download.bt.cn/install/install_
 
 ## 安装 aria2
 
-执行代码：
+### 安装
 
 ``` sh
 yum install -y aria2
 ```
+
+
 
 <br>
 
