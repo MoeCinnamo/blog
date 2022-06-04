@@ -86,13 +86,13 @@ module.exports = {
         desc: '免费自动秒收录（mffac.com）-极速收录网',
         logo: 'https://www.mffac.com/favicon.ico',
         link: 'https://www.mffac.com/'
-      },
-      {
-        title: '自动秒收录',
-        desc: '0558自动秒收录网',
-        logo: 'http://www.0558.la/favicon.ico',
-        link: 'http://www.0558.la/'
       }
+//      {
+//        title: '*',
+//        desc: '*',
+//        logo: '*',
+//        link: '*'
+//      }
     ],
     // 博客设置
     blogConfig: {
