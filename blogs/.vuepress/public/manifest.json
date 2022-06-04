@@ -22,7 +22,7 @@
       "src": "/myssl/myssl-id3.webp",
       "sizes": "448x237",
       "type": "image/webp"
-    },
+    }
   ],
   "start_url": "/index.html",
   "display": "standalone",
