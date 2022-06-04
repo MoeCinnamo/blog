@@ -86,10 +86,8 @@ touch /etc/aria2/aria2.session
 内容为：
 
 ```
-#设置下载目录
-dir=/home/[username]/cloudreve/Downloads
-#关闭ipv6
-disable-ipv6=true
+#设置下载目录(这是缺省值，Cloudreve里面设置的和它不应该一样)
+dir=/www/Downloads
 
 #打开rpc的目的是为了给web管理端用
 enable-rpc=true
@@ -102,7 +100,7 @@ input-file=/etc/aria2/aria2.session
 save-session=/etc/aria2/aria2.session
 
 #最大同时下载任务数
-max-concurrent-downloads=20
+max-concurrent-downloads=40
 save-session-interval=120
 
 # Http/FTP 相关
@@ -112,13 +110,15 @@ connect-timeout=120
 max-connection-per-server=10
 #max-file-not-found=2
 #最小文件分片大小, 下载线程数上限取决于能分出多少片, 对于小文件重要
-min-split-size=10M
+min-split-size=20M
 
 #单文件最大线程数, 路由建议值: 5
-split=10
+split=15
 check-certificate=false
 #http-no-cache=true
 ```
+
+
 
 <br>
 
