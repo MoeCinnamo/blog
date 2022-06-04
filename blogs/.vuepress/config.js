@@ -75,12 +75,6 @@ module.exports = {
         logo: 'http://www.lianjie99.cn/favicon.ico',
         link: 'http://www.lianjie99.cn/'
       },
-      {
-        title: '吾爱收录网',
-        desc: '吾爱收录网',
-        logo: 'https://www.n520.net/favicon.ico',
-        link: 'https://www.n520.net/'
-      }
 //      {
 //        title: '*',
 //        desc: '*',
