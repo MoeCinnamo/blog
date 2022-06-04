@@ -68,20 +68,20 @@ module.exports = {
         icon: 'reco-menu'
       }
     ],
-    friendLink: [
-      {
-        title: '链接99自动秒收录',
-        desc: '链接99自动秒收录网',
-        logo: 'http://www.lianjie99.cn/favicon.ico',
-        link: 'http://www.lianjie99.cn/'
-      },
+//    friendLink: [
+//      {
+//        title: '*',
+//        desc: '*',
+//        logo: '*',
+//        link: '*'
+//      },
 //      {
 //        title: '*',
 //        desc: '*',
 //        logo: '*',
 //        link: '*'
 //      }
-    ],
+//    ],
     // 博客设置
     blogConfig: {
       category: {
