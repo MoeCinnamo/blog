@@ -76,12 +76,6 @@ module.exports = {
         link: 'http://www.lianjie99.cn/'
       },
       {
-        title: '多专业自动秒收录',
-        desc: '多专业自动秒收录网',
-        logo: 'https://duozy.cn/favicon.ico',
-        link: 'https://duozy.cn/'
-      },
-      {
         title: '吾爱收录网',
         desc: '吾爱收录网',
         logo: 'https://www.n520.net/favicon.ico',
