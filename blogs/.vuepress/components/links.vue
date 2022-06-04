@@ -209,7 +209,7 @@
           
           <div style="border: 2px solid #d0d0d0;border-radius: 15px;width: 50%;height: 100px;position: relative;white-space: nowrap;overflow: hidden;text-overflow: ellipsis;border: 1px solid #ccc;float: left;box-sizing: border-box;">
             <a href="https://vircloud.net" target="_blank">
-              <img src="undefined" style="width: 64px;height: 64px;position: absolute;left: 5px;top: 15px;border-radius: 100px">
+              <img src="https://vircloud.net/favicon.ico" style="width: 64px;height: 64px;position: absolute;left: 5px;top: 15px;border-radius: 100px">
             </a>
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
             <a href="https://vircloud.net" target="_blank">
