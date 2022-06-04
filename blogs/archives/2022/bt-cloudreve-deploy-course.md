@@ -268,7 +268,15 @@ systemctl enable cloudreve
 3.在’用户‘中修改的密码,一定要记住! *_*
 :::
 
+## 踩的一些坑
 
+### 无法上传大文件
+
+经过分析这个问题是nginx导致的，nginx上传文件控制了大小，修改宝塔的nginx设置，性能调整那里最大上传文件改为65536。即：最大可支持单文件64GB。这个可以根据实际需要进行设置。
+
+### 不能获取gravatar头像
+
+‘参数设置-->图像处理’中的Gravatar服务器地址中的<code>https://www.gravatar.com/</code>改成<code>http://gravatar.loli.net/</code>
 
 <br>
 
