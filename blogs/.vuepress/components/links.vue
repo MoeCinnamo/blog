@@ -249,6 +249,19 @@
           </div>
           
           <div style="border: 2px solid #d0d0d0;border-radius: 15px;width: 50%;height: 100px;position: relative;white-space: nowrap;overflow: hidden;text-overflow: ellipsis;border: 1px solid #ccc;float: left;box-sizing: border-box;">
+            <a href="http://www.lianjie99.cn/" target="_blank">
+              <img src="http://www.lianjie99.cn/favicon.ico" style="width: 64px;height: 64px;position: absolute;left: 5px;top: 15px;border-radius: 100px">
+            </a>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <a href="http://www.lianjie99.cn/" target="_blank">
+              <strong>链接99自动秒收录</strong>
+            </a>
+            <br>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <small>链接99自动秒收录</small>
+          </div>
+          
+          <div style="border: 2px solid #d0d0d0;border-radius: 15px;width: 50%;height: 100px;position: relative;white-space: nowrap;overflow: hidden;text-overflow: ellipsis;border: 1px solid #ccc;float: left;box-sizing: border-box;">
             <a href="https://www.n520.net/" target="_blank">
               <img src="https://www.n520.net/favicon.ico" style="width: 64px;height: 64px;position: absolute;left: 5px;top: 15px;border-radius: 100px">
             </a>
@@ -288,6 +301,7 @@
           </div>
           
           <br>
+          <br><br><br><br><br>
           <br><br><br><br><br>
           <br><br><br><br><br>
           <br><br><br><br><br>
