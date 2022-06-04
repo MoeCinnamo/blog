@@ -8,10 +8,15 @@ tags:
  - 教程
  - 分享
 ---
+## 序
 
-## 什么是cloudreve
+我有很多文件需要存储，家里的硬盘也有很大的空间，我想找一个开源的网盘程序使用。因此我就在 GitHub 上面找到了 Cloudreve 这个网盘程序，想要制作一个共享网盘。
 
-[cloudreve](https://github.com/cloudreve/Cloudreve)是github上开源的网盘系统。
+## 介绍
+
+### 什么是cloudreve
+
+[cloudreve](https://github.com/cloudreve/Cloudreve)是[github](https://github.com)上开源的网盘系统。
 
 ### 官方网站
 
@@ -21,7 +26,15 @@ tags:
 
 [https://github.com/cloudreve/Cloudreve](https://github.com/cloudreve/Cloudreve)
 
-##
+<hr>
+
+## 部署
+
+环境：CentOS 7
+
+版本：Cloudreve 3.5.3
+
+
 
 <br>
 
