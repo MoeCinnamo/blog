@@ -5,6 +5,7 @@ module.exports = {
   title: '天堂里の猫',
   description: '住在天空快活的猫咪',
   head: [
+    ['meta', { content: 'always', name: 'referrer' }],
     ['link', { rel: 'icon', href: 'https://gravatar.loli.net/avatar/ae4dd9f92845152e9ae8b67a4ec8e53e;s=64' }],
     ['meta', { name: 'viewport', content: 'width=device-width,initial-scale=1,user-scalable=no' }],
     ['link', { rel: 'manifest', href: '/manifest.json' }],
