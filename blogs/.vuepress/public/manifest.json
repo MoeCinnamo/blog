@@ -7,6 +7,11 @@
       "src": "/myssl/cat16.png",
       "sizes": "16x16",
       "type": "image/png"
+    },
+    {
+      "src": "/myssl/cat16.png",
+      "sizes": "16x16",
+      "type": "image/png"
     }
   ],
   "start_url": "/index.html",
