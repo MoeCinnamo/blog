@@ -80,12 +80,6 @@ module.exports = {
         desc: '吾爱收录网',
         logo: 'https://www.n520.net/favicon.ico',
         link: 'https://www.n520.net/'
-      },
-      {
-        title: '免费自动秒收录（mffac.com）-极速收录网',
-        desc: '免费自动秒收录（mffac.com）-极速收录网',
-        logo: 'https://www.mffac.com/favicon.ico',
-        link: 'https://www.mffac.com/'
       }
 //      {
 //        title: '*',
