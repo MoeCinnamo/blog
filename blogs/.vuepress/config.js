@@ -67,20 +67,20 @@ module.exports = {
         icon: 'reco-menu'
       }
     ],
-    //friendLink: [
+    friendLink: [
     //  {
     //    title: '*',
     //    desc: '*',
     //    logo: '*',
     //    link: '*'
     //  },
-    //  {
-    //    title: '下一个就是你啦~',
-    //    desc: '*',
-    //    logo: '*',
-    //    link: '*'
-    //  }
-    //],
+      {
+        title: '自动秒收录',
+        desc: '0558秒收录网',
+        logo: 'http://www.0558.la/favicon.ico',
+        link: 'http://www.0558.la/'
+      }
+    ],
     // 博客设置
     blogConfig: {
       category: {
