@@ -85,7 +85,7 @@ touch /etc/aria2/aria2.session
 
 内容为：
 
-```
+``` conf
 #设置下载目录(这是缺省值，Cloudreve里面设置的和它不应该一样)
 dir=/www/Downloads
 
@@ -124,7 +124,7 @@ check-certificate=false
 
 内容如下：
 
-``` sh
+```
 [Unit]
 Description=Aria2 Service
 After=syslog.target network.target
@@ -139,7 +139,136 @@ Restart=always
 WantedBy=multi-user.target
 ```
 
-## 创建
+## 创建网站
+
+在<strong>网站</strong>选项中点击<strong>添加站点</strong>，域名为<strong>Cloudreve.bt</strong>，备注<strong>Cloudreve</strong>其它的选项默认即可。
+
+## 安装 Cloudreve
+
+### 创建工作文件夹
+
+``` sh
+mkdir /www/cloudreve
+```
+
+### 上次&解压
+
+将下载好的发行版文件上传到工作文件夹中，然后执行以下内容进行解压
+
+``` sh
+cd /www/cloudreve
+tar -xvf cloudreve_3.5.3_linux_amd64.tar.gz
+```
+
+## 首次运行测试
+
+``` sh
+sudo chmod +x ./cloudreve
+./cloudreve
+```
+
+## 修改配置文件
+
+打开工作文件夹，打开<code>conf.ini</code>文件
+
+在文件最后添加：
+
+``` ini
+[Database]
+; 数据库类型，目前支持 sqlite | mysql
+Type = mysql
+; MySQL 端口
+Port = 3306
+; 用户名
+User = cloudreve
+; 密码
+Password = [mysql_db_passwd]
+; 数据库地址
+Host = 127.0.0.1
+; 数据库名称
+Name = cloudreve
+; 数据表前缀
+TablePrefix = cr_
+```
+
+<ins>上面用'[mysql_db_passwd]'替代MySQL的密码，使用前需先复制数据库密码，粘贴到这里即可。</ins>
+
+删除无用的sqlite生成的cloudreve.db
+
+## 再次进行测试
+
+``` sh
+./cloudreve
+```
+
+首次运行会打印监听端口、用户名和密码，如果PHPmyadmin内出现数据表，说明配置文件已经生效，用浏览器登录测试，没问题修改你的管理员用户名密码，进行下一步。
+
+需要注意的是这次的用户名和密码要牢记
+
+## 配置服务
+
+打开<code>/usr/lib/systemd/system/</code>目录创建<code>cloudreve.service</code>文件
+
+内容如下：
+
+```
+[Unit]
+Description=Cloudreve
+Documentation=https://docs.cloudreve.org
+After=network.target aria2.service
+Wants=network.target aria2.service
+
+[Service]
+User=www
+WorkingDirectory=/www/cloudreve
+ExecStart=/www/cloudreve/cloudreve
+Restart=on-abnormal
+RestartSec=5s
+KillMode=mixed
+
+StandardOutput=null
+StandardError=syslog
+
+[Install]
+WantedBy=multi-user.target
+```
+
+## 启动服务进行测试
+
+``` sh
+systemctl daemon-reload
+systemctl start aria2
+systemctl start cloudreve
+```
+
+## 设置反代
+
+打开左侧<strong>网站</strong>，点击<strong>Cloudreve.bt</strong>，解析并绑定你的域名，点击<strong>反向代理</strong>，代理名称输入<code>Cloudreve</code>，目标url输入<strong>http://localhost:5212</strong>点击提交即可。
+
+访问你的域名，登录用户名、密码，测试功能。
+
+## 设置开机启动
+
+``` sh
+systemctl enable aria2
+systemctl enable cloudreve
+```
+
+## 总结
+
+以上就是对我本次部署过程的总结，后续参考手册https://docs.cloudreve.org/，进行设置优化就好了。
+
+设置需要注意以下几点：
+
+::: tip
+1.站点信息 -> url一定要设置准确
+
+2.’离线下载-->临时下载目录’填写<code>/www/Cloudreve/Downloads</code>
+
+3.在’用户‘中修改的密码,一定要记住! *_*
+:::
+
+
 
 <br>
 
