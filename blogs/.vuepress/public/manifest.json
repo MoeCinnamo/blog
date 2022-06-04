@@ -14,13 +14,13 @@
       "type": "image/webp"
     },
     {
-      "src": "/myssl/myssl-id.webp",
-      "sizes": "625x625",
+      "src": "/myssl/myssl-id2.webp",
+      "sizes": "324x456",
       "type": "image/webp"
     },
     {
-      "src": "/myssl/myssl-id.webp",
-      "sizes": "625x625",
+      "src": "/myssl/myssl-id3.webp",
+      "sizes": "448x237",
       "type": "image/webp"
     },
   ],
