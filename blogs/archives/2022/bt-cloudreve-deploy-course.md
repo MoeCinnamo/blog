@@ -265,7 +265,7 @@ systemctl enable cloudreve
 
 2.’离线下载-->临时下载目录’填写<code>/www/Cloudreve/Downloads</code>
 
-3.在’用户‘中修改的密码,一定要记住! *_*
+3.在’用户‘中修改的密码,一定要记住! *
 :::
 
 ## 踩的一些坑
