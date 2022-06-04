@@ -34,6 +34,14 @@ tags:
 
 版本：Cloudreve 3.5.3
 
+## 下载
+
+[Cloudreve-3.5.3](https://github.com/cloudreve/Cloudreve/releases/tag/3.5.3)
+
+<ins>你应该按照你的环境来下载，一般的x86架构Linux电脑下载 <strong>cloudreve_3.5.3_linux_amd64.tar.gz</strong> ，Windows电脑下载 <strong>cloudreve_3.5.3_windows_amd64.zip</strong>，而不应该下载 <strong>Source code</strong>。</ins>
+
+## 安装宝塔面板
+
 
 
 <br>
