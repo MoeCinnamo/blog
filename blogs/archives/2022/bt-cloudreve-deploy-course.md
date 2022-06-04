@@ -118,7 +118,28 @@ check-certificate=false
 #http-no-cache=true
 ```
 
+### 配置服务
 
+打开<code>/usr/lib/systemd/system/</code>目录创建<code>aria2.service</code>文件
+
+内容如下：
+
+``` sh
+[Unit]
+Description=Aria2 Service
+After=syslog.target network.target
+
+[Service]
+Type=simple
+User=www
+ExecStart=/usr/bin/aria2c --enable-rpc --rpc-listen-all --rpc-allow-origin-all --save-session /etc/aria2/aria2.session --input-file /etc/aria2/aria2.session --conf-path=/etc/aria2/aria2.conf
+Restart=always
+
+[Install]
+WantedBy=multi-user.target
+```
+
+## 创建
 
 <br>
 
