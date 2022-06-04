@@ -17,13 +17,13 @@ module.exports = {
     ['meta', { name: 'msapplication-TileColor', content: '#000000' }],
     ['script', { type: 'text/javascript', src: '//js.users.51.la/21337387.js' }],
     ['script', { charset: 'UTF-8', id: 'LA_COLLECT', src: '//sdk.51.la/js-sdk-pro.min.js' }],
-    ['script', {}, `LA.init({id: "JfZeeuAAChksNoMw",ck: "JfZeeuAAChksNoMw",autoTrack:true,hashMode:true})</script>`],
+    ['script', {}, `LA.init({id: "JfZeeuAAChksNoMw",ck: "JfZeeuAAChksNoMw",autoTrack:true,hashMode:true})`],
     ['script', { src: 'https://sdk.51.la/perf/js-sdk-perf.min.js', crossorigin: 'anonymous' }],
-    ['script', {}, `new LingQue.Monitor().init({id:"JfhNfbpRLLs6ArJD",sendSuspicious:true,sendSpaPv:true});</script>`],
-    ['script', {}, `(function(){var el = document.createElement("script");el.src = "https://lf1-cdn-tos.bytegoofy.com/goofy/ttzz/push.js?907402e9bb54446deb1ccd1f1d68bcbc3d655f0a3a276076e31534d9a3f1611a3d72cd14f8a76432df3935ab77ec54f830517b3cb210f7fd334f50ccb772134a";el.id = "ttzz";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(el, s);})(window)</script>`],
+    ['script', {}, `new LingQue.Monitor().init({id:"JfhNfbpRLLs6ArJD",sendSuspicious:true,sendSpaPv:true});`],
+    ['script', {}, `(function(){var el = document.createElement("script");el.src = "https://lf1-cdn-tos.bytegoofy.com/goofy/ttzz/push.js?907402e9bb54446deb1ccd1f1d68bcbc3d655f0a3a276076e31534d9a3f1611a3d72cd14f8a76432df3935ab77ec54f830517b3cb210f7fd334f50ccb772134a";el.id = "ttzz";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(el, s);})(window)`],
     ['script', { async: '', src: 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5632902373632503', crossorigin: 'anonymous' }],
     ['script', { async: '', 'custom-element': 'amp-auto-ads', src: 'https://cdn.ampproject.org/v0/amp-auto-ads-0.1.js' }],
-    ['div', { id: 'cc-myssl-id', style: 'position: fixed;right: 0;bottom: 0;width: 65px;height: 65px;z-index: 99;' }, `<a href="https://myssl.com/blog.mojy.xyz?from=mysslid"><img src="https://static.myssl.com/res/images/myssl-id.png" alt="" style="width:100%;height:100%"></a></div>`]
+    ['div', { id: 'cc-myssl-id', style: 'position: fixed;right: 0;bottom: 0;width: 65px;height: 65px;z-index: 99;' }, `<a href="https://myssl.com/blog.mojy.xyz?from=mysslid"><img src="https://static.myssl.com/res/images/myssl-id.png" alt="" style="width:100%;height:100%"></a>`]
   ],
   themeConfig: {
     type: 'blog',
