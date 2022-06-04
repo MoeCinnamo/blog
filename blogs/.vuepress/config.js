@@ -69,15 +69,33 @@ module.exports = {
       }
     ],
     friendLink: [
-    //  {
-    //    title: '*',
-    //    desc: '*',
-    //    logo: '*',
-    //    link: '*'
-    //  },
+      {
+        title: '链接99自动秒收录',
+        desc: '链接99自动秒收录网',
+        logo: 'http://www.lianjie99.cn/favicon.ico',
+        link: 'http://www.lianjie99.cn/'
+      },
+      {
+        title: '多专业自动秒收录',
+        desc: '多专业自动秒收录网',
+        logo: 'https://duozy.cn/favicon.ico',
+        link: 'https://duozy.cn/'
+      },
+      {
+        title: '吾爱收录网',
+        desc: '吾爱收录网',
+        logo: 'https://www.n520.net/favicon.ico',
+        link: 'https://www.n520.net/'
+      },
+      {
+        title: '免费自动秒收录（mffac.com）-极速收录网',
+        desc: '免费自动秒收录（mffac.com）-极速收录网',
+        logo: 'https://www.mffac.com/favicon.ico',
+        link: 'https://www.mffac.com/'
+      },
       {
         title: '自动秒收录',
-        desc: '0558秒收录网',
+        desc: '0558自动秒收录网',
         logo: 'http://www.0558.la/favicon.ico',
         link: 'http://www.0558.la/'
       }
