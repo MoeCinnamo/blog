@@ -4,15 +4,25 @@
   "description": "天堂里健康快乐的小猫咪",
   "myssl": [
     {
-      "src": "/myssl/cat16.png",
-      "sizes": "16x16",
-      "type": "image/png"
+      "src": "/myssl/myssl-id.webp",
+      "sizes": "625x625",
+      "type": "image/webp"
     },
     {
-      "src": "/myssl/cat16.png",
-      "sizes": "16x16",
-      "type": "image/png"
-    }
+      "src": "/myssl/myssl-id.webp",
+      "sizes": "625x625",
+      "type": "image/webp"
+    },
+    {
+      "src": "/myssl/myssl-id.webp",
+      "sizes": "625x625",
+      "type": "image/webp"
+    },
+    {
+      "src": "/myssl/myssl-id.webp",
+      "sizes": "625x625",
+      "type": "image/webp"
+    },
   ],
   "start_url": "/index.html",
   "display": "standalone",
