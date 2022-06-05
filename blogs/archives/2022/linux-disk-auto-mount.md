@@ -85,6 +85,14 @@ UUID=[disk:uuid] /mnt/sdb1 ext4 defaults 0 0
 
 Linux自动挂载磁盘很简单，但也会有一些问题。
 
+::: danger 问题
+1. 请保证磁盘可以正常链接
+
+2. 磁盘出现问题请重启进入紧急模式注释掉<code>fstab</code>内第六步的挂载项
+
+3. 若磁盘连接线松了等请尽快解决
+:::
+
 <br>
 
 | Copyright |
