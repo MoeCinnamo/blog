@@ -24,6 +24,18 @@
       "type": "image/webp"
     }
   ],
+  "links": [
+    {
+      "src": "/links/wibus.webp",
+      "sizes": "625x625",
+      "type": "image/webp"
+    },
+    {
+      "src": "/links/Timochan.webp",
+      "sizes": "452x226",
+      "type": "image/webp"
+    }
+  ],
   "start_url": "/index.html",
   "display": "standalone",
   "background_color": "#fff",
