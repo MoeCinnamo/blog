@@ -62,8 +62,8 @@ module.exports = {
         text: '开往',
         ariaLabel: 'go',
         items: [
-          { text: '🚇Travellings', link: 'https://travellings.link' },
-          { text: '🕳️虫洞', link: 'https://foreverblog.cn/go.html' }
+          { text: '🚇 Travellings', link: 'https://travellings.link' },
+          { text: '🕳️ 虫洞', link: 'https://foreverblog.cn/go.html' }
         ],
         icon: 'reco-menu'
       }
