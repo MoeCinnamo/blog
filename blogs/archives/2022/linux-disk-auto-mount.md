@@ -65,6 +65,7 @@ sudo blkid
 sudo vim /etc/fstab
 ```
 
+内容为：
 
 <br>
 
