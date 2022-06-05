@@ -71,7 +71,7 @@ sudo vim /etc/fstab
 UUID=[disk:uuid] /mnt/sdb1 ext4 defaults 0 0
 ```
 
-::: tip 建议
+::: tip
 1. 请将<code>[disk:uuid]</code>修改为复制的uuid
 
 2. <code>/mnt/sdb1</code>目录可以为其它目录，是第三步所创建的目录
