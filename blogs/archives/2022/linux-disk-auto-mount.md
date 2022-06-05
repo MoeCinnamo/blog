@@ -6,7 +6,32 @@ categories:
 tags:
  - Linux
  - 磁盘
+ - 分享
 ---
+
+## 序
+
+Linux没有Windows那么好看的图形界面，也没有像Windows的磁盘管理工具，因此只能通过命令行进行挂载分区。但是我挂载完分区后，重启它并不会自动挂载，因此写下了这篇文章。
+
+## 教程
+
+1. 首先需要使用<code>lsblk</code>命令查看一下当前磁盘挂载情况：
+
+2. 将没有进行格式化的磁盘进行分区、格式化操作。
+
+使用下方代码创建sdb1分区
+
+``` sh
+sfdisk /dev/sdb
+```
+
+然后使用下方代码将分区格式化为ext4格式
+
+``` sh
+mkfs.ext4 /dev/sdb1
+```
+
+3. 首先输入<code>mount /dev/sdb1 /mnt/sdb1</code>(/dev/sdb1 是你需要挂载的分区，可以根据情况进行修改)
 
 <br>
 
