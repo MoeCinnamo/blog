@@ -31,7 +31,17 @@ sfdisk /dev/sdb
 mkfs.ext4 /dev/sdb1
 ```
 
-3. 首先输入<code>mount /dev/sdb1 /mnt/sdb1</code>(/dev/sdb1 是你需要挂载的分区，可以根据情况进行修改)
+3. 新建一个目录作为挂载点
+
+``` sh
+mkdir /mnt/sdb1
+```
+
+4. 进行挂载
+
+``` sh
+mount /dev/sdb1 /mnt/sdb1
+```
 
 <br>
 
