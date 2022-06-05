@@ -106,6 +106,19 @@
           -->
           
           <div style="border: 2px solid #d0d0d0;border-radius: 15px;width: 50%;height: 100px;position: relative;white-space: nowrap;overflow: hidden;text-overflow: ellipsis;border: 1px solid #ccc;float: left;box-sizing: border-box;">
+            <a href="https://www.gonav.cn" target="_blank">
+              <img src="https://www.gonav.cn/wp-content/uploads/2022/05/logo-80.png" style="width: 64px;height: 64px;position: absolute;left: 5px;top: 15px;border-radius: 100px">
+            </a>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <a href="https://www.gonav.cn" target="_blank">
+              <strong>Go导航</strong>
+            </a>
+            <br>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <small>Go Nav</small>
+          </div>
+          
+          <div style="border: 2px solid #d0d0d0;border-radius: 15px;width: 50%;height: 100px;position: relative;white-space: nowrap;overflow: hidden;text-overflow: ellipsis;border: 1px solid #ccc;float: left;box-sizing: border-box;">
             <a href="https://lanpingblog.top" target="_blank">
               <img src="https://lanpingblog.top/favicon.ico" style="width: 64px;height: 64px;position: absolute;left: 5px;top: 15px;border-radius: 100px">
             </a>
