@@ -67,6 +67,24 @@ sudo vim /etc/fstab
 
 内容为：
 
+```
+UUID=[disk:uuid] /mnt/sdb1 ext4 defaults 0 0
+```
+
+::: tip
+1. 请将<code>[disk:uuid]</code>修改为复制的uuid
+
+2. <code>/mnt/sdb1</code>目录可以为其它目录，是第三步所创建的目录
+
+3. 若你的磁盘不是<code>ext4</code>分区，也可以修改，例如改为：<code>ntfs、fat32、exfat等</code>
+:::
+
+重启后就会自动挂载
+
+## 总结
+
+Linux自动挂载磁盘很简单，但也会有一些问题。
+
 <br>
 
 | Copyright |
