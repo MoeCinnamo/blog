@@ -208,7 +208,7 @@ module.exports = {
           mini: true, // 迷你模式
           autoplay: true, // 自动播放
           listFolded: true, // 播放列表折叠
-          volume: 50, // 音量
+          volume: 0.5, // 音量
           additionalAudios: [
             //{
               //id: 1, // 音频 id
