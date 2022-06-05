@@ -26,6 +26,10 @@ tags:
 
 此次升级主要是稳定性和界面速度的优化，并且删除了原来hexo的静态残留，编辑文章也会更加得心应手。
 
+## 访问量
+
+<script id="LA-DATA-WIDGET" crossorigin="anonymous" charset="UTF-8" src="https://v6-widget.51.la/v6/JfZeeuAAChksNoMw/quote.js?theme=0&col=true&f=12&badge=icon_1&icon=center"></script>
+
 <br>
 
 | Copyright |
