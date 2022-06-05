@@ -2,6 +2,18 @@
   "name": "Cat-in-Heaven",
   "short_name": "CIH",
   "description": "天堂里健康快乐的小猫咪",
+  "links": [
+    {
+      "src": "/links/wibus.webp",
+      "sizes": "576x576",
+      "type": "image/webp"
+    },
+    {
+      "src": "/links/Timochan.webp",
+      "sizes": "625x560",
+      "type": "image/webp"
+    }
+  ],
   "myssl": [
     {
       "src": "/myssl/myssl-id.webp",
@@ -21,18 +33,6 @@
     {
       "src": "/myssl/myssl-id3.webp",
       "sizes": "448x237",
-      "type": "image/webp"
-    }
-  ],
-  "links": [
-    {
-      "src": "/links/wibus.webp",
-      "sizes": "625x625",
-      "type": "image/webp"
-    },
-    {
-      "src": "/links/Timochan.webp",
-      "sizes": "452x226",
       "type": "image/webp"
     }
   ],
