@@ -199,7 +199,7 @@ module.exports = {
         //metingApi: '', // Meting API
         meting: {
           server: 'kugou', // 音乐平台服务器，可选：["netease" | "tencent" | "kuwo" | "kugou" | "baidu"]
-          type: 'playlist', // 资源类型，可选：["song" | "album" | "artist" | "playlist"]
+          type: 'album', // 资源类型，可选：["song" | "album" | "artist" | "playlist"]
           mid: 'tVTl81zAV3', // 资源ID
           //auto: '' // 填写URL后自动解析资源平台
         },
