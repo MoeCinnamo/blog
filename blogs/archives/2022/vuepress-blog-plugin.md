@@ -183,7 +183,7 @@ plugins: [
 
 ### 效果
 
-<Meting server="netease" type="" mid="abcdefg" :lrc-type="3"/>
+<Meting server="netease" type="song" mid="abcdefg" :lrc-type="3"/>
 
 ### 其它音乐插件
 
