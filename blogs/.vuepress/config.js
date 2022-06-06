@@ -235,7 +235,7 @@ module.exports = {
           ],
           lrcType: 3 // lrc歌词解析模式
         },
-        defaultCover: 'https://nyakku.moe/avatar.jpg' // 默认的图片
+        defaultCover: 'https://gravatar.loli.net/avatar/ae4dd9f92845152e9ae8b67a4ec8e53e;s=640' // 默认的图片
       }
     ],
     [
