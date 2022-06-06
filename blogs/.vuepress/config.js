@@ -207,7 +207,7 @@ module.exports = {
           fixed: true, // 吸底模式
           mini: true, // 迷你模式
           autoplay: true, // 自动播放
-          listFolded: true, // 播放列表折叠
+          listFolded: false, // 播放列表折叠
           volume: 0.5, // 音量
           additionalAudios: [
             //{
@@ -234,7 +234,8 @@ module.exports = {
             //}
           ],
           lrcType: 3 // lrc歌词解析模式
-        }
+        },
+        defaultCover: 'https://nyakku.moe/avatar.jpg' // 默认的图片
       }
     ],
     [
