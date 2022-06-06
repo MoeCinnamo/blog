@@ -183,7 +183,7 @@ plugins: [
 
 ### 效果
 
-<Meting />
+<Meting server="" type="" mid="" :lrc-type="3"/>
 
 ### 其它音乐插件
 
