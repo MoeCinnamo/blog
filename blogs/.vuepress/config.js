@@ -198,10 +198,10 @@ module.exports = {
       {
         //metingApi: '', // Meting API
         meting: {
-          server: 'kugou', // 音乐平台服务器，可选：["netease" | "tencent" | "kuwo" | "kugou" | "baidu"]
-          type: 'album', // 资源类型，可选：["song" | "album" | "artist" | "playlist"]
-          mid: 'tVTl81zAV3', // 资源ID
-          //auto: '' // 填写URL后自动解析资源平台
+          //server: '', // 音乐平台服务器，可选：["netease" | "tencent" | "kuwo" | "kugou" | "baidu"]
+          //type: '', // 资源类型，可选：["song" | "album" | "artist" | "playlist"]
+          //mid: '', // 资源ID
+          auto: 'https://t4.kugou.com/song.html?id=FPLa4czAV3' // 填写URL后自动解析资源平台
         },
         aplayer: {
           fixed: true, // 吸底模式
@@ -209,7 +209,7 @@ module.exports = {
           autoplay: true, // 自动播放
           listFolded: false, // 播放列表折叠
           volume: 0.5, // 音量
-          additionalAudios: [
+          //additionalAudios: [
             //{
               //id: 1, // 音频 id
               //name: '', // 音频名称
@@ -232,7 +232,7 @@ module.exports = {
               //type: '', // 指定音频的类型
               //speed: '' // 单曲播放速度
             //}
-          ],
+          //],
           lrcType: 3 // lrc歌词解析模式
         },
         defaultCover: 'https://gravatar.loli.net/avatar/ae4dd9f92845152e9ae8b67a4ec8e53e;s=640' // 默认的图片
