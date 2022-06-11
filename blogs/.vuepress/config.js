@@ -198,10 +198,10 @@ module.exports = {
       {
         //metingApi: '', // Meting API
         meting: {
-          //server: '', // 音乐平台服务器，可选：["netease" | "tencent" | "kuwo" | "kugou" | "baidu"]
-          //type: '', // 资源类型，可选：["song" | "album" | "artist" | "playlist"]
-          //mid: '', // 资源ID
-          auto: 'https://t4.kugou.com/song.html?id=FPLa4czAV3' // 填写URL后自动解析资源平台
+          server: 'kugou', // 音乐平台服务器，可选：["netease" | "tencent" | "kuwo" | "kugou" | "baidu"]
+          type: 'playlist', // 资源类型，可选：["song" | "album" | "artist" | "playlist"]
+          mid: '', // 资源ID
+          //auto: '' // 填写URL后自动解析资源平台
         },
         aplayer: {
           fixed: true, // 吸底模式
