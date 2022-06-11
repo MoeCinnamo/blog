@@ -200,7 +200,7 @@ module.exports = {
         meting: {
           server: 'kugou', // 音乐平台服务器，可选：["netease" | "tencent" | "kuwo" | "kugou" | "baidu"]
           type: 'playlist', // 资源类型，可选：["song" | "album" | "artist" | "playlist"]
-          mid: '', // 资源ID
+          mid: '9922818', // 资源ID
           //auto: '' // 填写URL后自动解析资源平台
         },
         aplayer: {
