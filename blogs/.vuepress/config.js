@@ -168,8 +168,7 @@ module.exports = {
     [
       require('./plugins/KanBanNiang'),
       {
-        theme: ['shizuku'],
-        clean: true
+        theme: ['shizuku']
       }
     ],
 //    [
