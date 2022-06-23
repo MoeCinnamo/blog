@@ -1,6 +1,6 @@
 ---
 home: true
-bgImage: 'https://api.ixiaowai.cn/api/api.php'
+bgImage: '/bgimage/1.webp'
 bgImageStyle: {
   height: '400px'
 }
