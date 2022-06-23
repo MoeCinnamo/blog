@@ -165,6 +165,13 @@ module.exports = {
         zIndex: 999999999,
       },
     ],
+    [
+      require('./plugins/KanBanNiang'),
+      {
+        theme: ['shizuku'],
+        clean: true
+      }
+    ],
 //    [
 //      "@vuepress-reco/vuepress-plugin-kan-ban-niang",
 //      {
