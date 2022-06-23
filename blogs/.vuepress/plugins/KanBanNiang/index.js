@@ -5,7 +5,7 @@ module.exports = (options, context) => ({
     const { clean, messages, theme, modelStyle, btnStyle, width, height, messageStyle } = options
     return {
       CLEAN: clean || false,
-      THEME: theme || ['blackCat', 'whiteCat', 'haru1', 'haru2', 'haruto', 'koharu', 'izumi', 'shizuku', 'wanko', 'miku', 'z16'],
+      THEME: theme || ['shizuku'],
       MESSAGES: messages || {
         welcome: '欢迎访问 天堂里の猫',
         home: '心里的花，我想要带你回家。',
