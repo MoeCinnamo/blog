@@ -58,7 +58,7 @@ export default {
         //name:
           //'',
         shizuku:
-          'https://cdn.jsdelivr.net/gh/QiShaoXuan/live2DModel@1.0.0/live2d-widget-model-shizuku/assets/shizuku.model.json'
+          '/KanBanNiang/shizuku.model.json'
       },
       // model的高宽
       style: {
