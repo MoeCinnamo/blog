@@ -21,6 +21,18 @@
       "type": "image/webp"
     }
   ],
+  "KanBanNiang": [
+    {
+      "src": "",
+      "sizes": "576x576",
+      "type": "image/webp"
+    },
+    {
+      "src": "",
+      "sizes": "625x560",
+      "type": "image/webp"
+    }
+  ],
   "myssl": [
     {
       "src": "/myssl/myssl-id.webp",
