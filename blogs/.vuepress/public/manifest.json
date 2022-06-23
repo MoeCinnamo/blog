@@ -14,6 +14,13 @@
       "type": "image/webp"
     }
   ],
+  "bgimage": [
+    {
+      "src": "/bgimage/1.webp",
+      "sizes": "1920x1080",
+      "type": "image/webp"
+    }
+  ],
   "myssl": [
     {
       "src": "/myssl/myssl-id.webp",
