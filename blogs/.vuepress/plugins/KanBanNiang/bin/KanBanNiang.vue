@@ -52,7 +52,7 @@ export default {
       },
       currentTheme: THEME[0],
       myTheme: THEME,
-      themeName: ['blackCat', 'whiteCat', 'haru1', 'haru2', 'haruto', 'koharu', 'izumi', 'shizuku', 'wanko', 'miku', 'z16'],
+      themeName: ['shizuku'],
       // 模型地址
       model: {
         //name:
