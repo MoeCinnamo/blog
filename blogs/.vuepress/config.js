@@ -165,13 +165,13 @@ module.exports = {
         zIndex: 999999999,
       },
     ],
-    [
-      "@vuepress-reco/vuepress-plugin-kan-ban-niang",
-      {
-        theme: ['shizuku'],
-        clean: true
-      }
-    ],
+//    [
+//      "@vuepress-reco/vuepress-plugin-kan-ban-niang",
+//      {
+//        theme: ['shizuku'],
+//        clean: true
+//      }
+//    ],
 //    [
 //      "@vuepress-reco/vuepress-plugin-bgm-player",
 //      {
