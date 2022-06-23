@@ -2,7 +2,7 @@
   <div class="kanbanniang">
     <div class="banniang-container" v-show="isLoaded">
       <div class="messageBox" :style="messageStyle" v-show="isShowMessageBox">
-        {{ messages.message || '欢迎来到 ' + $site.title }}
+        {{ messages.message || '欢迎访问 ' + $site.title }}
       </div>
       <div
         v-show="!isShowBtns"
