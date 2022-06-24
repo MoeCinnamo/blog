@@ -33,6 +33,30 @@
     {
       "src": "/KanBanNiang/shizuku/shizuku.pose.json",
       "type": "text/json"
+    },
+    {
+      "src": "/KanBanNiang/shizuku/exp/f01.exp.json",
+      "type": "text/json"
+    },
+    {
+      "src": "/KanBanNiang/shizuku/exp/f02.exp.json",
+      "type": "text/json"
+    },
+    {
+      "src": "/KanBanNiang/shizuku/exp/f03.exp.json",
+      "type": "text/json"
+    },
+    {
+      "src": "/KanBanNiang/shizuku/exp/f04.exp.json",
+      "type": "text/json"
+    },
+    {
+      "src": "/KanBanNiang/shizuku/moc/shizuku.moc",
+      "type": "text/moc"
+    },
+    {
+      "src": "/KanBanNiang/shizuku/moc/shizuku.1024/texture_00.webp",
+      "type": "image/webp"
     }
   ],
   "myssl": [
