@@ -7,7 +7,7 @@ module.exports = (options, context) => ({
       CLEAN: clean || false,
       THEME: theme || ['shizuku'],
       MESSAGES: messages || {
-        welcome: '欢迎欢迎，热烈欢迎！',
+        welcome: '',
         home: '心里的花，我想要带你回家。',
         theme: '想要看看我的其他小伙伴吗？',
         close: '你知道我喜欢吃什么吗？痴痴地望着你。',
