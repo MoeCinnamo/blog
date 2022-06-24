@@ -31,7 +31,7 @@
       "type": "text/json"
     },
     {
-      "src": "/KanBanNiang/shizuku/shizuku.physics.json",
+      "src": "/KanBanNiang/shizuku/shizuku.pose.json",
       "type": "text/json"
     }
   ],
