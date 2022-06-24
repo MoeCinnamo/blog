@@ -156,6 +156,66 @@
       "src": "/KanBanNiang/shizuku/mtn/tapBody_02.mtn",
       "type": "text/mtn"
     },
+    {
+      "src": "/KanBanNiang/shizuku/snd/flickHead_00.mp3",
+      "type": "sound/mp3"
+    },
+    {
+      "src": "/KanBanNiang/shizuku/snd/flickHead_01.mp3",
+      "type": "sound/mp3"
+    },
+    {
+      "src": "/KanBanNiang/shizuku/snd/flickHead_02.mp3",
+      "type": "sound/mp3"
+    },
+    {
+      "src": "/KanBanNiang/shizuku/snd/pinchIn_00.mp3",
+      "type": "sound/mp3"
+    },
+    {
+      "src": "/KanBanNiang/shizuku/snd/pinchIn_01.mp3",
+      "type": "sound/mp3"
+    },
+    {
+      "src": "/KanBanNiang/shizuku/snd/pinchIn_02.mp3",
+      "type": "sound/mp3"
+    },
+    {
+      "src": "/KanBanNiang/shizuku/snd/pinchOut_00.mp3",
+      "type": "sound/mp3"
+    },
+    {
+      "src": "/KanBanNiang/shizuku/snd/pinchOut_01.mp3",
+      "type": "sound/mp3"
+    },
+    {
+      "src": "/KanBanNiang/shizuku/snd/pinchOut_02.mp3",
+      "type": "sound/mp3"
+    },
+    {
+      "src": "/KanBanNiang/shizuku/snd/shake_00.mp3",
+      "type": "sound/mp3"
+    },
+    {
+      "src": "/KanBanNiang/shizuku/snd/shake_01.mp3",
+      "type": "sound/mp3"
+    },
+    {
+      "src": "/KanBanNiang/shizuku/snd/shake_02.mp3",
+      "type": "sound/mp3"
+    },
+    {
+      "src": "/KanBanNiang/shizuku/snd/tapBody_00.mp3",
+      "type": "sound/mp3"
+    },
+    {
+      "src": "/KanBanNiang/shizuku/snd/tapBody_01.mp3",
+      "type": "sound/mp3"
+    },
+    {
+      "src": "/KanBanNiang/shizuku/snd/tapBody_02.mp3",
+      "type": "sound/mp3"
+    }
   ],
   "myssl": [
     {
