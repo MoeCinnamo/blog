@@ -27,9 +27,12 @@
       "type": "text/json"
     },
     {
-      "src": "",
-      "sizes": "625x560",
-      "type": "image/webp"
+      "src": "/KanBanNiang/shizuku/shizuku.physics.json",
+      "type": "text/json"
+    },
+    {
+      "src": "/KanBanNiang/shizuku/shizuku.physics.json",
+      "type": "text/json"
     }
   ],
   "myssl": [
