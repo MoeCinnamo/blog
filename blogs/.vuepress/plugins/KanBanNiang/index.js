@@ -9,7 +9,7 @@ module.exports = (options, context) => ({
       MESSAGES: messages || {
         welcome: '热烈欢迎！',
         home: '心里的花，我想要带你回家。',
-        theme: '好吧，希望你能喜欢我的其他小伙伴。',
+        theme: '想要看看我的其他小伙伴吗？',
         close: '你知道我喜欢吃什么吗？痴痴地望着你。',
         info: '想知道关于我的更多信息吗？'
       },
