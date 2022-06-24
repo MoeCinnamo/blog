@@ -125,7 +125,7 @@ module.exports = {
       placeholder: '嘿^_^, 留个评论好不好嘛~',
       serverURLs: 'https://514cxhf6.api.lncldglobal.com',
       visitor: true,
-      recordIP: true,
+      recordIP: false,
       enableQQ: true
     }
   },
