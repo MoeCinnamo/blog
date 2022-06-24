@@ -23,9 +23,8 @@
   ],
   "KanBanNiang": [
     {
-      "src": "",
-      "sizes": "576x576",
-      "type": "image/webp"
+      "src": "/KanBanNiang/shizuku/shizuku.model.json",
+      "type": "text/json"
     },
     {
       "src": "",
