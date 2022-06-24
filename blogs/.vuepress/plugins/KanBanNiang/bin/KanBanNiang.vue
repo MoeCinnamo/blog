@@ -58,7 +58,7 @@ export default {
         //name:
           //'',
         shizuku:
-          '/KanBanNiang/shizuku.model.json'
+          'https://blog.mojy.xyz/KanBanNiang/shizuku/shizuku.model.json'
       },
       // model的高宽
       style: {
