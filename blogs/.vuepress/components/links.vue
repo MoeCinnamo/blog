@@ -106,6 +106,19 @@
           -->
           
           <div style="border: 2px solid #d0d0d0;border-radius: 15px;width: 50%;height: 100px;position: relative;white-space: nowrap;overflow: hidden;text-overflow: ellipsis;border: 1px solid #ccc;float: left;box-sizing: border-box;">
+            <a href="https://www.uxudjs.top" target="_blank">
+              <img src="https://www.uxudjs.top/wp-content/themes/wordpress主题/static/images/favicon.ico" style="width: 64px;height: 64px;position: absolute;left: 5px;top: 15px;border-radius: 100px">
+            </a>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <a href="https://www.uxudjs.top" target="_blank">
+              <strong>UXU倒计时的博客</strong>
+            </a>
+            <br>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <small>一个人的世界</small>
+          </div>
+          
+          <div style="border: 2px solid #d0d0d0;border-radius: 15px;width: 50%;height: 100px;position: relative;white-space: nowrap;overflow: hidden;text-overflow: ellipsis;border: 1px solid #ccc;float: left;box-sizing: border-box;">
             <a href="https://www.gonav.cn" target="_blank">
               <img src="https://www.gonav.cn/wp-content/uploads/2022/05/logo-80.png" style="width: 64px;height: 64px;position: absolute;left: 5px;top: 15px;border-radius: 100px">
             </a>
@@ -314,6 +327,7 @@
           </div>
           
           <br>
+          <br><br><br><br><br>
           <br><br><br><br><br>
           <br><br><br><br><br>
           <br><br><br><br><br>
