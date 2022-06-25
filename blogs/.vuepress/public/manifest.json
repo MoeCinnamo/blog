@@ -258,6 +258,7 @@
       "type": "image/webp"
     }
   ],
+  "robots": "/robots.txt",
   "start_url": "/index.html",
   "display": "standalone",
   "background_color": "#fff",
