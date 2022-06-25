@@ -65,12 +65,18 @@ iPadOS 16 的主要功能之一是台前调度（Stage Manager），可首次在
 
 目前还不清楚苹果是否会改变 iPadOS 16 中对台前调度的硬件要求。IT之家了解到，去年 macOS Monterey 发布时，Live Text（实时字幕）是 M1 Macs 的专属功能。然而，用户强烈不满后，苹果公司将该功能也提供给了英特尔 Mac。
 
+## 后记
 
+不确定是否可以，但是看情况应该是会在以后兼容非 M1 iPad 的，大家敬请期待。
+
+## 参考资料
+
+[如何看待苹果高管称曾在非 M1 iPad 上测试 iPadOS 16「台前调度」，未达到满意要求？](https://www.zhihu.com/question/537793389/answer/2532340452)
 
 <br>
 
 | Copyright |
 | :-----|
 | 文章作者: <a href="mailto:abcd2890000456@126.com">玉桂喵</a> |
-| 文章链接: []() |
+| 文章链接: [https://blog.mojy.xyz/archives/2022/Non-M1-front-desk-dispatcher.html](https://blog.mojy.xyz/archives/2022/Non-M1-front-desk-dispatcher.html) |
 | 版权声明: 商业转载请联系站长获得授权，非商业转载请注明本文出处及文章链接，未经站长允许不得对文章文字内容进行修改演绎。本文采用[创作共用保留署名-非商业-禁止演绎4.0国际许可证](https://creativecommons.org/licenses/by-nc-nd/4.0/)。 |
