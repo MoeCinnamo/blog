@@ -124,6 +124,7 @@ module.exports = {
       appKey: 'W0K26NS50iK3hk7GTm4rnLjN', // your appKey
       placeholder: '嘿^_^, 留个评论好不好嘛~',
       serverURLs: 'https://514cxhf6.api.lncldglobal.com',
+      avatar: 'gravatar',
       visitor: true,
       recordIP: false,
       enableQQ: true
