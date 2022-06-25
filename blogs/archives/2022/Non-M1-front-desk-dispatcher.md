@@ -71,7 +71,7 @@ iPadOS 16 的主要功能之一是台前调度（Stage Manager），可首次在
 
 ## 参考资料
 
-[如何看待苹果高管称曾在非 M1 iPad 上测试 iPadOS 16「台前调度」，未达到满意要求？](https://www.zhihu.com/question/537793389/answer/2532340452)
+[知乎.如何看待苹果高管称曾在非 M1 iPad 上测试 iPadOS 16「台前调度」，未达到满意要求？](https://www.zhihu.com/question/537793389/answer/2532340452)
 
 <br>
 
