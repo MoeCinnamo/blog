@@ -12,6 +12,11 @@
       "src": "/links/Timochan.webp",
       "sizes": "625x560",
       "type": "image/webp"
+    },
+    {
+      "src": "/links/xpblog.webp",
+      "sizes": "625x560",
+      "type": "image/webp"
     }
   ],
   "bgimage": [
