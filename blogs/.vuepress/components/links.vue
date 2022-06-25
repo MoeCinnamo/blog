@@ -106,6 +106,19 @@
           -->
           
           <div style="border: 2px solid #d0d0d0;border-radius: 15px;width: 50%;height: 100px;position: relative;white-space: nowrap;overflow: hidden;text-overflow: ellipsis;border: 1px solid #ccc;float: left;box-sizing: border-box;">
+            <a href="https://bingling.me/" target="_blank">
+              <img src="https://cdn.jsdelivr.net/gh/linglaoda/imgs@master/avatar.webp" style="width: 64px;height: 64px;position: absolute;left: 5px;top: 15px;border-radius: 100px">
+            </a>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <a href="https://bingling.me/" target="_blank">
+              <strong>凌老大的博客</strong>
+            </a>
+            <br>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <small>呆呆的凌老大</small>
+          </div>
+          
+          <div style="border: 2px solid #d0d0d0;border-radius: 15px;width: 50%;height: 100px;position: relative;white-space: nowrap;overflow: hidden;text-overflow: ellipsis;border: 1px solid #ccc;float: left;box-sizing: border-box;">
             <a href="https://www.uxudjs.top" target="_blank">
               <img src="https://www.uxudjs.top/wp-content/themes/wordpress%E4%B8%BB%E9%A2%98/static/images/favicon.ico" style="width: 64px;height: 64px;position: absolute;left: 5px;top: 15px;border-radius: 100px">
             </a>
