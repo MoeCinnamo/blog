@@ -106,6 +106,19 @@
           -->
           
           <div style="border: 2px solid #d0d0d0;border-radius: 15px;width: 50%;height: 100px;position: relative;white-space: nowrap;overflow: hidden;text-overflow: ellipsis;border: 1px solid #ccc;float: left;box-sizing: border-box;">
+            <a href="https://musenxi.com" target="_blank">
+              <img src="https://cdn.jsdelivr.net/gh/Musenxi/CDN/favicon.png" style="width: 64px;height: 64px;position: absolute;left: 5px;top: 15px;border-radius: 100px">
+            </a>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <a href="https://musenxi.com" target="_blank">
+              <strong>橘夜庭</strong>
+            </a>
+            <br>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <small>是微甜的呀～</small>
+          </div>
+          
+          <div style="border: 2px solid #d0d0d0;border-radius: 15px;width: 50%;height: 100px;position: relative;white-space: nowrap;overflow: hidden;text-overflow: ellipsis;border: 1px solid #ccc;float: left;box-sizing: border-box;">
             <a href="https://bingling.me/" target="_blank">
               <img src="https://cdn.jsdelivr.net/gh/linglaoda/imgs@master/avatar.webp" style="width: 64px;height: 64px;position: absolute;left: 5px;top: 15px;border-radius: 100px">
             </a>
@@ -340,6 +353,7 @@
           </div>
           
           <br>
+          <br><br><br><br><br>
           <br><br><br><br><br>
           <br><br><br><br><br>
           <br><br><br><br><br>
