@@ -4,8 +4,8 @@ date: 2022-06-23
 categories:
  - 新闻
 tags:
- - iPadOS
- - 苹果
+ - iOS/iPadOS
+ - Apple
  - 系统
 ---
 
