@@ -29,17 +29,14 @@
   "51.la": [
     {
       "src": "/51.la/perf/js-sdk-perf.esm.min.js",
-      "sizes": "1920x1080",
       "type": "text/javascript"
     },
     {
       "src": "/51.la/v6/js-sdk-pro.min.js",
-      "sizes": "1920x1080",
       "type": "text/javascript"
     },
     {
       "src": "/51.la/v6/event/js-sdk-event.min.js",
-      "sizes": "1920x1080",
       "type": "text/javascript"
     }
   ],
