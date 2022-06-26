@@ -190,17 +190,17 @@ plugins: [
 
 <img src='https://vuepress-theme-reco.recoluan.com/assets/img/bulletin-popover.967ff934.png'>
 
-## 2. 代码复制
+### 2. 代码复制
 
 [插件地址](https://github.com/znicholasbrown/vuepress-plugin-code-copy)
 
-### 安装
+#### 安装
 
 ``` sh
 npm install vuepress-plugin-code-copy
 ```
 
-### 使用
+#### 使用
 
 ``` js
 plugins: [['vuepress-plugin-code-copy', true]]
@@ -208,19 +208,19 @@ plugins: [['vuepress-plugin-code-copy', true]]
 
 它会显示一个复制图标，也是最常用的代码复制插件。
 
-## 3. 添加著作权信息
+### 3. 添加著作权信息
 
 使用 vuepress-plugin-copyright可以禁用文字复制或者在复制时添加著作权信息。
 
 [插件地址](https://vuepress-community.netlify.app/zh/plugins/copyright)
 
-### 安装
+#### 安装
 
 ``` sh
 npm install vuepress-plugin-copyright
 ```
 
-### 使用
+#### 使用
 
 ``` js
 plugins: [
@@ -235,17 +235,17 @@ plugins: [
 ]
 ```
 
-## 4. 音乐
+### 4. 音乐
 
 [插件地址](https://moefyit.github.io/moefy-vuepress/packages/meting.html)
 
-### 安装
+#### 安装
 
 ``` sh
 npm install vuepress-plugin-meting
 ```
 
-### 使用
+#### 使用
 
 ``` js
 plugins: [
@@ -259,25 +259,25 @@ plugins: [
 ]
 ```
 
-### 效果
+#### 效果
 
 <Meting server="netease" type="song" mid="abcdefg" :lrc-type="3"/>
 
-### 其它音乐插件
+#### 其它音乐插件
 
 [bgm player](https://vuepress-theme-reco.recoluan.com/views/plugins/bgmPlayer.html)
 
-## 5. 看板娘
+### 5. 看板娘
 
 [插件地址](https://vuepress-theme-reco.recoluan.com/views/plugins/kanbanniang.html)
 
-### 安装
+#### 安装
 
 ``` sh
 npm install @vuepress-reco/vuepress-plugin-kan-ban-niang
 ```
 
-### 使用
+#### 使用
 
 ``` js
 plugins: [
@@ -290,21 +290,21 @@ plugins: [
 ]
 ```
 
-### 效果截图
+#### 效果截图
 
 <img src='https://vuepress-theme-reco.recoluan.com/assets/img/kanbannaing_1.9d4605aa.png'>
 
-## 6. 光标效果
+### 6. 光标效果
 
 [插件文档](https://moefyit.github.io/moefy-vuepress/packages/cursor-effects.html)
 
-### 安装
+#### 安装
 
 ``` sh
 npm install vuepress-plugin-cursor-effects
 ```
 
-### 使用
+#### 使用
 
 ``` js
 plugins: [
@@ -316,17 +316,17 @@ plugins: [
 ]
 ```
 
-## 7. 动态标题
+### 7. 动态标题
 
 [插件文档](https://moefyit.github.io/moefy-vuepress/packages/dynamic-title.html)
 
-### 安装
+#### 安装
 
 ``` sh
 npm install vuepress-plugin-dynamic-title
 ```
 
-### 使用
+#### 使用
 
 ``` js
 plugins: [
@@ -340,15 +340,15 @@ plugins: [
 ]
 ```
 
-## 8. 优化代码展示
+### 8. 优化代码展示
 
-### 安装
+#### 安装
 
 ``` sh
 npm install @vuepress-reco/vuepress-plugin-extract-code
 ```
 
-### 使用
+#### 使用
 
 ``` js
 plugins: [
@@ -356,7 +356,7 @@ plugins: [
   ]
 ```
 
-### 效果
+#### 效果
 
 <RecoDemo :collapse="true">
 <template slot="code-js">
@@ -373,7 +373,7 @@ body {
 </template>
 </RecoDemo>
 
-## 更多插件
+### 更多插件
 
 1. [reco插件广场](https://vuepress-theme-reco.recoluan.com/views/other/recommend.html)
 
@@ -387,14 +387,16 @@ body {
 
 ## 总结
 
-实际上使用 Vuepress 搭建博客也并不复杂，你也可以把它放到 Github 中，更简单，也不需要手动执行代码实现更新文章。
+实际上使用 Vuepress 搭建博客也并不复杂，也可以把它放到 Github 中，更简单，也不需要手动执行代码实现更新文章。
 
 也可以放在服务器中，设置一个每三小时执行一次的计划任务，这样也可以实现每三小时自动刷新的作用
+
+插件繁多，可以扩展博客的功能
 
 <br>
 
 | Copyright |
 | :-----|
 | 文章作者: <a href="mailto:abcd2890000456@126.com">玉桂喵</a> |
-| 文章链接: [https://blog.mojy.xyz/archives/2022/vuepress-blog-template.html](https://blog.mojy.xyz/archives/2022/vuepress-blog-template.html) |
+| 文章链接: [https://blog.mojy.xyz/archives/2022/vuepress-blog-beautify.html](https://blog.mojy.xyz/archives/2022/vuepress-blog-beautify.html) |
 | 版权声明: 商业转载请联系站长获得授权，非商业转载请注明本文出处及文章链接，未经站长允许不得对文章文字内容进行修改演绎。本文采用[创作共用保留署名-非商业-禁止演绎4.0国际许可证](https://creativecommons.org/licenses/by-nc-nd/4.0/)。 |
