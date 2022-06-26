@@ -34,19 +34,25 @@ module.exports = {
     noFoundPageByTencent: false,
     nav: [
       { text: '主页', link: '/', icon: 'reco-home' },
-      { text: '时间线', link: '/timeline/', icon: 'reco-date' },
       {
-        text: '模块',
-        ariaLabel: 'module',
+        text: '言',
+        ariaLabel: 'say',
         items: [
-          { text: '留言', link: '/message.md', icon: 'reco-message' },
-          { text: '一言', link: '/say.md',icon: 'reco-message' },
-          { text: '关于', link: '/about.md', icon: 'reco-faq' },
+          { text: '时间线', link: '/timeline/', icon: 'reco-date' },
+          { text: '一言', link: '/say.md',icon: 'reco-message' }
         ],
-        icon: 'reco-menu'
+        icon: 'reco-message'
+      },
+      {
+        text: '关于',
+        ariaLabel: 'about',
+        items: [
+          { text: '关于', link: '/about.md', icon: 'reco-faq' },
+          { text: '留言', link: '/message.md', icon: 'reco-message' }
+        ],
+        icon: 'reco-faq'
       },
       { text: '友链', link: '/links.md',icon: 'reco-blog' },
-      { text: 'RSS', link: 'https://blog.mojy.xyz/rss.xml',icon: 'reco-bokeyuan' },
       {
         text: '联系',
         ariaLabel: 'contact',
@@ -57,7 +63,8 @@ module.exports = {
           { text: 'QQ', link: 'http://wpa.qq.com/msgrd?v=3&uin=597624858&site=qq&menu=yes',icon: 'reco-qq' },
           { text: '今日头条', link: 'https://www.toutiao.com/c/user/token/MS4wLjABAAAAiSeSKmi3utivPvvIzLLM_fHiTyY6whoPfTG5ipt1apg',icon: 'reco-toutiao' },
           { text: '抖音', link: 'https://www.douyin.com/user/MS4wLjABAAAAVSsT17E5DRZFg4S_FOuEnOs2dSJsWmSoSOWiakPp0zg', icon: 'reco-douyin' },
-          { text: 'BiliBili', link: 'https://space.bilibili.com/2144425903?spm_id_from=333.337.0.0',icon: 'reco-bilibili' }
+          { text: 'BiliBili', link: 'https://space.bilibili.com/2144425903?spm_id_from=333.337.0.0',icon: 'reco-bilibili' },
+          { text: 'RSS', link: 'https://blog.mojy.xyz/rss.xml',icon: 'reco-bokeyuan' }
         ],
         icon: 'reco-menu'
       },
