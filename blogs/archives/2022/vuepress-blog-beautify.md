@@ -93,7 +93,297 @@ bgImageStyle: {
 
 ## 插件
 
+### 1. 公告栏弹窗
 
+[插件文档](https://vuepress-theme-reco.recoluan.com/views/plugins/bulletinPopover.html)
+
+#### 安装
+
+``` sh
+npm install @vuepress-reco/vuepress-plugin-bulletin-popover
+```
+
+#### 使用
+
+``` js
+plugins: [
+  ['@vuepress-reco/vuepress-plugin-bulletin-popover', {
+    width: '300px', // 默认 260px
+    title: '消息提示',
+    body: [
+      {
+        type: 'title',
+        content: '欢迎加入QQ交流群 🎉🎉🎉',
+        style: 'text-aligin: center;'
+      },
+      {
+        type: 'image',
+        src: '/rvcode_qq.png'
+      }
+    ],
+    footer: [
+      {
+        type: 'button',
+        text: '打赏',
+        link: '/donate'
+      },
+      {
+        type: 'button',
+        text: '打赏',
+        link: '/donate'
+      }
+    ]
+  }]
+]
+```
+
+弹窗分为三部分，公告标题、公告内容和公告底部操作。其中标题是普通文本，公告内容和公告底部操作内容均为数组，支持 4 种 dom，需要通过 schema 配置来控制显示效果，可以根据需要自由组合：
+
+##### 标题
+
+``` json
+{
+  type: 'title',
+  content: '这里显示 h5 标题'
+}
+```
+
+##### 文本
+
+``` json
+{
+  type: 'text',
+  content: '这里显示普通文本'
+}
+```
+
+##### 图片
+
+``` json
+{
+  type: 'image',
+  src: '/rvcode_qq.png'
+}
+```
+
+##### 按钮
+
+``` json
+{
+  type: 'button',
+  text: '打赏',
+  link: '/donate'
+}
+```
+
+##### 给 dom 添加样式
+
+``` json
+{
+  type: 'title',
+  content: '这里显示 h5 标题',
+  style: 'text-aligin: center;'
+}
+```
+
+#### 效果截图
+
+<img src='https://vuepress-theme-reco.recoluan.com/assets/img/bulletin-popover.967ff934.png'>
+
+## 2. 代码复制
+
+[插件地址](https://github.com/znicholasbrown/vuepress-plugin-code-copy)
+
+### 安装
+
+``` sh
+npm install vuepress-plugin-code-copy
+```
+
+### 使用
+
+``` js
+plugins: [['vuepress-plugin-code-copy', true]]
+```
+
+它会显示一个复制图标，也是最常用的代码复制插件。
+
+## 3. 添加著作权信息
+
+使用 vuepress-plugin-copyright可以禁用文字复制或者在复制时添加著作权信息。
+
+[插件地址](https://vuepress-community.netlify.app/zh/plugins/copyright)
+
+### 安装
+
+``` sh
+npm install vuepress-plugin-copyright
+```
+
+### 使用
+
+``` js
+plugins: [
+  [
+    'copyright',
+    {
+      noCopy: true, // 选中的文字将无法被复制
+      authorName: '博客名称', // 复制后将出现著作权信息
+      minLength: 40, // 如果长度超过  40 个字符
+    },
+  ]
+]
+```
+
+## 4. 音乐
+
+[插件地址](https://moefyit.github.io/moefy-vuepress/packages/meting.html)
+
+### 安装
+
+``` sh
+npm install vuepress-plugin-meting
+```
+
+### 使用
+
+``` js
+plugins: [
+ 'meting',
+   {
+      metingApi,
+      meting,
+      aplayer,
+      mobile,
+    },
+]
+```
+
+### 效果
+
+<Meting server="netease" type="song" mid="abcdefg" :lrc-type="3"/>
+
+### 其它音乐插件
+
+[bgm player](https://vuepress-theme-reco.recoluan.com/views/plugins/bgmPlayer.html)
+
+## 5. 看板娘
+
+[插件地址](https://vuepress-theme-reco.recoluan.com/views/plugins/kanbanniang.html)
+
+### 安装
+
+``` sh
+npm install @vuepress-reco/vuepress-plugin-kan-ban-niang
+```
+
+### 使用
+
+``` js
+plugins: [
+  [
+    '@vuepress-reco/vuepress-plugin-kan-ban-niang',
+    {
+      theme: ['blackCat', 'whiteCat', 'haru1', 'haru2', 'haruto', 'koharu', 'izumi', 'shizuku', 'wanko', 'miku', 'z16']
+    }
+  ]
+]
+```
+
+### 效果截图
+
+<img src='https://vuepress-theme-reco.recoluan.com/assets/img/kanbannaing_1.9d4605aa.png'>
+
+## 6. 光标效果
+
+[插件文档](https://moefyit.github.io/moefy-vuepress/packages/cursor-effects.html)
+
+### 安装
+
+``` sh
+npm install vuepress-plugin-cursor-effects
+```
+
+### 使用
+
+``` js
+plugins: [
+  ['cursor-effects', {
+    size: 2, // size of the particle, default: 2
+    shape: 'star', // ['star' | 'circle'], // shape of the particle, default: 'star'
+    zIndex: 999999999, // z-index property of the canvas, default: 999999999
+ }]
+]
+```
+
+## 7. 动态标题
+
+[插件文档](https://moefyit.github.io/moefy-vuepress/packages/dynamic-title.html)
+
+### 安装
+
+``` sh
+npm install vuepress-plugin-dynamic-title
+```
+
+### 使用
+
+``` js
+plugins: [
+  ['dynamic-title', {
+     showIcon: 'https://www.typescriptlang.org/favicon-32x32.png?v=8944a05a8b601855de116c8a56d3b3ae',
+     showText: '客官欢迎回来~',
+     hideIcon: 'https://www.typescriptlang.org/favicon-32x32.png?v=8944a05a8b601855de116c8a56d3b3ae',
+     hideText: '客官不要走嘛~',
+     recoverTime: 2000,
+ }]
+]
+```
+
+## 8. 优化代码展示
+
+### 安装
+
+``` sh
+npm install @vuepress-reco/vuepress-plugin-extract-code
+```
+
+### 使用
+
+``` js
+plugins: [
+    '@vuepress-reco/extract-code'
+  ]
+```
+
+### 效果
+
+<RecoDemo :collapse="true">
+<template slot="code-js">
+<pre>
+plugins: {}
+</pre>
+</template>
+<template slot="code-css">
+<pre>
+body {
+  background-color: skyblue;
+}
+</pre>
+</template>
+</RecoDemo>
+
+## 更多插件
+
+1. [reco插件广场](https://vuepress-theme-reco.recoluan.com/views/other/recommend.html)
+
+2. [VuePress 社区 插件](https://vuepress-community.netlify.app/zh/)
+
+3. [官方插件](https://v1.vuepress.vuejs.org/zh/plugin/)
+
+4. npm 搜 vuepress-plugin 关键字
+
+5. github 搜 vuepress-plugin 关键字
 
 ## 总结
 
