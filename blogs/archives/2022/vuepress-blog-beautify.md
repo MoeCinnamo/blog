@@ -12,7 +12,7 @@ tags:
 
 做博客经常会使用像WordPress、typecho等程序，甚至也有人会使用像 [MX-space](https://github.com/mx-space) 个人空间这样的程序，但是对于我这种服务器渣渣的同学来说，它们非常复杂，而且也不会太稳定。但由于我之前使用过 Vuepress 文档系统，我认为我可以使用 Vuepress 进行优化实现博客的目的。为了丰富站点的功能，也可以直接使用一些现有的插件。
 
-## 教程
+## 模版
 
 对于已经部署好 Github 库的人来说，它非常简单。对于使用服务器的人来说，它也不会有多么复杂。
 
@@ -90,6 +90,10 @@ bgImageStyle: {
 即可将模版安装成功
 
 执行 <code>npm run build</code> 就可以将静态页面部署到 <code>docs/.vuepress/dist</code> 目录中
+
+## 插件
+
+
 
 ## 总结
 
