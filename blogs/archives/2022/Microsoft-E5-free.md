@@ -1,6 +1,6 @@
 ---
 title: 免费的 Microsoft E5 订阅申请及设置自动续订
-date: 2022-05-30
+date: 2022-06-26
 categories:
  - 折腾
 tags:
