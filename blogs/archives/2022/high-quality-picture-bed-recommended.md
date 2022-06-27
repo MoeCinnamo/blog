@@ -97,9 +97,17 @@ tags:
 
 [Hello图床](https://www.helloimg.com)免费图片上传-图片外链-免费公共图床 Hello图床是一款支持多图上传,粘贴上传,URL上传,图片压缩,图片鉴黄等多种实用功能,提供高速稳定的图片上传和外链服务与全球CDN加速服务，需要注册
 
-![Hello图床](https://imgur.com/download/KF6RW3E/)
+![Hello图床](https://www.helloimg.com/images/2022/06/27/ZlXuST.jpg)
 
-## 后言
+## 萌云图床
+
+[萌云图床](https://pics.moecloud.cn) 无需注册，速度还可以，但是最大只能上传500kb，对于上传小图片还可以，大一点就动不动就上传失败。上传需要先将图片进行压缩。
+
+![萌云图床](https://pics.moecloud.cn/images/2022/06/27/www.yalijuda.com_ea371a6-2b05-447a-a9ed-68977e5c30a4_h4oWS_Dun1.jpg)
+
+## 总结
+
+图床繁多，但是需要按照个人需求来。要遵守它的要求，以免被删除。
 
 <br>
 
