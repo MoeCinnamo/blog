@@ -15,13 +15,15 @@ tags:
 
 ## ImgURL 图床
 
-[ImgURL](https://imgurl.org/) （[https://imgurl.org/](https://imgurl.org/)） 是一个比较老牌的免费图床服务，稳定性不错，无需注册。游客限制每日上传10张，单张图片不能超过 5M，支持 HTTPS。诞生于2017年12月,是一款开源图片管理系统(简称图床),无需注册即可支持多图上传、粘贴上传、URL上传,图片压缩、图片鉴黄等多种功能,同时也支持自建。
+[ImgURL](https://imgurl.org/) 是一个比较老牌的免费图床服务，稳定性不错，无需注册。游客限制每日上传10张，单张图片不能超过 5M，支持 HTTPS。诞生于2017年12月,是一款开源图片管理系统(简称图床)，无需注册即可支持多图上传、粘贴上传、URL上传,图片压缩、图片鉴黄等多种功能，速度还可以，有广告，同时也支持自建。
 
-<img src = 'https://s3.bmp.ovh/imgs/2022/06/27/6fcd3c7a0db22f95.jpeg'>
+![ImgURL](https://s3.bmp.ovh/imgs/2022/06/27/cb48befe638232d7.jpeg)
 
 ## PostImage 图床
 
-PostImage（https://postimg.cc/）是一个来自国外的免费图床网站，支持按照一定大小缩放图片及设置图片自动删除。
+[PostImage](https://postimg.cc/) 是一个来自国外的免费图床网站，支持按照一定大小缩放图片及设置图片自动删除，有广告，速度一般。
+
+
 
 ## 后言
 
