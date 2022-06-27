@@ -39,6 +39,31 @@ tags:
 
 ![sm.ms]()
 
+## 图壳
+
+[图壳](https://imgkr.com/) 是一个免费图床，图片服务器托管在国内的 UCloud，无需注册即可上传，无广告，网站上没有注明文件大小限制。每次可批量上传 5 张图片。不过虽然是国内服务器，但似乎做了一定的限速。
+
+![图壳](https://static01.imgkr.com/temp/107234f9114c4891a80e751fc212058d.jpeg)
+
+## 新浪微博
+
+[新浪微博](https://weibo.com/) 曾是最快速稳定的国内图床，图片可永久存储，支持外链。但如今新浪已经限制外链，无法正常在第三方网站上贴图了，已经没有太好的第三方上传图片的方法了，必须[点击此处](https://pic.gimhoy.com)手动登录微博帐号 (要扫码或短信验证) 再上传，有点繁琐。
+
+![新浪微博](https://tva2.sinaimg.cn/large/008qV5Akly8h3n3ve5ug5j31cz0u0ahw.jpg)
+
+## Gimhoy图床
+
+[Gimhoy图床](https://pic.gimhoy.com/onedrive) 是使用微博或OneDrive作为图片存储制作的图床，速度不错，无需注册，也可使用自己的OneDrive账号或微博账号。
+
+![Gimhoy图床](https://tva4.sinaimg.cn/large/008qV5Akly8h3n40m38ncj31ct0u0423.jpg)
+
+## 路过图床
+
+[路过图床](https://imgtu.com/) 也算是一个比较老牌知名的图床网站了，非常稳定，但速度一般。无需注册，有广告，最大支持 10M 图片上传，支持 HTTPS。
+
+![路过图床]()
+
+
 ## 后言
 
 <br>
