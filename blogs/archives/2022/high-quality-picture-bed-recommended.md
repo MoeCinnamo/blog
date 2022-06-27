@@ -33,6 +33,12 @@ tags:
 
 ![ImageHub](https://s1.imagehub.cc/images/2022/06/27/46DA9E8F-02D4-4ABC-831B-D4DCB08D2C8B.jpg)
 
+## sm.ms
+
+[sm.ms](https://sm.ms/) 是一个比较知名的老牌的图床网站，支持免费图片外链，速度有点慢，强制注册才可使用。支持原图，支持 HTTPS、生成HTML、BBCode、Markdown的分享代码。支持格式包括 JPG、JPEG、GIF、PNG 及 BMP，可以批量上传 10 张图片。
+
+![sm.ms]()
+
 ## 后言
 
 <br>
