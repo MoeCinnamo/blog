@@ -63,7 +63,35 @@ tags:
 
 ![路过图床](https://s1.ax1x.com/2022/06/27/jZCIY9.jpg)
 
+## Z4A 图床
 
+[Z4A 图床](https://z4a.net/) 需要注册后才能上传，支持 JPG PNG BMP GIF WEBP 等格式，无广告，速度快，单文件支持 50 MB，这点比较实在，支持 HTTPS。
+
+![Z4A 图床](https://z4a.net/images/2022/06/27/4A579D60-33C4-4DE4-B618-030458831E9E.jpg)
+
+## 极兔图床
+
+[极兔图床](https://pic.jitudisk.com) 无需注册即可上传，最大可上传 30 M 大小的图片，支持 HTTPS，无广告，速度快。
+
+![极兔图床](https://pic.jitudisk.com/public/2022/06/27/b7d0a0999509b.jpeg)
+
+## imgbb 图床
+
+[imgbb 图床](https://imgbb.com) 支持上传 JPG PNG BMP GIF TIF WEBP HEIC PDF 等格式，无需注册，支持到期自动删除，有广告，速度不是很快，最大支持32MB，支持 https。
+
+![imgbb 图床](https://i.ibb.co/dgYF5Mx/B0-C69-A87-B3-DB-4668-B19-B-ED302-D545247.jpg)
+
+## 老王图床
+
+[老王图床](https://img.gejiba.com) 需注册，可以上传 JPG PNG BMP GIF WEBP 等格式，无广告，支是国内服务器和 CDN，图片加载速度非常快！首页有些图片可能打擦边球。
+
+![老王图床](https://img.gejiba.com/images/4d3994634f5f275343b24f9c6d909bd9.jpg)
+
+## imgur 图床
+
+[imgur 图床](https://imgur.com/) 是全球最知名的免费图床网站之一，国外无数网友使用它来贴图或分享图片，无需注册，支持。稳定性很强，有亚太区 CDN 节点，速度还算不错，但可惜在国内访问时好时坏。无广告，它的分享功能有点奇怪。
+
+![imgur 图床](https://imgur.com/download/KF6RW3E/)
 
 ## 后言
 
