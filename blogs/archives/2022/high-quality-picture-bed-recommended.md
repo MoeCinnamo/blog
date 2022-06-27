@@ -35,7 +35,7 @@ tags:
 
 ## sm.ms
 
-[sm.ms](https://sm.ms/) 是一个比较知名的老牌的图床网站，支持免费图片外链，速度有点慢，强制注册才可使用，有广告。支持原图，支持 HTTPS、生成HTML、BBCode、Markdown的分享代码。支持格式包括 JPG、JPEG、GIF、PNG 及 BMP，可以批量上传 10 张图片。
+[sm.ms](https://sm.ms/) 是一个比较知名的老牌的图床网站，支持免费图片外链，速度不稳定，国内有时无法上传，强制注册才可使用，有广告。支持原图，支持 HTTPS、生成HTML、BBCode、Markdown的分享代码。支持格式包括 JPG、JPEG、GIF、PNG 及 BMP，单个文件最大5MB，可以批量上传 10 张图片。
 
 ![sm.ms]()
 
