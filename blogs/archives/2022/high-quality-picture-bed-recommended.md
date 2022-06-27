@@ -29,13 +29,13 @@ tags:
 
 ## ImageHub 图床
 
-[ImageHub](https://www.imagehub.cc) 是一个来自国外的免费图床网站，支持按照一定大小缩放图片及设置图片自动删除，强制注册才可使用。在海外的速度非常不错，国内速度一般。
+[ImageHub](https://www.imagehub.cc) 是一个来自国外的免费图床网站，支持按照一定大小缩放图片及设置图片自动删除，强制注册才可使用。有广告，在海外的速度非常不错，国内速度一般。
 
 ![ImageHub](https://s1.imagehub.cc/images/2022/06/27/46DA9E8F-02D4-4ABC-831B-D4DCB08D2C8B.jpg)
 
 ## sm.ms
 
-[sm.ms](https://sm.ms/) 是一个比较知名的老牌的图床网站，支持免费图片外链，速度有点慢，强制注册才可使用。支持原图，支持 HTTPS、生成HTML、BBCode、Markdown的分享代码。支持格式包括 JPG、JPEG、GIF、PNG 及 BMP，可以批量上传 10 张图片。
+[sm.ms](https://sm.ms/) 是一个比较知名的老牌的图床网站，支持免费图片外链，速度有点慢，强制注册才可使用，有广告。支持原图，支持 HTTPS、生成HTML、BBCode、Markdown的分享代码。支持格式包括 JPG、JPEG、GIF、PNG 及 BMP，可以批量上传 10 张图片。
 
 ![sm.ms]()
 
