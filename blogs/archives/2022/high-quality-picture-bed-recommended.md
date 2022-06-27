@@ -23,7 +23,7 @@ tags:
 
 [PostImage](https://postimg.cc/) 是一个来自国外的免费图床网站，支持按照一定大小缩放图片及设置图片自动删除，有广告，速度一般。
 
-
+![PostImage](https://i.postimg.cc/mkyBMBBz/A569-DF05-644-E-49-C6-8869-77-C57-F6-FFFBA.jpg)
 
 ## 后言
 
