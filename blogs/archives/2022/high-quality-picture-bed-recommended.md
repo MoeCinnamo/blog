@@ -93,6 +93,12 @@ tags:
 
 ![imgur 图床](https://imgur.com/download/KF6RW3E/)
 
+## Hello图床
+
+[Hello图床](https://www.helloimg.com)免费图片上传-图片外链-免费公共图床 Hello图床是一款支持多图上传,粘贴上传,URL上传,图片压缩,图片鉴黄等多种实用功能,提供高速稳定的图片上传和外链服务与全球CDN加速服务，需要注册
+
+![Hello图床](https://imgur.com/download/KF6RW3E/)
+
 ## 后言
 
 <br>
