@@ -5,7 +5,7 @@ author: Wibus
 categories:
  - 学习
 tags:
- - 分享
+ - 社会
 ---
 
 # 高底线，可推动营造美好社会
