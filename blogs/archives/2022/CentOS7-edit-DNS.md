@@ -45,15 +45,24 @@ vim /etc/resolv.conf
 <pre>
 cd /etc/sysconfig/network-scripts
 ls
-
+我这边是 ifcfg-eth0 ，每台机器都不尽相同，选第一个
+vi ifcfg-eth0
 </pre>
 </template>
 <template slot="code-conf">
 <pre>
-
+在最后添加：
+DNS1=114.114.114.114
+DNS2=8.8.8.8
 </pre>
 </template>
 </RecoDemo>
+
+然后重启 NetWork Manager 服务即可
+
+## 总结
+
+一种方法不行，不妨可以试试另一种方法，会发现一片新天地哦！
 
 <br>
 
