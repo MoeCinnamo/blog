@@ -1,0 +1,266 @@
+{
+  "name": "Cat-in-Heaven",
+  "short_name": "CIH",
+  "description": "天堂里健康快乐的小猫咪",
+  "links": [
+    {
+      "src": "/links/wibus.webp",
+      "sizes": "576x576",
+      "type": "image/webp"
+    },
+    {
+      "src": "/links/Timochan.webp",
+      "sizes": "625x560",
+      "type": "image/webp"
+    },
+    {
+      "src": "/links/xpblog.webp",
+      "sizes": "475x324",
+      "type": "image/webp"
+    }
+  ],
+  "bgimage": [
+    {
+      "src": "/bgimage/1.webp",
+      "sizes": "1920x1080",
+      "type": "image/webp"
+    }
+  ],
+  "51.la": [
+    {
+      "src": "/51.la/perf/js-sdk-perf.esm.min.js",
+      "type": "text/javascript"
+    },
+    {
+      "src": "/51.la/v6/js-sdk-pro.min.js",
+      "type": "text/javascript"
+    },
+    {
+      "src": "/51.la/v6/event/js-sdk-event.min.js",
+      "type": "text/javascript"
+    }
+  ],
+  "KanBanNiang": [
+    {
+      "src": "/KanBanNiang/shizuku/shizuku.model.json",
+      "type": "text/json"
+    },
+    {
+      "src": "/KanBanNiang/shizuku/shizuku.physics.json",
+      "type": "text/json"
+    },
+    {
+      "src": "/KanBanNiang/shizuku/shizuku.pose.json",
+      "type": "text/json"
+    },
+    {
+      "src": "/KanBanNiang/shizuku/exp/f01.exp.json",
+      "type": "text/json"
+    },
+    {
+      "src": "/KanBanNiang/shizuku/exp/f02.exp.json",
+      "type": "text/json"
+    },
+    {
+      "src": "/KanBanNiang/shizuku/exp/f03.exp.json",
+      "type": "text/json"
+    },
+    {
+      "src": "/KanBanNiang/shizuku/exp/f04.exp.json",
+      "type": "text/json"
+    },
+    {
+      "src": "/KanBanNiang/shizuku/moc/shizuku.moc",
+      "type": "text/moc"
+    },
+    {
+      "src": "/KanBanNiang/shizuku/moc/shizuku.1024/texture_00.webp",
+      "sizes": "1024x1024",
+      "type": "image/webp"
+    },
+    {
+      "src": "/KanBanNiang/shizuku/moc/shizuku.1024/texture_01.webp",
+      "sizes": "1024x1024",
+      "type": "image/webp"
+    },
+    {
+      "src": "/KanBanNiang/shizuku/moc/shizuku.1024/texture_02.webp",
+      "sizes": "1024x1024",
+      "type": "image/webp"
+    },
+    {
+      "src": "/KanBanNiang/shizuku/moc/shizuku.1024/texture_03.webp",
+      "sizes": "1024x1024",
+      "type": "image/webp"
+    },
+    {
+      "src": "/KanBanNiang/shizuku/moc/shizuku.1024/texture_04.webp",
+      "sizes": "1024x1024",
+      "type": "image/webp"
+    },
+    {
+      "src": "/KanBanNiang/shizuku/moc/shizuku.1024/texture_05.webp",
+      "sizes": "1024x1024",
+      "type": "image/webp"
+    },
+    {
+      "src": "/KanBanNiang/shizuku/mtn/flickHead_00.mtn",
+      "type": "text/mtn"
+    },
+    {
+      "src": "/KanBanNiang/shizuku/mtn/flickHead_01.mtn",
+      "type": "text/mtn"
+    },
+    {
+      "src": "/KanBanNiang/shizuku/mtn/flickHead_02.mtn",
+      "type": "text/mtn"
+    },
+    {
+      "src": "/KanBanNiang/shizuku/mtn/idle_00.mtn",
+      "type": "text/mtn"
+    },
+    {
+      "src": "/KanBanNiang/shizuku/mtn/idle_01.mtn",
+      "type": "text/mtn"
+    },
+    {
+      "src": "/KanBanNiang/shizuku/mtn/idle_02.mtn",
+      "type": "text/mtn"
+    },
+    {
+      "src": "/KanBanNiang/shizuku/mtn/pinchIn_00.mtn",
+      "type": "text/mtn"
+    },
+    {
+      "src": "/KanBanNiang/shizuku/mtn/pinchIn_01.mtn",
+      "type": "text/mtn"
+    },
+    {
+      "src": "/KanBanNiang/shizuku/mtn/pinchIn_02.mtn",
+      "type": "text/mtn"
+    },
+    {
+      "src": "/KanBanNiang/shizuku/mtn/pinchOut_00.mtn",
+      "type": "text/mtn"
+    },
+    {
+      "src": "/KanBanNiang/shizuku/mtn/pinchOut_01.mtn",
+      "type": "text/mtn"
+    },
+    {
+      "src": "/KanBanNiang/shizuku/mtn/pinchOut_02.mtn",
+      "type": "text/mtn"
+    },
+    {
+      "src": "/KanBanNiang/shizuku/mtn/shake_00.mtn",
+      "type": "text/mtn"
+    },
+    {
+      "src": "/KanBanNiang/shizuku/mtn/shake_01.mtn",
+      "type": "text/mtn"
+    },
+    {
+      "src": "/KanBanNiang/shizuku/mtn/shake_02.mtn",
+      "type": "text/mtn"
+    },
+    {
+      "src": "/KanBanNiang/shizuku/mtn/tapBody_00.mtn",
+      "type": "text/mtn"
+    },
+    {
+      "src": "/KanBanNiang/shizuku/mtn/tapBody_01.mtn",
+      "type": "text/mtn"
+    },
+    {
+      "src": "/KanBanNiang/shizuku/mtn/tapBody_02.mtn",
+      "type": "text/mtn"
+    },
+    {
+      "src": "/KanBanNiang/shizuku/snd/flickHead_00.mp3",
+      "type": "sound/mp3"
+    },
+    {
+      "src": "/KanBanNiang/shizuku/snd/flickHead_01.mp3",
+      "type": "sound/mp3"
+    },
+    {
+      "src": "/KanBanNiang/shizuku/snd/flickHead_02.mp3",
+      "type": "sound/mp3"
+    },
+    {
+      "src": "/KanBanNiang/shizuku/snd/pinchIn_00.mp3",
+      "type": "sound/mp3"
+    },
+    {
+      "src": "/KanBanNiang/shizuku/snd/pinchIn_01.mp3",
+      "type": "sound/mp3"
+    },
+    {
+      "src": "/KanBanNiang/shizuku/snd/pinchIn_02.mp3",
+      "type": "sound/mp3"
+    },
+    {
+      "src": "/KanBanNiang/shizuku/snd/pinchOut_00.mp3",
+      "type": "sound/mp3"
+    },
+    {
+      "src": "/KanBanNiang/shizuku/snd/pinchOut_01.mp3",
+      "type": "sound/mp3"
+    },
+    {
+      "src": "/KanBanNiang/shizuku/snd/pinchOut_02.mp3",
+      "type": "sound/mp3"
+    },
+    {
+      "src": "/KanBanNiang/shizuku/snd/shake_00.mp3",
+      "type": "sound/mp3"
+    },
+    {
+      "src": "/KanBanNiang/shizuku/snd/shake_01.mp3",
+      "type": "sound/mp3"
+    },
+    {
+      "src": "/KanBanNiang/shizuku/snd/shake_02.mp3",
+      "type": "sound/mp3"
+    },
+    {
+      "src": "/KanBanNiang/shizuku/snd/tapBody_00.mp3",
+      "type": "sound/mp3"
+    },
+    {
+      "src": "/KanBanNiang/shizuku/snd/tapBody_01.mp3",
+      "type": "sound/mp3"
+    },
+    {
+      "src": "/KanBanNiang/shizuku/snd/tapBody_02.mp3",
+      "type": "sound/mp3"
+    }
+  ],
+  "myssl": [
+    {
+      "src": "/myssl/myssl-id.webp",
+      "sizes": "625x625",
+      "type": "image/webp"
+    },
+    {
+      "src": "/myssl/myssl-id1.webp",
+      "sizes": "452x226",
+      "type": "image/webp"
+    },
+    {
+      "src": "/myssl/myssl-id2.webp",
+      "sizes": "324x456",
+      "type": "image/webp"
+    },
+    {
+      "src": "/myssl/myssl-id3.webp",
+      "sizes": "448x237",
+      "type": "image/webp"
+    }
+  ],
+  "robots": "/robots.txt",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#fff"
+}
