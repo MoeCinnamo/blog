@@ -38,7 +38,22 @@ vim /etc/resolv.conf
 
 ## 再次修改
 
+我吸取了教训，原来它需要修改网卡配置文件。
 
+<RecoDemo :collapse="true">
+<template slot="code-shell">
+<pre>
+cd /etc/sysconfig/network-scripts
+ls
+
+</pre>
+</template>
+<template slot="code-conf">
+<pre>
+
+</pre>
+</template>
+</RecoDemo>
 
 <br>
 
